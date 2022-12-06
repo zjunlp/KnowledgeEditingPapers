@@ -19,7 +19,7 @@ This is a collection of research and review papers of Model Editing. Any suggest
 - Shibani Santurkar, Dimitris Tsipras, Mahalaxmi Elango, David Bau, Antonio Torralba, Aleksander Madry.<br />
 **Editing a classifier by rewriting its prediction rules**. (NeurIPS 2021) [[paper](https://proceedings.neurips.cc/paper/2021/hash/c46489a2d5a9a9ecfc53b17610926ddd-Abstract.html)] [[code](https://github.com/MadryLab/EditingClassifiers)]
 
-- Nicola De Cao, Wilker Aziz, Ivan Titov.
+- Nicola De Cao, Wilker Aziz, Ivan Titov.<br />
 **Editing Factual Knowledge in Language Models**. (EMNLP 2021) [[paper](https://arxiv.org/abs/2104.08164)] [[code](https://github.com/nicola-decao/KnowledgeEditor)]
 
 - Kyungjae Lee, Wookje Han, Seung-won Hwang, Hwaran Lee, Joonsuk Park, Sang-Woo Lee.<br />
@@ -29,7 +29,7 @@ This is a collection of research and review papers of Model Editing. Any suggest
 **Language Anisotropic Cross-Lingual Model Editing**. [[paper](https://arxiv.org/abs/2205.12677)] 
 
 - Ryutaro Tanno, Melanie F. Pradier, Aditya Nori, Yingzhen Li.<br />
-**Repairing Neural Networks by Leaving the Right Past Behind**. [[paper](https://arxiv.org/abs/2207.04806)] []
+**Repairing Neural Networks by Leaving the Right Past Behind**. [[paper](https://arxiv.org/abs/2207.04806)]
 
 - Eric Mitchell, Charles Lin, Antoine Bosselut, Chelsea Finn, Christopher D. Manning.<br />
 **Fast Model Editing at Scale**. (ICLR 2022) [[paper](https://arxiv.org/abs/2110.11309)] [[code](https://github.com/eric-mitchell/mend)] [[page](https://sites.google.com/view/mend-editing)]
