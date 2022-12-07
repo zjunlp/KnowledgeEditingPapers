@@ -1,4 +1,4 @@
-# Paper Collection of Model Editing
+# Model Editing Papers
 
 Model Editing is an interesting research area, which helps large models (especially large pre-trained models) generate expected output and perform more controllable without re-training. Model Editing has strong connections with following topics.
 
