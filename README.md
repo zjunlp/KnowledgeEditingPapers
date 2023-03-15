@@ -48,6 +48,9 @@ This is a collection of research and review papers of Model Editing. Any suggest
 - Thomas Hartvigsen, Swami Sankaranarayanan, Hamid Palangi, Yoon Kim, Marzyeh Ghassemi.<br />
 **Aging with GRACE: Lifelong Model Editing with Discrete Key-Value Adaptors**. [[paper](https://arxiv.org/abs/2211.11031)] [[code](https://github.com/thartvigsen/grace)]
 
+- Peter Hase, Mohit Bansal, Been Kim, Asma Ghandeharioun.<br />
+**Does Localization Inform Editing? Surprising Differences in Causality-Based Localization vs. Knowledge Editing in Language Models.** [[paper](https://arxiv.org/pdf/2301.04213.pdf)] [[code](https://github.com/google/belief-localization)]
+
 ### Model Gating and Memory Enhanced
 
 - Eric Mitchell, Charles Lin, Antoine Bosselut, Christopher D. Manning, Chelsea Finn.<br />
