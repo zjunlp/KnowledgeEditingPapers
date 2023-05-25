@@ -61,6 +61,12 @@ This is a collection of research and review papers of Model Editing. Any suggest
 - Damai Dai, Wenbin Jiang, Qingxiu Dong, Yajuan Lyu, Qiaoqiao She, Zhifang Sui.<br />
   **Neural Knowledge Bank for Pretrained Transformers**.[[paper](http://arxiv.org/abs/2208.00399)]
 
+
+#### In Context Edit
+- Ce Zheng, Lei Li, Qingxiu Dong, Yuxuan Fan, Zhiyong Wu, Jingjing Xu, Baobao Chang.<br />
+**Can We Edit Factual Knowledge by In-Context Learning?**.[[paper](https://arxiv.org/abs/2305.12740)]
+- Yasumasa Onoe, Michael J.Q. Zhang, Shankar Padmanabhan, Greg Durrett, Eunsol Choi.<br />
+**Can LMs Learn New Entities from Descriptions? Challenges in Propagating Injected Knowledge** .[[paper](https://arxiv.org/abs/2305.01651)]
 ### Modify Parameter
 
 #### Meta-learning
