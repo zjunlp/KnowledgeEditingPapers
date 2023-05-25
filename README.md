@@ -10,12 +10,12 @@ Must-read papers on [model editing](https://arxiv.org/abs/2305.13172) with found
 ## Content
 
 - [Why Model Editing?](#why-model-editing)
-- [Keywords ](#keywords)
+- [Keywords](#keywords)
 - [Papers](#papers)
   - [Overview](#survey-and-analysis)
-  - [Preserve Parameter](#preserve-parameter)
-  - [Modify Parameter](#modify-parameter)
-  - [More Papers Related](#more-papers-related)
+  - [Preserve Parameters](#preserve-parameters)
+  - [Modify Parameters](#modify-parameters)
+  - [More Related Papers](#more-related-papers)
 - [Contribution](#contribution)
   - [Contributors](#contributors)
   - [Contributing to this paper list](#contributing-to-this-paper-list)
@@ -33,11 +33,13 @@ Model Editing has strong connections with following topics.
 
 ## Papers
 This is a collection of research and review papers of Model Editing. Any suggestions and pull requests are welcome for better sharing of latest research progress.
+
 ### Suvery and Analysis
+
 **Editing Large Language Models: Problems, Methods, and Opportunities**. [[paper](https://arxiv.org/abs/2305.13172)] 
 <div align=center><img src="./img/overview.jpg" width="100%" height="80%" /></div>
 
-### Preserve Parameter
+### Preserve Parameters
 
 #### Memory-based
 
@@ -73,7 +75,8 @@ This is a collection of research and review papers of Model Editing. Any suggest
 **Can We Edit Factual Knowledge by In-Context Learning?**.[[paper](https://arxiv.org/abs/2305.12740)]
 - Yasumasa Onoe, Michael J.Q. Zhang, Shankar Padmanabhan, Greg Durrett, Eunsol Choi.<br />
 **Can LMs Learn New Entities from Descriptions? Challenges in Propagating Injected Knowledge** .[[paper](https://arxiv.org/abs/2305.01651)]
-### Modify Parameter
+
+### Modify Parameters
 
 #### Meta-learning
 
