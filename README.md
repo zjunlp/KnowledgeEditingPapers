@@ -115,7 +115,7 @@ This is a collection of research and review papers of Model Editing. Any suggest
 - Damai Dai , Li Dong, Yaru Hao, Zhifang Sui, Baobao Chang, Furu Wei.<br />**Knowledge Neurons in Pretrained Transformers**.(ACL 2022)[[paper](http://arxiv.org/abs/2104.08696)] [[code](https://github.com/Hunter-DDM/knowledge-neurons)] [[code by EleutherAI](https://github.com/EleutherAI/knowledge-neurons)]
 
 
-### More Papers Related
+### More Related Papers
 
 - Robert L. Logan IV, Alexandre Passos, Sameer Singh, Ming-Wei Chang.<br />
 **FRUIT: Faithfully Reflecting Updated Information in Text**. (NAACL 2022) [[paper]()] [[code]()]
