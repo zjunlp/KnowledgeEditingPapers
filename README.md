@@ -9,7 +9,7 @@ Must-read papers on [model editing](https://arxiv.org/abs/2305.13172) with found
 
 ## Content
 
-- [Why Model Editing?](#why-tool-learning)
+- [Why Model Editing?](#why-model-editing)
 - [Keywords ](#keywords)
 - [Papers](#papers)
   - [Overview](#survey-and-analysis)
@@ -22,13 +22,14 @@ Must-read papers on [model editing](https://arxiv.org/abs/2305.13172) with found
 
 
 ## Why Model Editing?
-Model Editing is an interesting research area, which helps large models (especially large pre-trained models) generate expected output and perform more controllable without re-training. 
+Model Editing is a compelling field of research that focuses on facilitating efficient modifications to the behavior of models, particularly **foundation models**. The aim is to implement these changes within a specified scope of interest without negatively affecting the model's performance across a broader range of inputs.
+
 ## Keywords 
 Model Editing has strong connections with following topics.
-- Fixing model bugs and model patching
-- Language models as knowledge base
-- Locating facts in language models
-- Lifelong learning, continual learning and etc.
+- Updating and fixing bugs for large language models
+- Language models as knowledge base, locating knowledge in large language models
+- Lifelong learning, unlearning and etc.
+- Security and privacy for large language models
 
 ## Papers
 This is a collection of research and review papers of Model Editing. Any suggestions and pull requests are welcome for better sharing of latest research progress.
