@@ -102,10 +102,3 @@ This is a collection of research and review papers of Model Editing. Any suggest
 
 - Xin Cheng, Yankai Lin, Xiuying Chen, Dongyan Zhao, Rui Yan.<br />**Decouple knowledge from paramters for plug-and-play language modeling**. (ACL2023 Findings)[[paper](http://arxiv.org/abs/2305.11564)] [[code](https://github.com/Hannibal046/PlugLM)]
 
-  
-
-[ (https://github.com/Hunter-DDM/knowledge-neurons)]: 
-[(http://arxiv.org/abs/2104.08696)]: 
-[(https://github.com/Hannibal046/PlugLM)]: 
-
-[(http://arxiv.org/abs/2305.11564)]: 
