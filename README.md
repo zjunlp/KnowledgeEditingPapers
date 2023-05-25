@@ -19,19 +19,27 @@ This is a collection of research and review papers of Model Editing. Any suggest
 **Memory-Based Model Editing at Scale**. (ICML 2022) [[paper](https://arxiv.org/abs/2206.06520)] [[code](https://github.com/eric-mitchell/serac)] [[demo](https://sites.google.com/view/serac-editing)]
 
 - Shikhar Murty, Christopher D. Manning, Scott M. Lundberg, Marco Túlio Ribeiro.<br />
-**Fixing Model Bugs with Natural Language Patches**. (EMNLP 2022) [[paper](https://arxiv.org/abs/2211.03318)] [[code](https://github.com/MurtyShikhar/LanguagePatching)]
-
+  **Fixing Model Bugs with Natural Language Patches**. (EMNLP 2022) [[paper](https://arxiv.org/abs/2211.03318)] [[code](https://github.com/MurtyShikhar/LanguagePatching)]
 - Aman Madaan, Niket Tandon, Peter Clark, Yiming Yang.<br />
-**MemPrompt: Memory-assisted Prompt Editing with User Feedback**. (EMNLP 2022) [[paper](https://arxiv.org/abs/2201.06009)] [[code](https://github.com/madaan/memprompt)] [[page](https://memprompt.com/)] [[video](https://www.youtube.com/watch?v=Ld7R02bOiNQ&t=1s)]
-
+  **MemPrompt: Memory-assisted Prompt Editing with User Feedback**. (EMNLP 2022) [[paper](https://arxiv.org/abs/2201.06009)] [[code](https://github.com/madaan/memprompt)] [[page](https://memprompt.com/)] [[video](https://www.youtube.com/watch?v=Ld7R02bOiNQ&t=1s)]
 - Daliang Li, Ankit Singh Rawat, Manzil Zaheer, Xin Wang, Michal Lukasik, Andreas Veit, Felix Yu, Sanjiv Kumar.<br />
-**Large Language Models with Controllable Working Memory**. [[paper](https://arxiv.org/abs/2211.05110)]
-
+  **Large Language Models with Controllable Working Memory**. [[paper](https://arxiv.org/abs/2211.05110)]
 - Qingxiu Dong, Damai Dai, Yifan Song, Jingjing Xu, Zhifang Sui, Lei Li.<br />
-**CaliNet: Calibrating Factual Knowledge in Pretrained Language Models**. (EMNLP 2022) [[paper](https://arxiv.org/abs/2210.03329)] [[code](https://github.com/dqxiu/CaliNet)]
-
+  **Calibrating Factual Knowledge in Pretrained Language Models**. (EMNLP 2022) [[paper](https://arxiv.org/abs/2210.03329)] [[code](https://github.com/dqxiu/CaliNet)]
 - Zeyu Huang, Yikang Shen, Xiaofeng Zhang, Jie Zhou, Wenge Rong, Zhang Xiong.<br />
-**Transformer-Patcher: One Mistake worth One Neuron**. (ICLR 2023) [[paper](https://arxiv.org/abs/2301.09785)] [[code](https://github.com/ZeroYuHuang/Transformer-Patcher)]
+  **Transformer-Patcher: One Mistake worth One Neuron**. (ICLR 2023) [[paper](https://arxiv.org/abs/2301.09785)] [[code](https://github.com/ZeroYuHuang/Transformer-Patcher)]
+- Thomas Hartvigsen, Swami Sankaranarayanan, Hamid Palangi, Yoon Kim, Marzyeh Ghassemi.<br />
+  **Aging with GRACE: Lifelong Model Editing with Discrete Key-Value Adaptors**. [[paper](https://arxiv.org/abs/2211.11031)] [[code](https://github.com/thartvigsen/grace)]
+
+#### Change LM's representation space
+
+- Evan Hernandez, Belinda Z. Li, Jacob Andreas.<br />
+  **Measuring and Manipulating Knowledge Representations in Language Models**.[[paper](http://arxiv.org/abs/2304.00740)] [[code](https://github.com/evandez/REMEDI)]
+
+#### Memory extension
+
+- Damai Dai, Wenbin Jiang, Qingxiu Dong, Yajuan Lyu, Qiaoqiao She, Zhifang Sui.<br />
+  **Neural Knowledge Bank for Pretrained Transformers**.[[paper](http://arxiv.org/abs/2208.00399)]
 
 ### Modify Parameter
 
@@ -67,13 +75,13 @@ This is a collection of research and review papers of Model Editing. Any suggest
 **Mass-Editing Memory in a Transformer**. [[paper](https://arxiv.org/abs/2210.07229)] [[code](https://github.com/kmeng01/memit)] [[page](https://memit.baulab.info/)] [[demo](https://memit.baulab.us/#/)]
 
 - Peter Hase, Mona Diab, Asli Celikyilmaz, Xian Li, Zornitsa Kozareva, Veselin Stoyanov, Mohit Bansal, Srinivasan Iyer.<br />
-**Do Language Models Have Beliefs? Methods for Detecting, Updating, and Visualizing Model Beliefs**. [[paper](https://arxiv.org/pdf/2111.13654.pdf)] [[code](https://github.com/peterbhase/SLAG-Belief-Updating)]
-
-- Thomas Hartvigsen, Swami Sankaranarayanan, Hamid Palangi, Yoon Kim, Marzyeh Ghassemi.<br />
-**Aging with GRACE: Lifelong Model Editing with Discrete Key-Value Adaptors**. [[paper](https://arxiv.org/abs/2211.11031)] [[code](https://github.com/thartvigsen/grace)]
+  **Do Language Models Have Beliefs? Methods for Detecting, Updating, and Visualizing Model Beliefs**. [[paper](https://arxiv.org/pdf/2111.13654.pdf)] [[code](https://github.com/peterbhase/SLAG-Belief-Updating)]
 
 - Peter Hase, Mohit Bansal, Been Kim, Asma Ghandeharioun.<br />
-**Does Localization Inform Editing? Surprising Differences in Causality-Based Localization vs. Knowledge Editing in Language Models.** [[paper](https://arxiv.org/pdf/2301.04213.pdf)] [[code](https://github.com/google/belief-localization)]
+  **Does Localization Inform Editing? Surprising Differences in Causality-Based Localization vs. Knowledge Editing in Language Models.** [[paper](https://arxiv.org/pdf/2301.04213.pdf)] [[code](https://github.com/google/belief-localization)] 
+
+- Damai Dai , Li Dong, Yaru Hao, Zhifang Sui, Baobao Chang, Furu Wei.<br />**Knowledge Neurons in Pretrained Transformers**.(ACL 2022)[[paper](http://arxiv.org/abs/2104.08696)] [[code](https://github.com/Hunter-DDM/knowledge-neurons)] [[code by EleutherAI](https://github.com/EleutherAI/knowledge-neurons)]
+
 
 ### More Papers Related
 
@@ -90,4 +98,7 @@ This is a collection of research and review papers of Model Editing. Any suggest
 **Prompting GPT-3 To Be Reliable**. [[paper](https://arxiv.org/abs/2210.09150)]
 
 - Gabriel Ilharco, Mitchell Wortsman, Samir Yitzhak Gadre, Shuran Song, Hannaneh Hajishirzi, Simon Kornblith, Ali Farhadi, Ludwig Schmidt.<br />
-**Patching open-vocabulary models by interpolating weights**. (NeurIPS 2022) [[paper](https://arxiv.org/abs/2208.05592)] [[code](https://github.com/mlfoundations/patching)]
+  **Patching open-vocabulary models by interpolating weights**. (NeurIPS 2022) [[paper](https://arxiv.org/abs/2208.05592)] [[code](https://github.com/mlfoundations/patching)]
+
+- Xin Cheng, Yankai Lin, Xiuying Chen, Dongyan Zhao, Rui Yan.<br />**Decouple knowledge from paramters for plug-and-play language modeling**. (ACL2023 Findings)[[paper](http://arxiv.org/abs/2305.11564)] [[code](https://github.com/Hannibal046/PlugLM)]
+
