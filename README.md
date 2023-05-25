@@ -1,15 +1,34 @@
 # Model Editing Papers
-
+Must-read papers on [model editing](https://arxiv.org/abs/2305.13172) with foundation models.
 ![](https://img.shields.io/github/last-commit/zjunlp/ModelEditingPapers?color=green) ![](https://img.shields.io/badge/paper%20numbers-20-yellow) ![visitors](https://visitor-badge.glitch.me/badge?page_id=zjunlp.ModelEditingPapers&left_color=grey&right_color=orange)
+## Content
 
-Model Editing is an interesting research area, which helps large models (especially large pre-trained models) generate expected output and perform more controllable without re-training. Model Editing has strong connections with following topics.
+- [Why Model Editing?](#why-tool-learning)
+- [Keywords ](#keywords)
+- [Papers](#papers)
+  - [Overview](#survey-and-analysis)
+  - [Preserve Parameter](#preserve-parameter)
+  - [Modify Parameter](#modify-parameter)
+  - [More Papers Related](#more-papers-related)
+- [Contribution](#contribution)
+  - [Contributors](#contributors)
+  - [Contributing to this paper list](#contributing-to-this-paper-list)
 
+
+## Why Model Editing?
+Model Editing is an interesting research area, which helps large models (especially large pre-trained models) generate expected output and perform more controllable without re-training. 
+## Keywords 
+Model Editing has strong connections with following topics.
 - Fixing model bugs and model patching
 - Language models as knowledge base
 - Locating facts in language models
 - Lifelong learning, continual learning and etc.
 
+## Papers
 This is a collection of research and review papers of Model Editing. Any suggestions and pull requests are welcome for better sharing of latest research progress.
+### Suvery and Analysis
+**Editing Large Language Models: Problems, Methods, and Opportunities**. [[paper](https://arxiv.org/abs/2305.13172)] 
+<div align=center><img src="./img/overview.jpg" width="100%" height="80%" /></div>
 
 ### Preserve Parameter
 
@@ -102,3 +121,12 @@ This is a collection of research and review papers of Model Editing. Any suggest
 
 - Xin Cheng, Yankai Lin, Xiuying Chen, Dongyan Zhao, Rui Yan.<br />**Decouple knowledge from paramters for plug-and-play language modeling**. (ACL2023 Findings)[[paper](http://arxiv.org/abs/2305.11564)] [[code](https://github.com/Hannibal046/PlugLM)]
 
+### Contributors
+
+<a href="https://github.com/zjunlp/
+ModelEditingPapers/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=zjunlp/ModelEditingPapers" />
+</a>
+### Contributing to this paper list
+
+-  There are cases where we miss important works in this field, please contribute to this repo! Thanks for the efforts in advance.
