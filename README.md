@@ -1,38 +1,45 @@
 # Model Editing Papers
+
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/zjunlp/ModelEditingPapers) 
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+![](https://img.shields.io/github/last-commit/zjunlp/ModelEditingPapers?color=green) 
+![](https://img.shields.io/badge/PRs-Welcome-red)
+
 Must-read papers on [model editing](https://arxiv.org/abs/2305.13172) with foundation models.
 
-![](https://img.shields.io/github/last-commit/zjunlp/ModelEditingPapers?color=green) ![](https://img.shields.io/badge/paper%20numbers-20-yellow) ![visitors](https://visitor-badge.glitch.me/badge?page_id=zjunlp.ModelEditingPapers&left_color=grey&right_color=orange)
 ## Content
 
-- [Why Model Editing?](#why-tool-learning)
-- [Keywords ](#keywords)
+- [Why Model Editing?](#why-model-editing)
+- [Keywords](#keywords)
 - [Papers](#papers)
   - [Overview](#survey-and-analysis)
-  - [Preserve Parameter](#preserve-parameter)
-  - [Modify Parameter](#modify-parameter)
-  - [More Papers Related](#more-papers-related)
+  - [Preserve Parameters](#preserve-parameters)
+  - [Modify Parameters](#modify-parameters)
+  - [More Related Papers](#more-related-papers)
 - [Contribution](#contribution)
   - [Contributors](#contributors)
   - [Contributing to this paper list](#contributing-to-this-paper-list)
 
 
 ## Why Model Editing?
-Model Editing is an interesting research area, which helps large models (especially large pre-trained models) generate expected output and perform more controllable without re-training. 
+Model Editing is a compelling field of research that focuses on facilitating efficient modifications to the behavior of models, particularly **foundation models**. The aim is to implement these changes within a specified scope of interest without negatively affecting the model's performance across a broader range of inputs.
+
 ## Keywords 
 Model Editing has strong connections with following topics.
-- Fixing model bugs and model patching
-- Language models as knowledge base
-- Locating facts in language models
-- Lifelong learning, continual learning and etc.
+- Updating and fixing bugs for large language models
+- Language models as knowledge base, locating knowledge in large language models
+- Lifelong learning, unlearning and etc.
+- Security and privacy for large language models
 
 ## Papers
 This is a collection of research and review papers of Model Editing. Any suggestions and pull requests are welcome for better sharing of latest research progress.
-### Survey and Analysis
-- Yunzhi Yao, Peng Wang, Bozhong Tian, Siyuan Cheng, Zhoubo Li, Shumin Deng, Huajun Chen, Ningyu Zhang.<br />
+
+### Suvery and Analysis
+
 **Editing Large Language Models: Problems, Methods, and Opportunities**. [[paper](https://arxiv.org/abs/2305.13172)] 
 <div align=center><img src="./img/overview.jpg" width="100%" height="80%" /></div>
 
-### Preserve Parameter
+### Preserve Parameters
 
 #### Memory-based
 
@@ -68,10 +75,15 @@ This is a collection of research and review papers of Model Editing. Any suggest
 **Can We Edit Factual Knowledge by In-Context Learning?**.[[paper](https://arxiv.org/abs/2305.12740)]
 - Yasumasa Onoe, Michael J.Q. Zhang, Shankar Padmanabhan, Greg Durrett, Eunsol Choi.<br />
 **Can LMs Learn New Entities from Descriptions? Challenges in Propagating Injected Knowledge** .[[paper](https://arxiv.org/abs/2305.01651)]
+<<<<<<< HEAD
 - Zexuan Zhong, Zhengxuan Wu, Christopher D. Manning, Christopher Potts, Danqi Chen.<br />
 **MQUAKE: Assessing Knowledge Editing inLanguage Models via Multi-Hop Questions** .[[paper](https://arxiv.org/abs/2305.14795)]
 
 ### Modify Parameter
+=======
+
+### Modify Parameters
+>>>>>>> 28f0af69bd25bce64b5d29fe430805554d4c166e
 
 #### Meta-learning
 
@@ -117,7 +129,7 @@ This is a collection of research and review papers of Model Editing. Any suggest
 - Damai Dai , Li Dong, Yaru Hao, Zhifang Sui, Baobao Chang, Furu Wei.<br />**Knowledge Neurons in Pretrained Transformers**.(ACL 2022)[[paper](http://arxiv.org/abs/2104.08696)] [[code](https://github.com/Hunter-DDM/knowledge-neurons)] [[code by EleutherAI](https://github.com/EleutherAI/knowledge-neurons)]
 
 
-### More Papers Related
+### More Related Papers
 
 - Robert L. Logan IV, Alexandre Passos, Sameer Singh, Ming-Wei Chang.<br />
 **FRUIT: Faithfully Reflecting Updated Information in Text**. (NAACL 2022) [[paper]()] [[code]()]
