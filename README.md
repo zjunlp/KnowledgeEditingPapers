@@ -27,7 +27,8 @@ Model Editing has strong connections with following topics.
 
 ## Papers
 This is a collection of research and review papers of Model Editing. Any suggestions and pull requests are welcome for better sharing of latest research progress.
-### Suvery and Analysis
+### Survey and Analysis
+- Yunzhi Yao, Peng Wang, Bozhong Tian, Siyuan Cheng, Zhoubo Li, Shumin Deng, Huajun Chen, Ningyu Zhang.<br />
 **Editing Large Language Models: Problems, Methods, and Opportunities**. [[paper](https://arxiv.org/abs/2305.13172)] 
 <div align=center><img src="./img/overview.jpg" width="100%" height="80%" /></div>
 
@@ -54,7 +55,7 @@ This is a collection of research and review papers of Model Editing. Any suggest
 #### Change LM's representation space
 
 - Evan Hernandez, Belinda Z. Li, Jacob Andreas.<br />
-  **Measuring and Manipulating Knowledge Representations in Language Models**.[[paper](http://arxiv.org/abs/2304.00740)] [[code](https://github.com/evandez/REMEDI)]
+  **Inspecting and Editing Knowledge Representations in Language Models**.[[paper](http://arxiv.org/abs/2304.00740)] [[code](https://github.com/evandez/REMEDI)]
 
 #### Memory extension
 
@@ -67,6 +68,9 @@ This is a collection of research and review papers of Model Editing. Any suggest
 **Can We Edit Factual Knowledge by In-Context Learning?**.[[paper](https://arxiv.org/abs/2305.12740)]
 - Yasumasa Onoe, Michael J.Q. Zhang, Shankar Padmanabhan, Greg Durrett, Eunsol Choi.<br />
 **Can LMs Learn New Entities from Descriptions? Challenges in Propagating Injected Knowledge** .[[paper](https://arxiv.org/abs/2305.01651)]
+- Zexuan Zhong, Zhengxuan Wu, Christopher D. Manning, Christopher Potts, Danqi Chen.<br />
+**MQUAKE: Assessing Knowledge Editing inLanguage Models via Multi-Hop Questions** .[[paper](https://arxiv.org/abs/2305.14795)]
+
 ### Modify Parameter
 
 #### Meta-learning
@@ -100,6 +104,10 @@ This is a collection of research and review papers of Model Editing. Any suggest
 - Kevin Meng, Arnab Sen Sharma, Alex Andonian, Yonatan Belinkov, David Bau.<br />
 **Mass-Editing Memory in a Transformer**. [[paper](https://arxiv.org/abs/2210.07229)] [[code](https://github.com/kmeng01/memit)] [[page](https://memit.baulab.info/)] [[demo](https://memit.baulab.us/#/)]
 
+
+- Anshita Gupta, Debanjan Mondal, Akshay Krishna Sheshadri, Wenlong Zhao, Xiang Lorraine Li, Sarah Wiegreffe, Niket Tandon.<br />
+**Editing Commonsense Knowledge in GPT** .[[paper](https://arxiv.org/abs/2305.14956)]
+
 - Peter Hase, Mona Diab, Asli Celikyilmaz, Xian Li, Zornitsa Kozareva, Veselin Stoyanov, Mohit Bansal, Srinivasan Iyer.<br />
   **Do Language Models Have Beliefs? Methods for Detecting, Updating, and Visualizing Model Beliefs**. [[paper](https://arxiv.org/pdf/2111.13654.pdf)] [[code](https://github.com/peterbhase/SLAG-Belief-Updating)]
 
@@ -131,8 +139,7 @@ This is a collection of research and review papers of Model Editing. Any suggest
 ## Contribution
 ### Contributors
 
-<a href="https://github.com/zjunlp/
-ModelEditingPapers/graphs/contributors">
+<a href="https://github.com/zjunlp/ModelEditingPapers/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=zjunlp/ModelEditingPapers" />
 </a>
 ### Contributing to this paper list
