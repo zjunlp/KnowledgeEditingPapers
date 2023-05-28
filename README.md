@@ -75,15 +75,10 @@ This is a collection of research and review papers of Model Editing. Any suggest
 **Can We Edit Factual Knowledge by In-Context Learning?**.[[paper](https://arxiv.org/abs/2305.12740)]
 - Yasumasa Onoe, Michael J.Q. Zhang, Shankar Padmanabhan, Greg Durrett, Eunsol Choi.<br />
 **Can LMs Learn New Entities from Descriptions? Challenges in Propagating Injected Knowledge** .[[paper](https://arxiv.org/abs/2305.01651)]
-<<<<<<< HEAD
 - Zexuan Zhong, Zhengxuan Wu, Christopher D. Manning, Christopher Potts, Danqi Chen.<br />
 **MQUAKE: Assessing Knowledge Editing inLanguage Models via Multi-Hop Questions** .[[paper](https://arxiv.org/abs/2305.14795)]
 
-### Modify Parameter
-=======
-
 ### Modify Parameters
->>>>>>> 28f0af69bd25bce64b5d29fe430805554d4c166e
 
 #### Meta-learning
 
