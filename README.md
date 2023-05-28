@@ -79,6 +79,11 @@ This is a collection of research and review papers of Model Editing. Any suggest
 **MQUAKE: Assessing Knowledge Editing inLanguage Models via Multi-Hop Questions** .[[paper](https://arxiv.org/abs/2305.14795)]
 
 ### Modify Parameters
+#### Fine-tuning
+- Kyungjae Lee, Wookje Han, Seung-won Hwang, Hwaran Lee, Joonsuk Park, Sang-Woo Lee.<br />
+**Plug-and-Play Adaptation for Continuously-updated QA**. (ACL 2022 Findings) [[paper](https://arxiv.org/abs/2204.12785)] [[code](https://github.com/wookjeHan/Plug-and-Play-Adaptation-for-Continuously-updated-QA)]
+- Chen Zhu, Ankit Singh Rawat, Manzil Zaheer, Srinadh Bhojanapalli, Daliang Li, Felix Yu, Sanjiv Kumar.<br />
+**Modifying Memories in Transformer Models**.  [[paper](https://arxiv.org/abs/2012.00363)]
 
 #### Meta-learning
 
@@ -96,8 +101,6 @@ This is a collection of research and review papers of Model Editing. Any suggest
 - Shibani Santurkar, Dimitris Tsipras, Mahalaxmi Elango, David Bau, Antonio Torralba, Aleksander Madry.<br />
 **Editing a classifier by rewriting its prediction rules**. (NeurIPS 2021) [[paper](https://proceedings.neurips.cc/paper/2021/hash/c46489a2d5a9a9ecfc53b17610926ddd-Abstract.html)] [[code](https://github.com/MadryLab/EditingClassifiers)]
 
-- Kyungjae Lee, Wookje Han, Seung-won Hwang, Hwaran Lee, Joonsuk Park, Sang-Woo Lee.<br />
-**Plug-and-Play Adaptation for Continuously-updated QA**. (ACL 2022) [[paper](https://arxiv.org/abs/2204.12785)] [[code](https://github.com/wookjeHan/Plug-and-Play-Adaptation-for-Continuously-updated-QA)]
 
 - Yang Xu, Yutai Hou, Wanxiang Che.<br />
 **Language Anisotropic Cross-Lingual Model Editing**. [[paper](https://arxiv.org/abs/2205.12677)] 
@@ -149,6 +152,6 @@ This is a collection of research and review papers of Model Editing. Any suggest
 <a href="https://github.com/zjunlp/ModelEditingPapers/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=zjunlp/ModelEditingPapers" />
 </a>
-### Contributing to this paper list
 
+### Contributing to this paper list
 -  There are cases where we miss important works in this field, please contribute to this repo! Thanks for the efforts in advance.
