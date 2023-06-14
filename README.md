@@ -124,7 +124,13 @@ This is a collection of research and review papers of Model Editing. Any suggest
 - Peter Hase, Mohit Bansal, Been Kim, Asma Ghandeharioun.<br />
   **Does Localization Inform Editing? Surprising Differences in Causality-Based Localization vs. Knowledge Editing in Language Models.** [[paper](https://arxiv.org/pdf/2301.04213.pdf)] [[code](https://github.com/google/belief-localization)] 
 
+- Jason Hoelscher-Obermaier, Julia Persson, Esben Kran, Ioannis Konstas, Fazl Barez.<br />
+**Detecting Edit Failures In Large Language Models: An Improved Specificity Benchmark** .[[paper](https://arxiv.org/abs/2305.17553)]
+
 - Damai Dai , Li Dong, Yaru Hao, Zhifang Sui, Baobao Chang, Furu Wei.<br />**Knowledge Neurons in Pretrained Transformers**.(ACL 2022)[[paper](http://arxiv.org/abs/2104.08696)] [[code](https://github.com/Hunter-DDM/knowledge-neurons)] [[code by EleutherAI](https://github.com/EleutherAI/knowledge-neurons)]
+
+- Nora Belrose, David Schneider-Joseph, Shauli Ravfogel, Ryan Cotterell, Edward Raff, Stella Biderman.<br />
+**LEACE: Perfect linear concept erasure in closed form** .[[paper](https://arxiv.org/abs/2306.03819)]
 
 
 ### More Related Papers
