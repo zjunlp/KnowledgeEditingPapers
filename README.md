@@ -114,6 +114,8 @@ This is a collection of research and review papers of Model Editing. Any suggest
 - Kevin Meng, Arnab Sen Sharma, Alex Andonian, Yonatan Belinkov, David Bau.<br />
 **Mass-Editing Memory in a Transformer**. [[paper](https://arxiv.org/abs/2210.07229)] [[code](https://github.com/kmeng01/memit)] [[page](https://memit.baulab.info/)] [[demo](https://memit.baulab.us/#/)]
 
+- Gabriel Ilharco, Marco Tulio Ribeiro, Mitchell Wortsman, Ludwig Schmidt, Hannaneh Hajishirzi, Ali Farhadi.<br />
+**Editing models with task arithmetic** .[[paper](https://openreview.net/pdf?id=6t0Kwf8-jrj)]
 
 - Anshita Gupta, Debanjan Mondal, Akshay Krishna Sheshadri, Wenlong Zhao, Xiang Lorraine Li, Sarah Wiegreffe, Niket Tandon.<br />
 **Editing Commonsense Knowledge in GPT** .[[paper](https://arxiv.org/abs/2305.14956)]
