@@ -201,19 +201,23 @@ Chenglei Si, Zhe Gan, Zhengyuan Yang, Shuohang Wang, Jianfeng Wang, Jordan Boyd-
 Gabriel Ilharco, Mitchell Wortsman, Samir Yitzhak Gadre, Shuran Song, Hannaneh Hajishirzi, Simon Kornblith, Ali Farhadi, Ludwig Schmidt.
   [[paper](https://arxiv.org/abs/2208.05592)] [[code](https://github.com/mlfoundations/patching)]
 
-6. **Decouple knowledge from paramters for plug-and-play language modeling**
-Xin Cheng, Yankai Lin, Xiuying Chen, Dongyan Zhao, Rui Yan.<br />(ACL2023 Findings)[[paper](http://arxiv.org/abs/2305.11564)] [[code](https://github.com/Hannibal046/PlugLM)]
+6. **Decouple knowledge from paramters for plug-and-play language modeling**  (ACL2023 Findings) <br />
+Xin Cheng, Yankai Lin, Xiuying Chen, Dongyan Zhao, Rui Yan.[[paper](http://arxiv.org/abs/2305.11564)] [[code](https://github.com/Hannibal046/PlugLM)]
 
+7. **Backpack Language Models** <br />
+John Hewitt, John Thickstun, Christopher D. Manning, Percy Liang. [[paper](https://arxiv.org/pdf/2305.16765.pdf)]
 ### Analysis
 1. **Does Localization Inform Editing? Surprising Differences in Causality-Based Localization vs. Knowledge Editing in Language Models.** <br />
 Peter Hase, Mohit Bansal, Been Kim, Asma Ghandeharioun. [[paper](https://arxiv.org/pdf/2301.04213.pdf)] [[code](https://github.com/google/belief-localization)] 
+2. **Dissecting Recall of Factual Associations in Auto-Regressive Language Models** <br />
+Mor Geva, Jasmijn Bastings, Katja Filippova, Amir Globerson.  [[paper](https://arxiv.org/abs/2304.14767)]
 ## 🧰 Resources
 
 ### Benchmarks and Tasks
 
 |     Edit Type      | Benchmarks \& Datasets                                                  |
 | :-----------------------: | ------------------------------------------------------------ |
-| **Fact Knowledge**  | [ZSRE](https://github.com/nicola-decao/KnowledgeEditor), [CounterFact](https://rome.baulab.info/), [CounterFact+](https://aclanthology.org/2020.acl-main.92/), |
+| **Fact Knowledge**  | [ZSRE](https://github.com/nicola-decao/KnowledgeEditor), [CounterFact](https://rome.baulab.info/), [CounterFact+](https://arxiv.org/abs/2305.17553), |
 |  **Sentiment**   | [Convsent](https://arxiv.org/abs/2206.06520) |
 <!-- |   **Logical Reasoning**   | [ProofWriter](https://arxiv.org/abs/2012.13048), [EntailmentBank](https://arxiv.org/abs/2104.08661), [RuleTaker](https://www.ijcai.org/proceedings/2020/537), [CLUTRR](https://aclanthology.org/D19-1458/) |
 | **Multimodal Reasoning**  | [SCIENCEQA](https://scienceqa.github.io/)                    |
