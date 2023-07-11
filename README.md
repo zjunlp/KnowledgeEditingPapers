@@ -8,7 +8,7 @@
 Must-read papers on [model editing](https://arxiv.org/abs/2305.13172) with foundation models.
 
 ## 🔔 News
-- **2023-06 We release [EasyEdit](https://github.com/zjunlp/EasyEdit), an easy-to-use framework to edit Large Language Models.**
+- **2023-07 We release [EasyEdit](https://github.com/zjunlp/EasyEdit), an easy-to-use framework to edit Large Language Models.**
 - **2023-06 We will provide a tutorial on *Editing Large Language Models* at AACL 2023.**
 - **2023-05  We release a new analysis paper:"[Editing Large Language Models: Problems, Methods, and Opportunities](https://arxiv.org/abs/2305.13172)" based on this repository! We are looking forward to any comments or discussions on this topic :)**
 - **2022-12 We create this repository to maintain a paper list on *Model Editing*.**
