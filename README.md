@@ -102,9 +102,6 @@ Thomas Hartvigsen, Swami Sankaranarayanan, Hamid Palangi, Yoon Kim, Marzyeh Ghas
    [[paper](https://arxiv.org/abs/2211.11031)] [[code](https://github.com/thartvigsen/grace)]
 4. **Neural Knowledge Bank for Pretrained Transformers** <br />
 Damai Dai, Wenbin Jiang, Qingxiu Dong, Yajuan Lyu, Qiaoqiao She, Zhifang Sui. [[paper](http://arxiv.org/abs/2208.00399)]
-5. **Aging with GRACE: Lifelong Model Editing with Discrete Key-Value Adapters** <br />
-Thomas Hartvigsen, Swami Sankaranarayanan, Hamid Palangi, Yoon Kim, Marzyeh Ghassemi.
-  .[[paper](https://arxiv.org/abs/2211.11031)]
 ##### Change LM's representation space
 
 1. **Inspecting and Editing Knowledge Representations in Language Models** <br />
@@ -180,7 +177,11 @@ Damai Dai , Li Dong, Yaru Hao, Zhifang Sui, Baobao Chang, Furu Wei.[[paper](http
 Nora Belrose, David Schneider-Joseph, Shauli Ravfogel, Ryan Cotterell, Edward Raff, Stella Biderman.
 [[paper](https://arxiv.org/abs/2306.03819)]
 
+12. **Transformer Feed-Forward Layers Are Key-Value Memories**. (EMNLP 2021) <br />
+Mor Geva, Roei Schuster, Jonathan Berant, Omer Levy.  [[paper](https://arxiv.org/abs/2012.14913)]
 
+13. **Transformer Feed-Forward Layers Build Predictions by Promoting Concepts in the Vocabulary Space**.(EMNLP 2022) <br />
+Mor Geva, Avi Caciularu, Kevin Ro Wang, Yoav Goldberg. [[paper](https://arxiv.org/abs/2203.14680)]
 #### More Related Papers
 
 1. **FRUIT: Faithfully Reflecting Updated Information in Text**. (NAACL 2022) <br />
