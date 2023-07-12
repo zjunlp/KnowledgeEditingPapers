@@ -220,8 +220,10 @@ Mor Geva, Jasmijn Bastings, Katja Filippova, Amir Globerson.  [[paper](https://a
 
 |     Edit Type      | Benchmarks \& Datasets                                                  |
 | :-----------------------: | ------------------------------------------------------------ |
-| **Fact Knowledge**  | [ZSRE](https://github.com/nicola-decao/KnowledgeEditor), [CounterFact](https://rome.baulab.info/), [CounterFact+](https://arxiv.org/abs/2305.17553), |
+| **Fact Knowledge**  | [ZSRE](https://github.com/nicola-decao/KnowledgeEditor), [CounterFact](https://rome.baulab.info/), [CounterFact+](https://arxiv.org/abs/2305.17553),[ECBD](https://github.com/yasumasaonoe/entity_knowledge_propagation) |
 |  **Sentiment**   | [Convsent](https://arxiv.org/abs/2206.06520) |
+|  **Bias**   | [Bias in Bios](https://arxiv.org/pdf/2304.00740.pdf) |
+|  **Toxic Information**   | [RealToxicityPrompts](https://arxiv.org/abs/2009.11462) |
 <!-- |   **Logical Reasoning**   | [ProofWriter](https://arxiv.org/abs/2012.13048), [EntailmentBank](https://arxiv.org/abs/2104.08661), [RuleTaker](https://www.ijcai.org/proceedings/2020/537), [CLUTRR](https://aclanthology.org/D19-1458/) |
 | **Multimodal Reasoning**  | [SCIENCEQA](https://scienceqa.github.io/)                    |
 |        **Others**         | [BIG-bench](https://doi.org/10.48550/arXiv.2206.04615), [SCAN](http://proceedings.mlr.press/v80/lake18a.html), [Chain-of-Thought Hub](https://arxiv.org/abs/2305.17306) | -->
