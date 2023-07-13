@@ -5,7 +5,7 @@
 ![](https://img.shields.io/github/last-commit/zjunlp/ModelEditingPapers?color=green) 
 ![](https://img.shields.io/badge/PRs-Welcome-red)
 
-Must-read papers on [model editing](https://arxiv.org/abs/2305.13172) with foundation models.
+Must-read papers on [model editing](https://arxiv.org/abs/2305.13172) with large language models.
 
 ## 🔔 News
 - **2023-07 We release [EasyEdit](https://github.com/zjunlp/EasyEdit), an easy-to-use framework to edit Large Language Models.**
