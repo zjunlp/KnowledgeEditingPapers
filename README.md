@@ -214,13 +214,15 @@ John Hewitt, John Thickstun, Christopher D. Manning, Percy Liang. [[paper](https
 Peter Hase, Mohit Bansal, Been Kim, Asma Ghandeharioun. [[paper](https://arxiv.org/pdf/2301.04213.pdf)] [[code](https://github.com/google/belief-localization)] 
 2. **Dissecting Recall of Factual Associations in Auto-Regressive Language Models** <br />
 Mor Geva, Jasmijn Bastings, Katja Filippova, Amir Globerson.  [[paper](https://arxiv.org/abs/2304.14767)]
+3. **Evaluating the Ripple Effects of Knowledge Editing in Language Models** <br />
+Roi Cohen, Eden Biran, Ori Yoran, Amir Globerson, Mor Geva. [[paper](https://arxiv.org/abs/2307.12976)]
 ## 🧰 Resources
 
 ### Benchmarks and Tasks
 
 |     Edit Type      | Benchmarks \& Datasets                                                  |
 | :-----------------------: | ------------------------------------------------------------ |
-| **Fact Knowledge**  | [ZSRE](https://github.com/nicola-decao/KnowledgeEditor), [CounterFact](https://rome.baulab.info/), [CounterFact+](https://arxiv.org/abs/2305.17553),[ECBD](https://github.com/yasumasaonoe/entity_knowledge_propagation) |
+| **Fact Knowledge**  | [ZSRE](https://github.com/nicola-decao/KnowledgeEditor), [CounterFact](https://rome.baulab.info/), [CounterFact+](https://arxiv.org/abs/2305.17553),[ECBD](https://github.com/yasumasaonoe/entity_knowledge_propagation) [MQUAKE](https://github.com/yasumasaonoe/entity_knowledge_propagation)  |
 |  **Sentiment**   | [Convsent](https://arxiv.org/abs/2206.06520) |
 |  **Bias**   | [Bias in Bios](https://arxiv.org/pdf/2304.00740.pdf) |
 |  **Toxic Information**   | [RealToxicityPrompts](https://arxiv.org/abs/2009.11462) |
