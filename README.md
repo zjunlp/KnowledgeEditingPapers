@@ -231,7 +231,9 @@ Roi Cohen, Eden Biran, Ori Yoran, Amir Globerson, Mor Geva. [[paper](https://arx
 |        **Others**         | [BIG-bench](https://doi.org/10.48550/arXiv.2206.04615), [SCAN](http://proceedings.mlr.press/v80/lake18a.html), [Chain-of-Thought Hub](https://arxiv.org/abs/2305.17306) | -->
 
 ### Tools
+[EasyEdit](https://github.com/zjunlp/EasyEdit): An Easy-to-use Framework to Edit Large Language Models.
 
+[FastEdit](https://github.com/hiyouga/FastEdit): Editing large language models within 10 seconds
 ## Contribution
 ### Contributors
 
@@ -242,4 +244,4 @@ Roi Cohen, Eden Biran, Ori Yoran, Amir Globerson, Mor Geva. [[paper](https://arx
 ### Contributing to this paper list
 -  There are cases where we miss important works in this field, please contribute to this repo! Thanks for the efforts in advance.
 ### Acknowledgement
-- We would like to express our gratitude to Longhui Yu for the kind reminder about the missing papers.
+- We would like to express our gratitude to [Longhui Yu](https://yulonghui.github.io/) for the kind reminder about the missing papers.
