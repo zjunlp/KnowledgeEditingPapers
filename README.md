@@ -1,25 +1,25 @@
-# Model Editing Papers
+# Knowledge Editing for LLMs Papers
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/zjunlp/ModelEditingPapers) 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 ![](https://img.shields.io/github/last-commit/zjunlp/ModelEditingPapers?color=green) 
 ![](https://img.shields.io/badge/PRs-Welcome-red)
 
-Must-read papers on [model editing](https://arxiv.org/abs/2305.13172) with large language models.
+Must-read papers on [knowledge editing](https://arxiv.org/abs/2305.13172) (model editing) for large language models.
 
 ## 🔔 News
-- **2023-07 We release [EasyEdit](https://github.com/zjunlp/EasyEdit), an easy-to-use framework to edit Large Language Models.**
+- **2023-07 We release [EasyEdit](https://github.com/zjunlp/EasyEdit), an easy-to-use knowledge editing framework for LLMs.**
 - **2023-06 We will provide a tutorial on *Editing Large Language Models* at AACL 2023.**
 - **2023-05  We release a new analysis paper:"[Editing Large Language Models: Problems, Methods, and Opportunities](https://arxiv.org/abs/2305.13172)" based on this repository! We are looking forward to any comments or discussions on this topic :)**
-- **2022-12 We create this repository to maintain a paper list on *Model Editing*.**
+- **2022-12 We create this repository to maintain a paper list on *Knowledge Editing*.**
 
 ---
 
 ## 🔍 Contents
 
-- [🌟 Why Model Editing?](#why-model-editing)
+- [🌟 Why Knowledge Editing?](#-why-knowledge-editing)
 - [Keywords](#keywords)
-- [📜 Papers](#papers)
+- [📜 Papers](#-papers)
   - [Overview](#overview)
   - [Methods](#methods)
     - [Preserve Parameters](#preserve-parameters)
@@ -42,18 +42,18 @@ Must-read papers on [model editing](https://arxiv.org/abs/2305.13172) with large
 
 ---
 
-## 🌟 Why Model Editing?
-Model Editing is a compelling field of research that focuses on facilitating efficient modifications to the behavior of models, particularly **foundation models**. The aim is to implement these changes within a specified scope of interest without negatively affecting the model's performance across a broader range of inputs.
+## 🌟 Why Knowledge Editing?
+Knowledge Editing (or Model Editing) is a compelling field of research that focuses on facilitating efficient modifications to the behavior of models, particularly **foundation models**. The aim is to implement these changes within a specified scope of interest without negatively affecting the model's performance across a broader range of inputs.
 
 ### Keywords 
-Model Editing has strong connections with following topics.
+Knowledge Editing has strong connections with following topics.
 - Updating and fixing bugs for large language models
 - Language models as knowledge base, locating knowledge in large language models
 - Lifelong learning, unlearning and etc.
 - Security and privacy for large language models
 
 ## 📜 Papers
-This is a collection of research and review papers of Model Editing. Any suggestions and pull requests are welcome for better sharing of latest research progress.
+This is a collection of research and review papers of Knowledge Editing. Any suggestions and pull requests are welcome for better sharing of latest research progress.
 
 ### Overview
 **Editing Large Language Models: Problems, Methods, and Opportunities**. [[paper](https://arxiv.org/abs/2305.13172)] 
