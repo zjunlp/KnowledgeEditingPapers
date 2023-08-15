@@ -8,6 +8,7 @@
 Must-read papers on [knowledge editing](https://arxiv.org/abs/2305.13172) (model editing) for large language models.
 
 ## 🔔 News
+- **2023-8-15 We release the paper "[EasyEdit: An Easy-to-use Knowledge Editing Framework for Large Language Models](https://arxiv.org/abs/2308.07269)."**
 - **2023-07 We release [EasyEdit](https://github.com/zjunlp/EasyEdit), an easy-to-use knowledge editing framework for LLMs.**
 - **2023-06 We will provide a tutorial on *Editing Large Language Models* at AACL 2023.**
 - **2023-05  We release a new analysis paper:"[Editing Large Language Models: Problems, Methods, and Opportunities](https://arxiv.org/abs/2305.13172)" based on this repository! We are looking forward to any comments or discussions on this topic :)**
