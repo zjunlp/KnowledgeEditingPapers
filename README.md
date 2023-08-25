@@ -224,6 +224,8 @@ Peter Hase, Mohit Bansal, Been Kim, Asma Ghandeharioun. [[paper](https://arxiv.o
 Mor Geva, Jasmijn Bastings, Katja Filippova, Amir Globerson.  [[paper](https://arxiv.org/abs/2304.14767)]
 3. **Evaluating the Ripple Effects of Knowledge Editing in Language Models** <br />
 Roi Cohen, Eden Biran, Ori Yoran, Amir Globerson, Mor Geva. [[paper](https://arxiv.org/abs/2307.12976)]
+4. **Edit at your own risk: evaluating the robustness of edited models to distribution shifts.** <br />
+Davis Brown, Charles Godfrey, Cody Nizinski, Jonathan Tu, Henry Kvinge. [[paper](https://arxiv.org/abs/2303.00046)]
 ## 🧰 Resources
 
 ### Benchmarks and Tasks
