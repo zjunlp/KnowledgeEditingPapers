@@ -226,6 +226,8 @@ Mor Geva, Jasmijn Bastings, Katja Filippova, Amir Globerson.  [[paper](https://a
 Roi Cohen, Eden Biran, Ori Yoran, Amir Globerson, Mor Geva. [[paper](https://arxiv.org/abs/2307.12976)]
 4. **Edit at your own risk: evaluating the robustness of edited models to distribution shifts.** <br />
 Davis Brown, Charles Godfrey, Cody Nizinski, Jonathan Tu, Henry Kvinge. [[paper](https://arxiv.org/abs/2303.00046)]
+5. **Journey to the Center of the Knowledge Neurons: Discoveries of Language-Independent Knowledge Neurons and Degenerate Knowledge Neurons.** <br />
+Yuheng Chen, Pengfei Cao, Yubo Chen, Kang Liu, Jun Zhao. [[paper](https://arxiv.org/abs/2308.13198)]
 ## 🧰 Resources
 
 ### Benchmarks and Tasks
