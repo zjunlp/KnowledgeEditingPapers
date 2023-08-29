@@ -247,7 +247,34 @@ Yuheng Chen, Pengfei Cao, Yubo Chen, Kang Liu, Jun Zhao. [[paper](https://arxiv.
 [EasyEdit](https://github.com/zjunlp/EasyEdit): An Easy-to-use Framework to Edit Large Language Models.
 
 [FastEdit](https://github.com/hiyouga/FastEdit): Editing large language models within 10 seconds
-## Contribution
+## Citation
+
+Please cite our paper if find our work useful.
+
+```bibtex
+@article{DBLP:journals/corr/abs-2305-13172,
+  author       = {Yunzhi Yao and
+                  Peng Wang and
+                  Bozhong Tian and
+                  Siyuan Cheng and
+                  Zhoubo Li and
+                  Shumin Deng and
+                  Huajun Chen and
+                  Ningyu Zhang},
+  title        = {Editing Large Language Models: Problems, Methods, and Opportunities},
+  journal      = {CoRR},
+  volume       = {abs/2305.13172},
+  year         = {2023},
+  url          = {https://doi.org/10.48550/arXiv.2305.13172},
+  doi          = {10.48550/arXiv.2305.13172},
+  eprinttype    = {arXiv},
+  eprint       = {2305.13172},
+  timestamp    = {Tue, 30 May 2023 17:04:46 +0200},
+  biburl       = {https://dblp.org/rec/journals/corr/abs-2305-13172.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}
+```
+## 🎉Contribution
 ### Contributors
 
 <a href="https://github.com/zjunlp/ModelEditingPapers/graphs/contributors">
