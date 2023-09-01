@@ -246,7 +246,7 @@ Evan Hernandez, Martin Wattenberg, Arnab Sen Sharma, Jacob Andreas, Tal Haklay, 
 |        **Others**         | [BIG-bench](https://doi.org/10.48550/arXiv.2206.04615), [SCAN](http://proceedings.mlr.press/v80/lake18a.html), [Chain-of-Thought Hub](https://arxiv.org/abs/2305.17306) | -->
 
 ### Tools
-[EasyEdit](https://github.com/zjunlp/EasyEdit): An Easy-to-use Framework to Edit Large Language Models.
+[EasyEdit](https://github.com/zjunlp/EasyEdit): An Easy-to-use Knowledge Editing Framework for Large Language Models.
 
 [FastEdit](https://github.com/hiyouga/FastEdit): Editing large language models within 10 seconds
 ## Citation
