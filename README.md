@@ -230,6 +230,8 @@ Davis Brown, Charles Godfrey, Cody Nizinski, Jonathan Tu, Henry Kvinge. [[paper]
 Yuheng Chen, Pengfei Cao, Yubo Chen, Kang Liu, Jun Zhao. [[paper](https://arxiv.org/abs/2308.13198)]
 6. **Linearity of Relation Decoding in Transformer Language Models**<br />
 Evan Hernandez, Martin Wattenberg, Arnab Sen Sharma, Jacob Andreas, Tal Haklay, Yonatan Belinkov, Kevin Meng, David Bau. [[paper](https://arxiv.org/pdf/2308.09124.pdf)]
+7. **KLoB: a Benchmark for Assessing Knowledge Locating Methods in Language Models **<br />
+Yiming Ju, Zheng Zhang. [[paper](http://export.arxiv.org/pdf/2309.16535)]
 ## 🧰 Resources
 
 ### Benchmarks and Tasks
