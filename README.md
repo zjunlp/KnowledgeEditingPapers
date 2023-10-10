@@ -186,7 +186,10 @@ Mor Geva, Roei Schuster, Jonathan Berant, Omer Levy.  [[paper](https://arxiv.org
 Mor Geva, Avi Caciularu, Kevin Ro Wang, Yoav Goldberg. [[paper](https://arxiv.org/abs/2203.14680)]
 
 14. **PMET: Precise Model Editing in a Transformer.**<br />
-Xiaopeng Li, Shasha Li, Shezheng Song, Jing Yang, Jun Ma, Jie Yu. [[paper](https://arxiv.org/abs/2308.08742)] [[code](https://github.com/xpq-tech/PMET.git)] 
+Xiaopeng Li, Shasha Li, Shezheng Song, Jing Yang, Jun Ma, Jie Yu. [[paper](https://arxiv.org/abs/2308.08742)] [[code](https://github.com/xpq-tech/PMET.git)]
+
+15. **Unlearning Bias in Language Models by Partitioning Gradients.** (ACL 2023 Findings) <br />
+Charles Yu, Sullam Jeoung, Anish Kasi, Pengfei Yu, Heng Ji. [[paper](https://aclanthology.org/2023.findings-acl.375.pdf)] [[code](https://github.com/CharlesYu2000/PCGU-UnlearningBias)]
 #### More Related Papers
 
 1. **FRUIT: Faithfully Reflecting Updated Information in Text**. (NAACL 2022) <br />
