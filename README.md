@@ -234,8 +234,10 @@ Davis Brown, Charles Godfrey, Cody Nizinski, Jonathan Tu, Henry Kvinge. [[paper]
 Yuheng Chen, Pengfei Cao, Yubo Chen, Kang Liu, Jun Zhao. [[paper](https://arxiv.org/abs/2308.13198)]
 6. **Linearity of Relation Decoding in Transformer Language Models**<br />
 Evan Hernandez, Martin Wattenberg, Arnab Sen Sharma, Jacob Andreas, Tal Haklay, Yonatan Belinkov, Kevin Meng, David Bau. [[paper](https://arxiv.org/pdf/2308.09124.pdf)]
-7. **KLoB: a Benchmark for Assessing Knowledge Locating Methods in Language Models **<br />
+7. **KLoB: a Benchmark for Assessing Knowledge Locating Methods in Language Models**<br />
 Yiming Ju, Zheng Zhang. [[paper](http://export.arxiv.org/pdf/2309.16535)]
+8. **Inference-Time Intervention: Eliciting Truthful Answers from a Language Model** (NeurIPS 2023) <br />
+Kenneth Li, Oam Patel, Fernanda Viégas, Hanspeter Pfister, Martin Wattenberg. [[paper](https://arxiv.org/abs/2306.03341)] [[code](https://github.com/likenneth/honest_llama)] 
 ## 🧰 Resources
 
 ### Benchmarks and Tasks
