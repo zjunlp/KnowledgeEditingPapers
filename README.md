@@ -5,7 +5,7 @@
 ![](https://img.shields.io/github/last-commit/zjunlp/ModelEditingPapers?color=green) 
 ![](https://img.shields.io/badge/PRs-Welcome-red)
 
-Must-read papers on [knowledge editing](https://arxiv.org/abs/2305.13172) (model editing) for large language models.
+Must-read papers on [knowledge editing](https://arxiv.org/abs/2305.13172) for large language models.
 
 ## 🔔 News
 - **2023-10-08 Our paper "[Editing Large Language Models: Problems, Methods, and Opportunities](https://arxiv.org/abs/2305.13172)" has been accepted by EMNLP 2023.**
@@ -45,7 +45,7 @@ Must-read papers on [knowledge editing](https://arxiv.org/abs/2305.13172) (model
 ---
 
 ## 🌟 Why Knowledge Editing?
-Knowledge Editing (or Model Editing) is a compelling field of research that focuses on facilitating efficient modifications to the behavior of models, particularly **foundation models**. The aim is to implement these changes within a specified scope of interest without negatively affecting the model's performance across a broader range of inputs.
+Knowledge Editing is a compelling field of research that focuses on facilitating efficient modifications to the behavior of models, particularly **foundation models**. The aim is to implement these changes within a specified scope of interest without negatively affecting the model's performance across a broader range of inputs.
 
 ### Keywords 
 Knowledge Editing has strong connections with following topics.
