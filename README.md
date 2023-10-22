@@ -242,6 +242,8 @@ Kenneth Li, Oam Patel, Fernanda Viégas, Hanspeter Pfister, Martin Wattenberg. [
 Yuval Pinter and Michael Elhadad. [[paper](https://arxiv.org/pdf/2310.11958.pdf)]
 10. **Unveiling the Pitfalls of Knowledge Editing for Large Language Models** <br />
 Zhoubo Li, Ningyu Zhang, Yunzhi Yao, Mengru Wang, Xi Chen and Huajun Chen. [[paper](https://arxiv.org/pdf/2310.02129.pdf)]
+10. **Editing Personality for LLMs** <br />
+Shengyu Mao, Ningyu Zhang, Xiaohan Wang, Mengru Wang, Yunzhi Yao, Yong Jiang, Pengjun Xie, Fei Huang and Huajun Chen [[paper](https://arxiv.org/pdf/2310.02168.pdf)]
 ## 🧰 Resources
 
 ### Benchmarks and Tasks
