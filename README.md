@@ -240,6 +240,8 @@ Yiming Ju, Zheng Zhang. [[paper](http://export.arxiv.org/pdf/2309.16535)]
 Kenneth Li, Oam Patel, Fernanda Viégas, Hanspeter Pfister, Martin Wattenberg. [[paper](https://arxiv.org/abs/2306.03341)] [[code](https://github.com/likenneth/honest_llama)]
 9. **Emptying the Ocean with a Spoon: Should We Edit Models?** (EMNLP 2023 Findings) <br />
 Yuval Pinter and Michael Elhadad. [[paper](https://arxiv.org/pdf/2310.11958.pdf)]
+10. **Unveiling the Pitfalls of Knowledge Editing for Large Language Models** <br />
+Yuval Pinter and Michael Elhadad. [[paper](https://arxiv.org/pdf/2310.02129.pdf)]
 ## 🧰 Resources
 
 ### Benchmarks and Tasks
