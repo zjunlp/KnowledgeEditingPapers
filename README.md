@@ -13,7 +13,7 @@ Must-read papers on [knowledge editing](https://arxiv.org/abs/2305.13172) for la
 - **2023-10-08 Our paper "[Editing Large Language Models: Problems, Methods, and Opportunities](https://arxiv.org/abs/2305.13172)" has been accepted by EMNLP 2023.**
 - **2023-8-15 We release the paper "[EasyEdit: An Easy-to-use Knowledge Editing Framework for Large Language Models](https://arxiv.org/abs/2308.07269)."**
 - **2023-07 We release [EasyEdit](https://github.com/zjunlp/EasyEdit), an easy-to-use knowledge editing framework for LLMs.**
-- **2023-06 We will provide a tutorial on *Editing Large Language Models* at AACL 2023.**
+- **2023-06 We will provide a tutorial on *[Editing Large Language Models](https://drive.google.com/file/d/1EW-cusC_llCM0wEshkIdYuYrvfBPCDRz/view?usp=sharing)* at AACL 2023.**
 - **2023-05  We release a new analysis paper:"[Editing Large Language Models: Problems, Methods, and Opportunities](https://arxiv.org/abs/2305.13172)" based on this repository! We are looking forward to any comments or discussions on this topic :)**
 - **2022-12 We create this repository to maintain a paper list on *Knowledge Editing*.**
 
@@ -60,7 +60,9 @@ Knowledge Editing has strong connections with following topics.
 This is a collection of research and review papers of Knowledge Editing. Any suggestions and pull requests are welcome for better sharing of latest research progress.
 
 ### Overview
-**Editing Large Language Models: Problems, Methods, and Opportunities**. [[paper](https://arxiv.org/abs/2305.13172)] 
+**Editing Large Language Models: Problems, Methods, and Opportunities, EMNLP 2023 Main Conference Paper**. [[paper](https://arxiv.org/abs/2305.13172)] 
+
+**Editing Large Language Models, AACL 2023 Tutorial**. [[Github](https://github.com/zjunlp/KnowledgeEditingPapers/blob/main/AACL2023%40Tutorial_Editing%20LLMs.pdf)] [[Google Drive](https://drive.google.com/file/d/1EW-cusC_llCM0wEshkIdYuYrvfBPCDRz/view?usp=sharing)] [[Baidu Pan]()]
 <div align=center><img src="./img/overview.jpg" width="100%" height="80%" /></div>
 
 ### Methods
