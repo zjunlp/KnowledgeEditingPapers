@@ -108,6 +108,8 @@ Thomas Hartvigsen, Swami Sankaranarayanan, Hamid Palangi, Yoon Kim, Marzyeh Ghas
    [[paper](https://arxiv.org/abs/2211.11031)] [[code](https://github.com/thartvigsen/grace)]
 4. **Neural Knowledge Bank for Pretrained Transformers** <br />
 Damai Dai, Wenbin Jiang, Qingxiu Dong, Yajuan Lyu, Qiaoqiao She, Zhifang Sui. [[paper](http://arxiv.org/abs/2208.00399)]
+5. **Rank-One Editing of Encoder-Decoder Models** <br />
+Vikas Raunak, Arul Menezes. [[paper](https://arxiv.org/pdf/2211.13317.pdf)]
 ##### Change LM's representation space
 
 1. **Inspecting and Editing Knowledge Representations in Language Models** <br />
