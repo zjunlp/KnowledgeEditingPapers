@@ -62,7 +62,7 @@ This is a collection of research and review papers of Knowledge Editing. Any sug
 ### Overview
 **Editing Large Language Models: Problems, Methods, and Opportunities, EMNLP 2023 Main Conference Paper**. [[paper](https://arxiv.org/abs/2305.13172)] 
 
-**Editing Large Language Models, AACL 2023 Tutorial**. [[Github](https://github.com/zjunlp/KnowledgeEditingPapers/blob/main/AACL2023%40Tutorial_Editing%20LLMs.pdf)] [[Google Drive](https://drive.google.com/file/d/1EW-cusC_llCM0wEshkIdYuYrvfBPCDRz/view?usp=sharing)] [[Baidu Pan]()]
+**Editing Large Language Models, AACL 2023 Tutorial**. [[Github](https://github.com/zjunlp/KnowledgeEditingPapers/blob/main/AACL2023%40Tutorial_Editing%20LLMs.pdf)] [[Google Drive](https://drive.google.com/file/d/1EW-cusC_llCM0wEshkIdYuYrvfBPCDRz/view?usp=sharing)] [[Baidu Pan](https://pan.baidu.com/s/1NupastGJUzcUIAjI64J1tw?pwd=i5an)]
 <div align=center><img src="./img/overview.jpg" width="100%" height="80%" /></div>
 
 ### Methods
