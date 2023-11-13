@@ -227,6 +227,9 @@ John Hewitt, John Thickstun, Christopher D. Manning, Percy Liang. [[paper](https
 8. **Learning to Model Editing Processes**. (EMNLP 2022) <br />
 Machel Reid, Graham Neubig. [[paper](https://aclanthology.org/2022.findings-emnlp.280.pdf)]
 
+9. **Trends in Integration of Knowledge and Large Language Models: A Survey and Taxonomy of Methods, Benchmarks, and Applications**. <br />
+Zhangyin Feng, Weitao Ma, Weijiang Yu, Lei Huang, Haotian Wang, Qianglong Chen, Weihua Peng, Xiaocheng Feng, Bing Qin, Ting liu. [[paper](https://arxiv.org/pdf/2311.05876.pdf)]
+
 ### Analysis
 1. **Does Localization Inform Editing? Surprising Differences in Causality-Based Localization vs. Knowledge Editing in Language Models.** <br />
 Peter Hase, Mohit Bansal, Been Kim, Asma Ghandeharioun. [[paper](https://arxiv.org/pdf/2301.04213.pdf)] [[code](https://github.com/google/belief-localization)] 
