@@ -194,11 +194,14 @@ Mor Geva, Roei Schuster, Jonathan Berant, Omer Levy.  [[paper](https://arxiv.org
 13. **Transformer Feed-Forward Layers Build Predictions by Promoting Concepts in the Vocabulary Space**.(EMNLP 2022) <br />
 Mor Geva, Avi Caciularu, Kevin Ro Wang, Yoav Goldberg. [[paper](https://arxiv.org/abs/2203.14680)]
 
-14. **PMET: Precise Model Editing in a Transformer.**<br />
+14. **PMET: Precise Model Editing in a Transformer.** <br />
 Xiaopeng Li, Shasha Li, Shezheng Song, Jing Yang, Jun Ma, Jie Yu. [[paper](https://arxiv.org/abs/2308.08742)] [[code](https://github.com/xpq-tech/PMET.git)]
 
 15. **Unlearning Bias in Language Models by Partitioning Gradients.** (ACL 2023 Findings) <br />
 Charles Yu, Sullam Jeoung, Anish Kasi, Pengfei Yu, Heng Ji. [[paper](https://aclanthology.org/2023.findings-acl.375.pdf)] [[code](https://github.com/CharlesYu2000/PCGU-UnlearningBias)]
+
+16. **DEPN: Detecting and Editing Privacy Neurons in Pretrained Language Models** (EMNLP 2023) <br />
+Xinwei Wu, Junzhuo Li, Minghui Xu, Weilong Dong, Shuangzhi Wu, Chao Bian, Deyi Xiong [[paper](https://arxiv.org/pdf/2310.20138.pdf)]
 #### More Related Papers
 
 1. **FRUIT: Faithfully Reflecting Updated Information in Text**. (NAACL 2022) <br />
@@ -269,7 +272,7 @@ Shengyu Mao, Ningyu Zhang, Xiaohan Wang, Mengru Wang, Yunzhi Yao, Yong Jiang, Pe
 |  **Hallucination**   | [WikiBio](https://github.com/Thartvigsen/GRACE/tree/main) |
 |  **Commonsense**   | [MEMIT<sub>csk</sub>](https://arxiv.org/abs/2305.14956) |
 |  **Reasoning**   | [Eva-KELLM](https://arxiv.org/pdf/2308.09954.pdf) |
-|  **Privacy Infomation Protect**   | [PrivQA](https://arxiv.org/abs/2310.02224), [Knowledge Sanitation](https://arxiv.org/pdf/2309.11852.pdf) |
+|  **Privacy Infomation Protect**   | [PrivQA](https://arxiv.org/abs/2310.02224), [Knowledge Sanitation](https://arxiv.org/pdf/2309.11852.pdf),[Enron](https://arxiv.org/pdf/2310.20138.pdf) |
 |  **Toxic Information**   | [RealToxicityPrompts](https://arxiv.org/abs/2009.11462) |
 |  **MultiModal**   | [MMEdit](https://arxiv.org/abs/2310.08475) |
 <!-- |   **Logical Reasoning**   | [ProofWriter](https://arxiv.org/abs/2012.13048), [EntailmentBank](https://arxiv.org/abs/2104.08661), [RuleTaker](https://www.ijcai.org/proceedings/2020/537), [CLUTRR](https://aclanthology.org/D19-1458/) |
