@@ -131,6 +131,10 @@ Kyungjae Lee, Wookje Han, Seung-won Hwang, Hwaran Lee, Joonsuk Park, Sang-Woo Le
 Chen Zhu, Ankit Singh Rawat, Manzil Zaheer, Srinadh Bhojanapalli, Daliang Li, Felix Yu, Sanjiv Kumar.
  [[paper](https://arxiv.org/abs/2012.00363)]
 
+3. **Forgetting before Learning: Utilizing Parametric Arithmetic for Knowledge
+Updating in Large Language Models** <br /> 
+Shiwen Ni, Dingwei Chen, Chengming Li, Xiping Hu, Ruifeng Xu and Min Yang. [[paper](https://arxiv.org/pdf/2311.08011.pdf)]
+
 ##### Meta-learning
 
 1. **Editing Factual Knowledge in Language Models**. <br />
@@ -259,9 +263,6 @@ Yuval Pinter and Michael Elhadad. [[paper](https://arxiv.org/pdf/2310.11958.pdf)
 Zhoubo Li, Ningyu Zhang, Yunzhi Yao, Mengru Wang, Xi Chen and Huajun Chen. [[paper](https://arxiv.org/pdf/2310.02129.pdf)]
 11. **Editing Personality for LLMs** <br />
 Shengyu Mao, Ningyu Zhang, Xiaohan Wang, Mengru Wang, Yunzhi Yao, Yong Jiang, Pengjun Xie, Fei Huang and Huajun Chen. [[paper](https://arxiv.org/pdf/2310.02168.pdf)]
-12. **Forgetting before Learning: Utilizing Parametric Arithmetic for Knowledge
-Updating in Large Language Models** <br /> 
-Shiwen Ni, Dingwei Chen, Chengming Li, Xiping Hu, Ruifeng Xu and Min Yang. [[paper](https://arxiv.org/pdf/2311.08011.pdf)]
 
 ## 🧰 Resources
 
