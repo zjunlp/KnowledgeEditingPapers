@@ -205,7 +205,10 @@ Xiaopeng Li, Shasha Li, Shezheng Song, Jing Yang, Jun Ma, Jie Yu. [[paper](https
 Charles Yu, Sullam Jeoung, Anish Kasi, Pengfei Yu, Heng Ji. [[paper](https://aclanthology.org/2023.findings-acl.375.pdf)] [[code](https://github.com/CharlesYu2000/PCGU-UnlearningBias)]
 
 16. **DEPN: Detecting and Editing Privacy Neurons in Pretrained Language Models** (EMNLP 2023) <br />
-Xinwei Wu, Junzhuo Li, Minghui Xu, Weilong Dong, Shuangzhi Wu, Chao Bian, Deyi Xiong [[paper](https://arxiv.org/pdf/2310.20138.pdf)]
+Xinwei Wu, Junzhuo Li, Minghui Xu, Weilong Dong, Shuangzhi Wu, Chao Bian, Deyi Xiong. [[paper](https://arxiv.org/pdf/2310.20138.pdf)]
+
+17. **Untying the Reversal Curse via Bidirectional Language Model Editing** <br />
+Jun-Yu Ma, Jia-Chen Gu, Zhen-Hua Ling, Quan Liu, Cong Liu. [[paper](https://arxiv.org/pdf/2310.10322.pdf)]
 #### More Related Papers
 
 1. **FRUIT: Faithfully Reflecting Updated Information in Text**. (NAACL 2022) <br />
