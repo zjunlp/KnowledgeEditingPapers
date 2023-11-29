@@ -67,6 +67,9 @@ This is a collection of research and review papers of Knowledge Editing. Any sug
 
 **Knowledge Editing for Large Language Models: A Survey** <br />
 Song Wang, Yaochen Zhu, Haochen Liu, Zaiyi Zheng, Chen Chen, Jundong Li. [[paper](https://arxiv.org/abs/2310.16218)]
+
+**A Survey on Knowledge Editing of Neural Networks** <br />
+Vittorio Mazzia, Alessandro Pedrani, Andrea Caciolai, Kay Rottmann, Davide Bernardi. [[paper](https://arxiv.org/abs/2310.19704)]
 <div align=center><img src="./img/overview.jpg" width="100%" height="80%" /></div>
 
 ### Methods
