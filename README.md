@@ -70,6 +70,9 @@ Song Wang, Yaochen Zhu, Haochen Liu, Zaiyi Zheng, Chen Chen, Jundong Li. [[paper
 
 **A Survey on Knowledge Editing of Neural Networks** <br />
 Vittorio Mazzia, Alessandro Pedrani, Andrea Caciolai, Kay Rottmann, Davide Bernardi. [[paper](https://arxiv.org/abs/2310.19704)]
+
+**Knowledge Unlearning for LLMs: Tasks, Methods, and Challenges** <br />
+Nianwen Si, Hao Zhang, Heyu Chang, Wenlin Zhang, Dan Qu, Weiqiang Zhang. [[paper](https://arxiv.org/abs/2311.15766)]
 <div align=center><img src="./img/overview.jpg" width="100%" height="80%" /></div>
 
 ### Methods
