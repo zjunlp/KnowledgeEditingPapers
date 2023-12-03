@@ -250,6 +250,11 @@ Machel Reid, Graham Neubig. [[paper](https://aclanthology.org/2022.findings-emnl
 9. **Trends in Integration of Knowledge and Large Language Models: A Survey and Taxonomy of Methods, Benchmarks, and Applications**. <br />
 Zhangyin Feng, Weitao Ma, Weijiang Yu, Lei Huang, Haotian Wang, Qianglong Chen, Weihua Peng, Xiaocheng Feng, Bing Qin, Ting liu. [[paper](https://arxiv.org/pdf/2311.05876.pdf)]
 
+10. **DUnE: Dataset for Unified Editing**. (EMNLP 2023) <br />
+Afra Feyza Akyürek, Eric Pan, Garry Kuwanto, Derry Wijaya. [[paper](https://arxiv.org/abs/2311.16087)]
+
+
+
 ### Analysis
 1. **Does Localization Inform Editing? Surprising Differences in Causality-Based Localization vs. Knowledge Editing in Language Models.** <br />
 Peter Hase, Mohit Bansal, Been Kim, Asma Ghandeharioun. [[paper](https://arxiv.org/pdf/2301.04213.pdf)] [[code](https://github.com/google/belief-localization)] 
