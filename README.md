@@ -285,7 +285,7 @@ Shengyu Mao, Ningyu Zhang, Xiaohan Wang, Mengru Wang, Yunzhi Yao, Yong Jiang, Pe
 
 |     Edit Type      | Benchmarks \& Datasets                                                  |
 | :-----------------------: | ------------------------------------------------------------ |
-| **Fact Knowledge**  | [ZSRE](https://github.com/nicola-decao/KnowledgeEditor), [ZSRE plus](https://arxiv.org/abs/2305.13172), [CounterFact](https://rome.baulab.info/),[CounterFact plus](https://arxiv.org/abs/2305.13172), [CounterFact+](https://arxiv.org/abs/2305.17553),[ECBD](https://github.com/yasumasaonoe/entity_knowledge_propagation), [MQUAKE](https://github.com/yasumasaonoe/entity_knowledge_propagation)  |
+| **Fact Knowledge**  | [ZSRE](https://github.com/nicola-decao/KnowledgeEditor), [ZSRE plus](https://arxiv.org/abs/2305.13172), [CounterFact](https://rome.baulab.info/),[CounterFact plus](https://arxiv.org/abs/2305.13172), [CounterFact+](https://arxiv.org/abs/2305.17553),[ECBD](https://github.com/yasumasaonoe/entity_knowledge_propagation), [MQUAKE](https://github.com/yasumasaonoe/entity_knowledge_propagation),[DepEdit](https://arxiv.org/abs/2312.01858)  |
 |  **Multi-Lingual**   | [Bi-ZsRE](https://arxiv.org/pdf/2309.08952.pdf),[Eva-KELLM](https://arxiv.org/pdf/2308.09954.pdf) |
 |  **Sentiment**   | [Convsent](https://arxiv.org/abs/2206.06520) |
 |  **Bias**   | [Bias in Bios](https://arxiv.org/pdf/2304.00740.pdf) |
