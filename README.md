@@ -156,7 +156,7 @@ Eric Mitchell, Charles Lin, Antoine Bosselut, Chelsea Finn, Christopher D. Manni
 Anton Sinitsin, Vsevolod Plokhotnyuk, Dmitry V. Pyrkin, Sergei Popov, Artem Babenko.
 [[paper](https://arxiv.org/abs/2004.00345)] [[code](https://github.com/xtinkt/editable)]
 
-4. **Editing Language Model-based Knowledge Graph Embeddings** (AAAI 2024)  <br />
+4. **Editing Language Model-based Knowledge Graph Embeddings?** (AAAI 2024)  <br />
 Siyuan Cheng, Ningyu Zhang, Bozhong Tian, Xi Chen, Qingbing Liu, Huajun Chen.
 [[paper](https://arxiv.org/abs/2301.10405)] [[code](https://github.com/zjunlp/PromptKG/tree/main/deltaKG)]
 ##### Locate and edit
