@@ -8,6 +8,7 @@
 Must-read papers on [knowledge editing](https://arxiv.org/abs/2305.13172) for large language models.
 
 ## 🔔 News
+- **2024-12-09 Our paper "[Editing Language Model-based Knowledge Graph Embeddings?](https://arxiv.org/abs/2301.10405)" has been accepted by AAAI 2024.**
 - **2023-11-18 We will provide a tutorial on *Knowledge Editing for Large Language Models* at COLING 2024.**
 - **2023-10-25 We will provide a tutorial on *Knowledge Editing for Large Language Models* at AAAI 2024.**
 - **2023-10-22 Our paper "[Can We Edit Multimodal Large Language Models?](https://arxiv.org/abs/2310.08475)" has been accepted by EMNLP 2023.**
@@ -154,6 +155,10 @@ Eric Mitchell, Charles Lin, Antoine Bosselut, Chelsea Finn, Christopher D. Manni
 3. **Editable Neural Networks**. (ICLR 2020) <br />
 Anton Sinitsin, Vsevolod Plokhotnyuk, Dmitry V. Pyrkin, Sergei Popov, Artem Babenko.
 [[paper](https://arxiv.org/abs/2004.00345)] [[code](https://github.com/xtinkt/editable)]
+
+4. **Editing Language Model-based Knowledge Graph Embeddings** (AAAI 2024)  <br />
+Siyuan Cheng, Ningyu Zhang, Bozhong Tian, Xi Chen, Qingbing Liu, Huajun Chen.
+[[paper](https://arxiv.org/abs/2301.10405)] [[code](https://github.com/zjunlp/PromptKG/tree/main/deltaKG)]
 ##### Locate and edit
 
 1. **Editing a classifier by rewriting its prediction rules**. (NeurIPS 2021) <br />
