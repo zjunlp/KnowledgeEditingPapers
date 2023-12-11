@@ -283,6 +283,8 @@ Yuval Pinter and Michael Elhadad. [[paper](https://arxiv.org/pdf/2310.11958.pdf)
 Zhoubo Li, Ningyu Zhang, Yunzhi Yao, Mengru Wang, Xi Chen and Huajun Chen. [[paper](https://arxiv.org/pdf/2310.02129.pdf)]
 11. **Editing Personality for LLMs** <br />
 Shengyu Mao, Ningyu Zhang, Xiaohan Wang, Mengru Wang, Yunzhi Yao, Yong Jiang, Pengjun Xie, Fei Huang and Huajun Chen. [[paper](https://arxiv.org/pdf/2310.02168.pdf)]
+12. **Evaluating Dependencies in Fact Editing for Language Models: Specificity and Implication Awareness**（Findings of EMNLP2023） <br />
+Zichao Li, Ines Arous, Siva Reddy, Jackie C.K. Cheung [[paper](https://arxiv.org/pdf/2312.01858.pdf)]
 
 ## 🧰 Resources
 
