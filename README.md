@@ -83,18 +83,18 @@ Nianwen Si, Hao Zhang, Heyu Chang, Wenlin Zhang, Dan Qu, Weiqiang Zhang. [[paper
 
 1. **Memory-Based Model Editing at Scale** (ICML 2022) <br />
  Eric Mitchell, Charles Lin, Antoine Bosselut, Christopher D. Manning, Chelsea Finn.
- [[paper](https://arxiv.org/abs/2206.06520)] [[code](https://github.com/eric-mitchell/serac)] [[demo](https://sites.google.com/view/serac-editing)]
+  [[paper](https://arxiv.org/abs/2206.06520)] [[code](https://github.com/eric-mitchell/serac)] [[demo](https://sites.google.com/view/serac-editing)]
 
 2. **Fixing Model Bugs with Natural Language Patches**. (EMNLP 2022) <br />
-Shikhar Murty, Christopher D. Manning, Scott M. Lundberg, Marco Túlio Ribeiro.
+   Shikhar Murty, Christopher D. Manning, Scott M. Lundberg, Marco Túlio Ribeiro.
    [[paper](https://arxiv.org/abs/2211.03318)] [[code](https://github.com/MurtyShikhar/LanguagePatching)]
 3. **MemPrompt: Memory-assisted Prompt Editing with User Feedback**. (EMNLP 2022) <br />
 Aman Madaan, Niket Tandon, Peter Clark, Yiming Yang.
-  [[paper](https://arxiv.org/abs/2201.06009)] [[code](https://github.com/madaan/memprompt)] [[page](https://memprompt.com/)] [[video](https://www.youtube.com/watch?v=Ld7R02bOiNQ&t=1s)]
+    [[paper](https://arxiv.org/abs/2201.06009)] [[code](https://github.com/madaan/memprompt)] [[page](https://memprompt.com/)] [[video](https://www.youtube.com/watch?v=Ld7R02bOiNQ&t=1s)]
 
 4.  **Large Language Models with Controllable Working Memory**. <br />
  Daliang Li, Ankit Singh Rawat, Manzil Zaheer, Xin Wang, Michal Lukasik, Andreas Veit, Felix Yu, Sanjiv Kumar.
-  [[paper](https://arxiv.org/abs/2211.05110)]
+    [[paper](https://arxiv.org/abs/2211.05110)]
 
 5. **Can We Edit Factual Knowledge by In-Context Learning?** <br />
 Ce Zheng, Lei Li, Qingxiu Dong, Yuxuan Fan, Zhiyong Wu, Jingjing Xu, Baobao Chang.
@@ -112,10 +112,10 @@ Qingxiu Dong, Damai Dai, Yifan Song, Jingjing Xu, Zhifang Sui, Lei Li.
    [[paper](https://arxiv.org/abs/2210.03329)] [[code](https://github.com/dqxiu/CaliNet)]
 
 2. **Transformer-Patcher: One Mistake worth One Neuron**. (ICLR 2023) <br />
-Zeyu Huang, Yikang Shen, Xiaofeng Zhang, Jie Zhou, Wenge Rong, Zhang Xiong.
+   Zeyu Huang, Yikang Shen, Xiaofeng Zhang, Jie Zhou, Wenge Rong, Zhang Xiong.
    [[paper](https://arxiv.org/abs/2301.09785)] [[code](https://github.com/ZeroYuHuang/Transformer-Patcher)]
 3. **Aging with GRACE: Lifelong Model Editing with Discrete Key-Value Adaptors**. <br />
-Thomas Hartvigsen, Swami Sankaranarayanan, Hamid Palangi, Yoon Kim, Marzyeh Ghassemi.
+   Thomas Hartvigsen, Swami Sankaranarayanan, Hamid Palangi, Yoon Kim, Marzyeh Ghassemi.
    [[paper](https://arxiv.org/abs/2211.11031)] [[code](https://github.com/thartvigsen/grace)]
 4. **Neural Knowledge Bank for Pretrained Transformers** <br />
 Damai Dai, Wenbin Jiang, Qingxiu Dong, Yajuan Lyu, Qiaoqiao She, Zhifang Sui. [[paper](http://arxiv.org/abs/2208.00399)]
@@ -124,8 +124,8 @@ Vikas Raunak, Arul Menezes. [[paper](https://arxiv.org/pdf/2211.13317.pdf)]
 ##### Change LM's representation space
 
 1. **Inspecting and Editing Knowledge Representations in Language Models** <br />
-Evan Hernandez, Belinda Z. Li, Jacob Andreas.
-  [[paper](http://arxiv.org/abs/2304.00740)] [[code](https://github.com/evandez/REMEDI)]
+  Evan Hernandez, Belinda Z. Li, Jacob Andreas.
+    [[paper](http://arxiv.org/abs/2304.00740)] [[code](https://github.com/evandez/REMEDI)]
 
 
 
@@ -191,7 +191,7 @@ Anshita Gupta, Debanjan Mondal, Akshay Krishna Sheshadri, Wenlong Zhao, Xiang Lo
 
 8. **Do Language Models Have Beliefs? Methods for Detecting, Updating, and Visualizing Model Beliefs**. <br />
 Peter Hase, Mona Diab, Asli Celikyilmaz, Xian Li, Zornitsa Kozareva, Veselin Stoyanov, Mohit Bansal, Srinivasan Iyer.
-  [[paper](https://arxiv.org/pdf/2111.13654.pdf)] [[code](https://github.com/peterbhase/SLAG-Belief-Updating)]
+    [[paper](https://arxiv.org/pdf/2111.13654.pdf)] [[code](https://github.com/peterbhase/SLAG-Belief-Updating)]
 
 9. **Detecting Edit Failures In Large Language Models: An Improved Specificity Benchmark** .<br />
 Jason Hoelscher-Obermaier, Julia Persson, Esben Kran, Ioannis Konstas, Fazl Barez.
@@ -241,7 +241,7 @@ Chenglei Si, Zhe Gan, Zhengyuan Yang, Shuohang Wang, Jianfeng Wang, Jordan Boyd-
 
 5.  **Patching open-vocabulary models by interpolating weights**. (NeurIPS 2022) <br />
 Gabriel Ilharco, Mitchell Wortsman, Samir Yitzhak Gadre, Shuran Song, Hannaneh Hajishirzi, Simon Kornblith, Ali Farhadi, Ludwig Schmidt.
-  [[paper](https://arxiv.org/abs/2208.05592)] [[code](https://github.com/mlfoundations/patching)]
+    [[paper](https://arxiv.org/abs/2208.05592)] [[code](https://github.com/mlfoundations/patching)]
 
 6. **Decouple knowledge from paramters for plug-and-play language modeling**  (ACL2023 Findings) <br />
 Xin Cheng, Yankai Lin, Xiuying Chen, Dongyan Zhao, Rui Yan.[[paper](http://arxiv.org/abs/2305.11564)] [[code](https://github.com/Hannibal046/PlugLM)]
@@ -262,29 +262,35 @@ Afra Feyza Akyürek, Eric Pan, Garry Kuwanto, Derry Wijaya. [[paper](https://arx
 
 ### Analysis
 1. **Does Localization Inform Editing? Surprising Differences in Causality-Based Localization vs. Knowledge Editing in Language Models.** <br />
-Peter Hase, Mohit Bansal, Been Kim, Asma Ghandeharioun. [[paper](https://arxiv.org/pdf/2301.04213.pdf)] [[code](https://github.com/google/belief-localization)] 
+  Peter Hase, Mohit Bansal, Been Kim, Asma Ghandeharioun. [[paper](https://arxiv.org/pdf/2301.04213.pdf)] [[code](https://github.com/google/belief-localization)] 
 2. **Dissecting Recall of Factual Associations in Auto-Regressive Language Models** <br />
-Mor Geva, Jasmijn Bastings, Katja Filippova, Amir Globerson.  [[paper](https://arxiv.org/abs/2304.14767)]
+  Mor Geva, Jasmijn Bastings, Katja Filippova, Amir Globerson.  [[paper](https://arxiv.org/abs/2304.14767)]
 3. **Evaluating the Ripple Effects of Knowledge Editing in Language Models** <br />
-Roi Cohen, Eden Biran, Ori Yoran, Amir Globerson, Mor Geva. [[paper](https://arxiv.org/abs/2307.12976)]
+  Roi Cohen, Eden Biran, Ori Yoran, Amir Globerson, Mor Geva. [[paper](https://arxiv.org/abs/2307.12976)]
 4. **Edit at your own risk: evaluating the robustness of edited models to distribution shifts.** <br />
-Davis Brown, Charles Godfrey, Cody Nizinski, Jonathan Tu, Henry Kvinge. [[paper](https://arxiv.org/abs/2303.00046)]
+  Davis Brown, Charles Godfrey, Cody Nizinski, Jonathan Tu, Henry Kvinge. [[paper](https://arxiv.org/abs/2303.00046)]
 5. **Journey to the Center of the Knowledge Neurons: Discoveries of Language-Independent Knowledge Neurons and Degenerate Knowledge Neurons.** <br />
-Yuheng Chen, Pengfei Cao, Yubo Chen, Kang Liu, Jun Zhao. [[paper](https://arxiv.org/abs/2308.13198)]
+  Yuheng Chen, Pengfei Cao, Yubo Chen, Kang Liu, Jun Zhao. [[paper](https://arxiv.org/abs/2308.13198)]
 6. **Linearity of Relation Decoding in Transformer Language Models**<br />
-Evan Hernandez, Martin Wattenberg, Arnab Sen Sharma, Jacob Andreas, Tal Haklay, Yonatan Belinkov, Kevin Meng, David Bau. [[paper](https://arxiv.org/pdf/2308.09124.pdf)]
+  Evan Hernandez, Martin Wattenberg, Arnab Sen Sharma, Jacob Andreas, Tal Haklay, Yonatan Belinkov, Kevin Meng, David Bau. [[paper](https://arxiv.org/pdf/2308.09124.pdf)]
 7. **KLoB: a Benchmark for Assessing Knowledge Locating Methods in Language Models**<br />
-Yiming Ju, Zheng Zhang. [[paper](http://export.arxiv.org/pdf/2309.16535)]
+  Yiming Ju, Zheng Zhang. [[paper](http://export.arxiv.org/pdf/2309.16535)]
 8. **Inference-Time Intervention: Eliciting Truthful Answers from a Language Model** (NeurIPS 2023) <br />
-Kenneth Li, Oam Patel, Fernanda Viégas, Hanspeter Pfister, Martin Wattenberg. [[paper](https://arxiv.org/abs/2306.03341)] [[code](https://github.com/likenneth/honest_llama)]
+  Kenneth Li, Oam Patel, Fernanda Viégas, Hanspeter Pfister, Martin Wattenberg. [[paper](https://arxiv.org/abs/2306.03341)] [[code](https://github.com/likenneth/honest_llama)]
 9. **Emptying the Ocean with a Spoon: Should We Edit Models?** (EMNLP 2023 Findings) <br />
-Yuval Pinter and Michael Elhadad. [[paper](https://arxiv.org/pdf/2310.11958.pdf)]
+  Yuval Pinter and Michael Elhadad. [[paper](https://arxiv.org/pdf/2310.11958.pdf)]
 10. **Unveiling the Pitfalls of Knowledge Editing for Large Language Models** <br />
-Zhoubo Li, Ningyu Zhang, Yunzhi Yao, Mengru Wang, Xi Chen and Huajun Chen. [[paper](https://arxiv.org/pdf/2310.02129.pdf)]
+    Zhoubo Li, Ningyu Zhang, Yunzhi Yao, Mengru Wang, Xi Chen and Huajun Chen. [[paper](https://arxiv.org/pdf/2310.02129.pdf)]
 11. **Editing Personality for LLMs** <br />
-Shengyu Mao, Ningyu Zhang, Xiaohan Wang, Mengru Wang, Yunzhi Yao, Yong Jiang, Pengjun Xie, Fei Huang and Huajun Chen. [[paper](https://arxiv.org/pdf/2310.02168.pdf)]
+    Shengyu Mao, Ningyu Zhang, Xiaohan Wang, Mengru Wang, Yunzhi Yao, Yong Jiang, Pengjun Xie, Fei Huang and Huajun Chen. [[paper](https://arxiv.org/pdf/2310.02168.pdf)]
 12. **Evaluating Dependencies in Fact Editing for Language Models: Specificity and Implication Awareness**（Findings of EMNLP2023） <br />
-Zichao Li, Ines Arous, Siva Reddy, Jackie C.K. Cheung [[paper](https://arxiv.org/pdf/2312.01858.pdf)]
+    Zichao Li, Ines Arous, Siva Reddy, Jackie C.K. Cheung [[paper](https://arxiv.org/pdf/2312.01858.pdf)]
+13. **Finding and Editing Multi-Modal Neurons in Pre-Trained Transformer** <br />
+    Haowen Pan,Yixin Cao,Xiaozhi Wang,Xun Yang. [[paper](https://arxiv.org/abs/2311.07470)]
+14. **Assessing Knowledge Editing in Language Models via Relation Perspective** <br />
+    Yifan Wei,Xiaoyan Yu,Huanhuan Ma,Fangyu Lei,Yixuan Weng,Ran Song,Kang Liu. [[paper](https://arxiv.org/abs/2311.09053)]
+15. **History Matters: Temporal Knowledge Editing in Large Language Model**（AAAI 2024） <br />
+    Xunjian Yin,Jin Jiang,Liming Yang,Xiaojun Wan. [[paper](https://arxiv.org/abs/2312.05497)]
 
 ## 🧰 Resources
 
