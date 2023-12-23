@@ -155,14 +155,15 @@ Nicola De Cao, Wilker Aziz, Ivan Titov.
 Eric Mitchell, Charles Lin, Antoine Bosselut, Chelsea Finn, Christopher D. Manning.
  [[paper](https://arxiv.org/abs/2110.11309)] [[code](https://github.com/eric-mitchell/mend)] [[page](https://sites.google.com/view/mend-editing)]
 3. **Editable Neural Networks**. (ICLR 2020) <br />
-Anton Sinitsin, Vsevolod Plokhotnyuk, Dmitry V. Pyrkin, Sergei Popov, Artem Babenko.
-[[paper](https://arxiv.org/abs/2004.00345)] [[code](https://github.com/xtinkt/editable)]
+Anton Sinitsin, Vsevolod Plokhotnyuk, Dmitry V. Pyrkin, Sergei Popov, Artem Babenko. [[paper](https://arxiv.org/abs/2004.00345)] [[code](https://github.com/xtinkt/editable)]
 
 4. **Editing Language Model-based Knowledge Graph Embeddings?** (AAAI 2024)  <br />
 Siyuan Cheng, Ningyu Zhang, Bozhong Tian, Xi Chen, Qingbing Liu, Huajun Chen.
 [[paper](https://arxiv.org/abs/2301.10405)] [[code](https://github.com/zjunlp/PromptKG/tree/main/deltaKG)]
-##### Locate and edit
 
+5. **MASSIVE EDITING FOR LARGE LANGUAGE MODELS VIA META LEARNING** <br />
+Chenmien Tan1, Ge Zhang, Jie Fu. [[paper](https://arxiv.org/pdf/2311.04661.pdf)] [[code](https://github.com/ChenmienTan/malmen)]
+##### Locate and edit
 1. **Editing a classifier by rewriting its prediction rules**. (NeurIPS 2021) <br />
 Shibani Santurkar, Dimitris Tsipras, Mahalaxmi Elango, David Bau, Antonio Torralba, Aleksander Madry.
  [[paper](https://proceedings.neurips.cc/paper/2021/hash/c46489a2d5a9a9ecfc53b17610926ddd-Abstract.html)] [[code](https://github.com/MadryLab/EditingClassifiers)]
