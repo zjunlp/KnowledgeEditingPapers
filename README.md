@@ -295,7 +295,8 @@ Afra Feyza Akyürek, Eric Pan, Garry Kuwanto, Derry Wijaya. [[paper](https://arx
     Yifan Wei,Xiaoyan Yu,Huanhuan Ma,Fangyu Lei,Yixuan Weng,Ran Song,Kang Liu. [[paper](https://arxiv.org/abs/2311.09053)]
 15. **History Matters: Temporal Knowledge Editing in Large Language Model**（AAAI 2024） <br />
     Xunjian Yin,Jin Jiang,Liming Yang,Xiaojun Wan. [[paper](https://arxiv.org/abs/2312.05497)]
-
+16. **Cross-Lingual Knowledge Editing in Large Language Models**  <br />
+    Jiaan Wang, Yunlong Liang, Zengkui Sun, Yuxuan Cao, Jiarong Xu. [[paper](https://arxiv.org/pdf/2309.08952.pdf)]
 ## 🧰 Resources
 
 ### Benchmarks and Tasks
