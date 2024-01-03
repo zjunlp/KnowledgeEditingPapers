@@ -224,6 +224,7 @@ Xinwei Wu, Junzhuo Li, Minghui Xu, Weilong Dong, Shuangzhi Wu, Chao Bian, Deyi X
 
 17. **Untying the Reversal Curse via Bidirectional Language Model Editing** <br />
 Jun-Yu Ma, Jia-Chen Gu, Zhen-Hua Ling, Quan Liu, Cong Liu. [[paper](https://arxiv.org/pdf/2310.10322.pdf)]
+18. **PokeMQA: Programmable knowledge editing for Multi-hop Question Answering** <br />Hengrui Gu, Kaixiong Zhou, Xiaotian Han, Ninghao Liu, Ruobing Wang, Xin Wang. [[paper](https://arxiv.org/pdf/2312.15194.pdf)] [[code](https://github.com/Hengrui-Gu/PokeMQA)]
 #### More Related Papers
 
 1. **FRUIT: Faithfully Reflecting Updated Information in Text**. (NAACL 2022) <br />
