@@ -304,6 +304,8 @@ Afra Feyza Akyürek, Eric Pan, Garry Kuwanto, Derry Wijaya. [[paper](https://arx
     Xunjian Yin,Jin Jiang,Liming Yang,Xiaojun Wan. [[paper](https://arxiv.org/abs/2312.05497)]
 16. **Cross-Lingual Knowledge Editing in Large Language Models**  <br />
     Jiaan Wang, Yunlong Liang, Zengkui Sun, Yuxuan Cao, Jiarong Xu. [[paper](https://arxiv.org/pdf/2309.08952.pdf)]
+17. **Large Language Models Relearn Removed Concepts** <br />
+    Michelle Lo, Shay B. Cohen, Fazl Barez [[paper](https://arxiv.org/abs/2401.01814)]
 ## 🧰 Resources
 
 ### Benchmarks and Tasks
