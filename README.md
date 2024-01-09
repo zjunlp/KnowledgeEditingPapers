@@ -106,14 +106,18 @@ Aman Madaan, Niket Tandon, Peter Clark, Yiming Yang.
 5. **Can We Edit Factual Knowledge by In-Context Learning?** <br />
 Ce Zheng, Lei Li, Qingxiu Dong, Yuxuan Fan, Zhiyong Wu, Jingjing Xu, Baobao Chang.
 [[paper](https://arxiv.org/abs/2305.12740)]
-6. **Can LMs Learn New Entities from Descriptions? Challenges in Propagating Injected Knowledge** <br />
+
+7. **Can LMs Learn New Entities from Descriptions? Challenges in Propagating Injected Knowledge** <br />
 Yasumasa Onoe, Michael J.Q. Zhang, Shankar Padmanabhan, Greg Durrett, Eunsol Choi.
  [[paper](https://arxiv.org/abs/2305.01651)]
-7. **MQUAKE: Assessing Knowledge Editing inLanguage Models via Multi-Hop Questions** <br>
-Zexuan Zhong, Zhengxuan Wu, Christopher D. Manning, Christopher Potts, Danqi Chen.<br />
- .[[paper](https://arxiv.org/abs/2305.14795)]
 
-9. **Retrieval-augmented Multilingual Knowledge Editing** <br>
+8. **MQUAKE: Assessing Knowledge Editing inLanguage Models via Multi-Hop Questions** <br>
+Zexuan Zhong, Zhengxuan Wu, Christopher D. Manning, Christopher Potts, Danqi Chen.<br />[[paper](https://arxiv.org/abs/2305.14795)] [[code](https://github.com/princeton-nlp/MQuAKE)]
+
+9. **PokeMQA: Programmable knowledge editing for Multi-hop Question Answering** <br>
+Hengrui Gu, Kaixiong Zhou, Xiaotian Han, Ninghao Liu, Ruobing Wang, Xin Wang. <br /> [[paper](https://arxiv.org/pdf/2312.15194.pdf)] [[code](https://github.com/Hengrui-Gu/PokeMQA)]
+
+10. **Retrieval-augmented Multilingual Knowledge Editing** <br>
 Weixuan Wang, Barry Haddow, Alexandra Birch.
 [[paper](https://arxiv.org/abs/2312.13040)] [[code](https://github.com/Vicky-Wil/ReMaKE)]
 
@@ -134,12 +138,14 @@ Damai Dai, Wenbin Jiang, Qingxiu Dong, Yajuan Lyu, Qiaoqiao She, Zhifang Sui. [[
 Vikas Raunak, Arul Menezes. [[paper](https://arxiv.org/pdf/2211.13317.pdf)]
 6. **MELO: Enhancing Model Editing with Neuron-Indexed Dynamic LoRA.** (AAAI 2024) <br />
 Lang Yu, Qin Chen, Jie Zhou, Liang He.  [[paper](https://arxiv.org/pdf/2312.11795.pdf)] [[code](https://github.com/BruthYU/MELO)]
+7. **MPN: Leveraging Multilingual Patch Neuron for Cross-lingual Model Editing**  <br />
+Nianwen Si, Hao Zhang, Weiqiang Zhang.  [[paper](https://arxiv.org/abs/2401.03190)]
+
 ##### Change LM's representation space
 
 1. **Inspecting and Editing Knowledge Representations in Language Models** <br />
   Evan Hernandez, Belinda Z. Li, Jacob Andreas.
     [[paper](http://arxiv.org/abs/2304.00740)] [[code](https://github.com/evandez/REMEDI)]
-
 
 
 #### Modify Parameters
@@ -174,6 +180,7 @@ Siyuan Cheng, Ningyu Zhang, Bozhong Tian, Xi Chen, Qingbing Liu, Huajun Chen.
 
 5. **MASSIVE EDITING FOR LARGE LANGUAGE MODELS VIA META LEARNING** <br />
 Chenmien Tan1, Ge Zhang, Jie Fu. [[paper](https://arxiv.org/pdf/2311.04661.pdf)] [[code](https://github.com/ChenmienTan/malmen)]
+
 ##### Locate and edit
 1. **Editing a classifier by rewriting its prediction rules**. (NeurIPS 2021) <br />
 Shibani Santurkar, Dimitris Tsipras, Mahalaxmi Elango, David Bau, Antonio Torralba, Aleksander Madry.
@@ -235,7 +242,11 @@ Xinwei Wu, Junzhuo Li, Minghui Xu, Weilong Dong, Shuangzhi Wu, Chao Bian, Deyi X
 
 17. **Untying the Reversal Curse via Bidirectional Language Model Editing** <br />
 Jun-Yu Ma, Jia-Chen Gu, Zhen-Hua Ling, Quan Liu, Cong Liu. [[paper](https://arxiv.org/pdf/2310.10322.pdf)]
-18. **PokeMQA: Programmable knowledge editing for Multi-hop Question Answering** <br />Hengrui Gu, Kaixiong Zhou, Xiaotian Han, Ninghao Liu, Ruobing Wang, Xin Wang. [[paper](https://arxiv.org/pdf/2312.15194.pdf)] [[code](https://github.com/Hengrui-Gu/PokeMQA)]
+
+18. **Trace and Edit Relation Associations in GPT** <br />
+Jiahang Li,Taoyu Chen,Yuanli Wang. [[paper](https://arxiv.org/abs/2401.02976)]
+
+
 #### More Related Papers
 
 1. **FRUIT: Faithfully Reflecting Updated Information in Text**. (NAACL 2022) <br />
