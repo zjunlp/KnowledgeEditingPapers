@@ -113,6 +113,10 @@ Yasumasa Onoe, Michael J.Q. Zhang, Shankar Padmanabhan, Greg Durrett, Eunsol Cho
 Zexuan Zhong, Zhengxuan Wu, Christopher D. Manning, Christopher Potts, Danqi Chen.<br />
  .[[paper](https://arxiv.org/abs/2305.14795)]
 
+9. **Retrieval-augmented Multilingual Knowledge Editing** <br>
+Weixuan Wang, Barry Haddow, Alexandra Birch.
+[[paper](https://arxiv.org/abs/2312.13040)] [[code](https://github.com/Vicky-Wil/ReMaKE)]
+
 ##### Additional Parameters
 1. **Calibrating Factual Knowledge in Pretrained Language Models**. (EMNLP 2022) <br />
 Qingxiu Dong, Damai Dai, Yifan Song, Jingjing Xu, Zhifang Sui, Lei Li.
