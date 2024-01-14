@@ -321,6 +321,8 @@ Afra Feyza Akyürek, Eric Pan, Garry Kuwanto, Derry Wijaya. [[paper](https://arx
     Jiaan Wang, Yunlong Liang, Zengkui Sun, Yuxuan Cao, Jiarong Xu. [[paper](https://arxiv.org/pdf/2309.08952.pdf)]
 17. **Large Language Models Relearn Removed Concepts** <br />
     Michelle Lo, Shay B. Cohen, Fazl Barez [[paper](https://arxiv.org/abs/2401.01814)]
+18. **Model Editing Can Hurt General Abilities of Large Language Models** <br />
+    Jia-Chen Gu, Hao-Xiang Xu, Jun-Yu Ma, Pan Lu, Zhen-Hua Ling, Kai-Wei Chang, Nanyun Peng [[paper](https://arxiv.org/pdf/2401.04700.pdf)]
 ## 🧰 Resources
 
 ### Benchmarks and Tasks
