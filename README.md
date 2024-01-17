@@ -284,7 +284,8 @@ Zhangyin Feng, Weitao Ma, Weijiang Yu, Lei Huang, Haotian Wang, Qianglong Chen, 
 10. **DUnE: Dataset for Unified Editing**. (EMNLP 2023) <br />
 Afra Feyza Akyürek, Eric Pan, Garry Kuwanto, Derry Wijaya. [[paper](https://arxiv.org/abs/2311.16087)]
 
-
+11. **See the Unseen: Better Context-Consistent Knowledge-Editing by Noises**. <br />
+Youcheng Huang, Wenqiang Lei, Zheng Zhang, Jiancheng Lv, Shuicheng Yan. [[paper](https://arxiv.org/abs/2401.07544)]
 
 ### Analysis
 1. **Does Localization Inform Editing? Surprising Differences in Causality-Based Localization vs. Knowledge Editing in Language Models.** <br />
@@ -323,6 +324,8 @@ Afra Feyza Akyürek, Eric Pan, Garry Kuwanto, Derry Wijaya. [[paper](https://arx
     Michelle Lo, Shay B. Cohen, Fazl Barez [[paper](https://arxiv.org/abs/2401.01814)]
 18. **Model Editing Can Hurt General Abilities of Large Language Models** <br />
     Jia-Chen Gu, Hao-Xiang Xu, Jun-Yu Ma, Pan Lu, Zhen-Hua Ling, Kai-Wei Chang, Nanyun Peng [[paper](https://arxiv.org/pdf/2401.04700.pdf)]
+19. **Model Editing at Scale leads to Gradual and Catastrophic Forgetting** <br />
+    Akshat Gupta, Anurag Rao, Gopala Anumanchipalli. [[paper](https://arxiv.org/abs/2401.07453)]
 ## 🧰 Resources
 
 ### Benchmarks and Tasks
