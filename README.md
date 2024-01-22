@@ -287,6 +287,9 @@ Afra Feyza Akyürek, Eric Pan, Garry Kuwanto, Derry Wijaya. [[paper](https://arx
 11. **See the Unseen: Better Context-Consistent Knowledge-Editing by Noises**. <br />
 Youcheng Huang, Wenqiang Lei, Zheng Zhang, Jiancheng Lv, Shuicheng Yan. [[paper](https://arxiv.org/abs/2401.07544)]
 
+12. **Sowing the Wind, Reaping the Whirlwind: The Impact of Editing Language Models**. <br />
+Rima Hazra, Sayan Layek, Somnath Banerjee, Soujanya Poria. [[paper](https://arxiv.org/pdf/2401.10647.pdf)]
+
 ### Analysis
 1. **Does Localization Inform Editing? Surprising Differences in Causality-Based Localization vs. Knowledge Editing in Language Models.** <br />
   Peter Hase, Mohit Bansal, Been Kim, Asma Ghandeharioun. [[paper](https://arxiv.org/pdf/2301.04213.pdf)] [[code](https://github.com/google/belief-localization)] 
