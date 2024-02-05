@@ -329,6 +329,8 @@ Rima Hazra, Sayan Layek, Somnath Banerjee, Soujanya Poria. [[paper](https://arxi
     Jia-Chen Gu, Hao-Xiang Xu, Jun-Yu Ma, Pan Lu, Zhen-Hua Ling, Kai-Wei Chang, Nanyun Peng [[paper](https://arxiv.org/pdf/2401.04700.pdf)]
 19. **Model Editing at Scale leads to Gradual and Catastrophic Forgetting** <br />
     Akshat Gupta, Anurag Rao, Gopala Anumanchipalli. [[paper](https://arxiv.org/abs/2401.07453)]
+20. **Propagation and Pitfalls: Reasoning-based Assessment of Knowledge Editing through Counterfactual Tasks** <br />
+    Wenyue Hua, Jiang Guo, Mingwen Dong, Henghui Zhu, Patrick Ng, Zhiguo Wang. [[paper](https://arxiv.org/abs/2401.17585)]
 ## 🧰 Resources
 
 ### Benchmarks and Tasks
