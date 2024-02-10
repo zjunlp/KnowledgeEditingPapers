@@ -59,19 +59,25 @@ Knowledge Editing has strong connections with following topics.
 - Lifelong learning, unlearning and etc.
 - Security and privacy for large language models
 
-## 📜 Papers
-This is a collection of research and review papers of Knowledge Editing. Any suggestions and pull requests are welcome for better sharing of latest research progress.
 
-### Overview
+
+## 📜 Resources
+This is a collection of research and review papers of Knowledge Editing. Any suggestions and pull requests are welcome for better sharing of latest research progress.
+### Tutorials
+
+**Knowledge Editing for Large Language Models, AAAI 2024 Tutorial (to be updated)**  <br /> 
+Ningyu Zhang, Jia-Chen Gu, Yunzhi Yao, Zhen Bi, Shumin Deng. [[Github](https://github.com/zjunlp/KnowledgeEditingPapers/blob/main/)] [[Google Drive]()] [[Baidu Pan]()]
+
+**Editing Large Language Models, AACL 2023 Tutorial**  <br /> 
+Ningyu Zhang, Yunzhi Yao, Shumin Deng. [[Github](https://github.com/zjunlp/KnowledgeEditingPapers/blob/main/AACL2023%40Tutorial_Editing%20LLMs.pdf)] [[Google Drive](https://drive.google.com/file/d/1EW-cusC_llCM0wEshkIdYuYrvfBPCDRz/view?usp=sharing)] [[Baidu Pan](https://pan.baidu.com/s/1NupastGJUzcUIAjI64J1tw?pwd=i5an)]
+
+### Surveys
 **A Comprehensive Study of Knowledge Editing for Large Language Models** <br /> 
 Ningyu Zhang, Yunzhi Yao, Bozhong Tian, Peng Wang, Shumin Deng, Mengru Wang, Zekun Xi, Shengyu Mao, Jintian Zhang, Yuansheng Ni, Siyuan Cheng, Ziwen Xu, Xin Xu, Jia-Chen Gu, Yong Jiang, Pengjun Xie, Fei Huang, Lei Liang, Zhiqiang Zhang, Xiaowei Zhu, Jun Zhou, Huajun Chen.
 [[paper](https://arxiv.org/abs/2401.01286)][[benchmark](https://huggingface.co/datasets/zjunlp/KnowEdit)][[code](https://github.com/zjunlp/EasyEdit)] 
 
 **Editing Large Language Models: Problems, Methods, and Opportunities, EMNLP 2023 Main Conference Paper**  <br />
 Yunzhi Yao, Peng Wang, Bozhong Tian, Siyuan Cheng, Zhoubo Li, Shumin Deng, Huajun Chen, Ningyu Zhang. [[paper](https://arxiv.org/abs/2305.13172)][[code](https://github.com/zjunlp/EasyEdit)] 
-
-**Editing Large Language Models, AACL 2023 Tutorial**  <br /> 
-Ningyu Zhang, Yunzhi Yao, Shumin Deng. [[Github](https://github.com/zjunlp/KnowledgeEditingPapers/blob/main/AACL2023%40Tutorial_Editing%20LLMs.pdf)] [[Google Drive](https://drive.google.com/file/d/1EW-cusC_llCM0wEshkIdYuYrvfBPCDRz/view?usp=sharing)] [[Baidu Pan](https://pan.baidu.com/s/1NupastGJUzcUIAjI64J1tw?pwd=i5an)]
 
 **Knowledge Editing for Large Language Models: A Survey** <br />
 Song Wang, Yaochen Zhu, Haochen Liu, Zaiyi Zheng, Chen Chen, Jundong Li. [[paper](https://arxiv.org/abs/2310.16218)]
