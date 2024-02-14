@@ -127,6 +127,10 @@ Hengrui Gu, Kaixiong Zhou, Xiaotian Han, Ninghao Liu, Ruobing Wang, Xin Wang. <b
 Weixuan Wang, Barry Haddow, Alexandra Birch.
 [[paper](https://arxiv.org/abs/2312.13040)] [[code](https://github.com/Vicky-Wil/ReMaKE)]
 
+11. **MEMORYLLM: Towards Self-Updatable Large Language Models** <br>
+Yu Wang, Xiusi Chen, Jingbo Shang, Julian McAuley.
+[[paper](https://arxiv.org/pdf/2402.04624.pdf)]
+
 ##### Additional Parameters
 1. **Calibrating Factual Knowledge in Pretrained Language Models**. (EMNLP 2022) <br />
 Qingxiu Dong, Damai Dai, Yifan Song, Jingjing Xu, Zhifang Sui, Lei Li.
