@@ -146,7 +146,8 @@ Vikas Raunak, Arul Menezes. [[paper](https://arxiv.org/pdf/2211.13317.pdf)]
 Lang Yu, Qin Chen, Jie Zhou, Liang He.  [[paper](https://arxiv.org/pdf/2312.11795.pdf)] [[code](https://github.com/BruthYU/MELO)]
 7. **MPN: Leveraging Multilingual Patch Neuron for Cross-lingual Model Editing**  <br />
 Nianwen Si, Hao Zhang, Weiqiang Zhang.  [[paper](https://arxiv.org/abs/2401.03190)]
-
+8. **SWEA: Changing Factual Knowledge in Large Language Models via Subject Word Embedding Altering**  <br />
+Xiaopeng Li, Shasha Li, Bin Ji, Shezheng Song.  [[paper](https://arxiv.org/pdf/2401.17809.pdf)]
 ##### Change LM's representation space
 
 1. **Inspecting and Editing Knowledge Representations in Language Models** <br />
