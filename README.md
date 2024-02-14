@@ -303,6 +303,9 @@ Rima Hazra, Sayan Layek, Somnath Banerjee, Soujanya Poria. [[paper](https://arxi
 
 13. **Model Editing with Canonical Examples**. <br />
 John Hewitt, Sarah Chen, Lanruo Lora Xie. [[paper](https://arxiv.org/pdf/2402.06155.pdf)]
+
+14. **Knowledge Editing on Black-box Large Language Models**. <br />
+Xiaoshuai Song, Zhengyang Wang, Keqing He, Guanting Dong, Jinxu Zhao, Weiran Xu. [[paper](https://arxiv.org/abs/2402.08631)]
 ### Analysis
 1. **Does Localization Inform Editing? Surprising Differences in Causality-Based Localization vs. Knowledge Editing in Language Models.** <br />
   Peter Hase, Mohit Bansal, Been Kim, Asma Ghandeharioun. [[paper](https://arxiv.org/pdf/2301.04213.pdf)] [[code](https://github.com/google/belief-localization)] 
