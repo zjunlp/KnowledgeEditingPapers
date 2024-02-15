@@ -131,6 +131,9 @@ Weixuan Wang, Barry Haddow, Alexandra Birch.
 Yu Wang, Xiusi Chen, Jingbo Shang, Julian McAuley.
 [[paper](https://arxiv.org/pdf/2402.04624.pdf)]
 
+12. **DeepEdit: Knowledge Editing as Decoding with Constraints** <br>
+Yiwei Wang,Muhao Chen,Nanyun Peng, Kai-Wei Chang.
+[[paper](https://arxiv.org/pdf/2401.10471.pdf)]
 ##### Additional Parameters
 1. **Calibrating Factual Knowledge in Pretrained Language Models**. (EMNLP 2022) <br />
 Qingxiu Dong, Damai Dai, Yifan Song, Jingjing Xu, Zhifang Sui, Lei Li.
