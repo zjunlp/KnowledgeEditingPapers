@@ -350,6 +350,9 @@ Xiaoshuai Song, Zhengyang Wang, Keqing He, Guanting Dong, Jinxu Zhao, Weiran Xu.
     Akshat Gupta, Anurag Rao, Gopala Anumanchipalli. [[paper](https://arxiv.org/abs/2401.07453)]
 20. **Propagation and Pitfalls: Reasoning-based Assessment of Knowledge Editing through Counterfactual Tasks** <br />
     Wenyue Hua, Jiang Guo, Mingwen Dong, Henghui Zhu, Patrick Ng, Zhiguo Wang. [[paper](https://arxiv.org/abs/2401.17585)]
+21. **Long-form evaluation of model editing** <br />
+   Domenic Rosati, Robie Gonzales, Jinkun Chen, Xuemin Yu. [[paper](https://arxiv.org/pdf/2402.09394.pdf)]
+    
 ## 🧰 Resources
 
 ### Benchmarks and Tasks
