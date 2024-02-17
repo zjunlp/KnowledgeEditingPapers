@@ -352,6 +352,8 @@ Xiaoshuai Song, Zhengyang Wang, Keqing He, Guanting Dong, Jinxu Zhao, Weiran Xu.
     Wenyue Hua, Jiang Guo, Mingwen Dong, Henghui Zhu, Patrick Ng, Zhiguo Wang. [[paper](https://arxiv.org/abs/2401.17585)]
 21. **Long-form evaluation of model editing** <br />
    Domenic Rosati, Robie Gonzales, Jinkun Chen, Xuemin Yu. [[paper](https://arxiv.org/pdf/2402.09394.pdf)]
+22. **The Butterfly Effect of Model Editing: Few Edits Can Trigger Large Language Models Collapse** <br />
+  Wanli Yang, Fei Sun, Xinyu Ma, Xun Liu, Dawei Yin, Xueqi Cheng. [[paper](https://arxiv.org/pdf/2402.09656.pdf)]
     
 ## 🧰 Resources
 
