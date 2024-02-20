@@ -66,7 +66,7 @@ This is a collection of research and review papers of Knowledge Editing. Any sug
 ### Tutorials
 
 **Knowledge Editing for Large Language Models, AAAI 2024 Tutorial (to be updated)**  <br /> 
-Ningyu Zhang, Jia-Chen Gu, Yunzhi Yao, Zhen Bi, Shumin Deng. [[Github](https://github.com/zjunlp/KnowledgeEditingPapers/blob/main/)] [[Google Drive]()] [[Baidu Pan]()]
+Ningyu Zhang, Jia-Chen Gu, Yunzhi Yao, Zhen Bi, Shumin Deng. [[Github](https://github.com/zjunlp/KnowledgeEditingPapers/blob/main/AAAI2024%40Tutorial_Knowledge%20Editing%20for%20LLMs.pdf)] [[Google Drive](https://drive.google.com/file/d/1fkTbVeRJSWmU7fBDeNf1OhHEkLSofQde/view?usp=sharing)] [[Baidu Pan](链接: https://pan.baidu.com/s/1oJYgaMnxWIBE4kIcJuMSKg?pwd=p9j5 提取码: p9j5)]
 
 **Editing Large Language Models, AACL 2023 Tutorial**  <br /> 
 Ningyu Zhang, Yunzhi Yao, Shumin Deng. [[Github](https://github.com/zjunlp/KnowledgeEditingPapers/blob/main/AACL2023%40Tutorial_Editing%20LLMs.pdf)] [[Google Drive](https://drive.google.com/file/d/1EW-cusC_llCM0wEshkIdYuYrvfBPCDRz/view?usp=sharing)] [[Baidu Pan](https://pan.baidu.com/s/1NupastGJUzcUIAjI64J1tw?pwd=i5an)]
