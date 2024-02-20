@@ -157,6 +157,8 @@ Lang Yu, Qin Chen, Jie Zhou, Liang He.  [[paper](https://arxiv.org/pdf/2312.1179
 Nianwen Si, Hao Zhang, Weiqiang Zhang.  [[paper](https://arxiv.org/abs/2401.03190)]
 8. **SWEA: Changing Factual Knowledge in Large Language Models via Subject Word Embedding Altering**  <br />
 Xiaopeng Li, Shasha Li, Bin Ji, Shezheng Song.  [[paper](https://arxiv.org/pdf/2401.17809.pdf)]
+9. **WilKE: Wise-Layer Knowledge Editor for Lifelong Knowledge Editing标题：Wilke**  <br />
+Chenhui Hu,Pengfei Cao,Yubo Chen,Kang Liu,Jun Zhao.  [[paper](https://arxiv.org/abs/2402.10987)]
 ##### Change LM's representation space
 
 1. **Inspecting and Editing Knowledge Representations in Language Models** <br />
@@ -311,6 +313,19 @@ John Hewitt, Sarah Chen, Lanruo Lora Xie. [[paper](https://arxiv.org/pdf/2402.06
 
 14. **Knowledge Editing on Black-box Large Language Models**. <br />
 Xiaoshuai Song, Zhengyang Wang, Keqing He, Guanting Dong, Jinxu Zhao, Weiran Xu. [[paper](https://arxiv.org/abs/2402.08631)]
+
+15. **KG-Agent: An Efficient Autonomous Agent Framework for Complex Reasoning  over Knowledge**. <br />
+Jinhao Jiang,Kun Zhou,Wayne Xin Zhao,Yang Song,Chen Zhu,Hengshu Zhu,Ji-Rong Wen. [[paper](https://arxiv.org/abs/2402.11163)]
+
+16. **EVEDIT: Event-based Knowledge Editing with Deductive Editing Boundaries**. <br />
+Jiateng Liu,Pengfei Yu,Yuji Zhang,Sha Li,Zixuan Zhang,Heng Ji. [[paper](https://arxiv.org/abs/2402.11324)]
+
+17. **Investigating Multi-Hop Factual Shortcuts in Knowledge Editing of Large  Language Models**. <br />
+Tianjie Ju,Yijin Chen,Xinwei Yuan,Zhuosheng Zhang,Wei Du,Yubin Zheng,Gongshen Liu. [[paper](https://arxiv.org/abs/2402.11900)]
+
+18. **Learning to Edit: Aligning LLMs with Knowledge Editing**. <br />
+Yuxin Jiang,Yufei Wang,Chuhan Wu. [[paper](https://arxiv.org/abs/2402.11905)]
+
 ### Analysis
 1. **Does Localization Inform Editing? Surprising Differences in Causality-Based Localization vs. Knowledge Editing in Language Models.** <br />
   Peter Hase, Mohit Bansal, Been Kim, Asma Ghandeharioun. [[paper](https://arxiv.org/pdf/2301.04213.pdf)] [[code](https://github.com/google/belief-localization)] 
