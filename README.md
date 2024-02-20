@@ -8,6 +8,8 @@
 Must-read papers on [knowledge editing](https://arxiv.org/abs/2305.13172) for large language models.
 
 ## 🔔 News
+- **2024-02-20 This AAAI2024 tutorial "*Knowledge Editing for Large Language Models*" has been canceled since speakers cannot present in person, we make this ppt[[Github](https://github.com/zjunlp/KnowledgeEditingPapers/blob/main/AAAI2024%40Tutorial_Knowledge%20Editing%20for%20LLMs.pdf)] [[Google Drive](https://drive.google.com/file/d/1fkTbVeRJSWmU7fBDeNf1OhHEkLSofQde/view?usp=sharing)] [[Baidu Pan](https://pan.baidu.com/s/1oJYgaMnxWIBE4kIcJuMSKg?pwd=p9j5)] available to the community**. 
+- We release a new paper:"[A Comprehensive Study of Knowledge Editing for Large Language Models](https://arxiv.org/abs/2401.01286)" with a new benchmark [KnowEdit](https://huggingface.co/datasets/zjunlp/KnowEdit)! We are looking forward to any comments or discussions on this topic :)**
 - **2024-01-03  We release a new paper:"[A Comprehensive Study of Knowledge Editing for Large Language Models](https://arxiv.org/abs/2401.01286)" with a new benchmark [KnowEdit](https://huggingface.co/datasets/zjunlp/KnowEdit)! We are looking forward to any comments or discussions on this topic :)**
 - **2024-12-09 Our paper "[Editing Language Model-based Knowledge Graph Embeddings?](https://arxiv.org/abs/2301.10405)" has been accepted by AAAI 2024.**
 - **2023-11-18 We will provide a tutorial on *Knowledge Editing for Large Language Models* at COLING 2024.**
@@ -66,7 +68,7 @@ This is a collection of research and review papers of Knowledge Editing. Any sug
 ### Tutorials
 
 **Knowledge Editing for Large Language Models, AAAI 2024 Tutorial (to be updated)**  <br /> 
-Ningyu Zhang, Jia-Chen Gu, Yunzhi Yao, Zhen Bi, Shumin Deng. [[Github](https://github.com/zjunlp/KnowledgeEditingPapers/blob/main/AAAI2024%40Tutorial_Knowledge%20Editing%20for%20LLMs.pdf)] [[Google Drive](https://drive.google.com/file/d/1fkTbVeRJSWmU7fBDeNf1OhHEkLSofQde/view?usp=sharing)] [[Baidu Pan](链接: https://pan.baidu.com/s/1oJYgaMnxWIBE4kIcJuMSKg?pwd=p9j5 提取码: p9j5)]
+Ningyu Zhang, Jia-Chen Gu, Yunzhi Yao, Zhen Bi, Shumin Deng. [[Github](https://github.com/zjunlp/KnowledgeEditingPapers/blob/main/AAAI2024%40Tutorial_Knowledge%20Editing%20for%20LLMs.pdf)] [[Google Drive](https://drive.google.com/file/d/1fkTbVeRJSWmU7fBDeNf1OhHEkLSofQde/view?usp=sharing)] [[Baidu Pan](https://pan.baidu.com/s/1oJYgaMnxWIBE4kIcJuMSKg?pwd=p9j5)]
 
 **Editing Large Language Models, AACL 2023 Tutorial**  <br /> 
 Ningyu Zhang, Yunzhi Yao, Shumin Deng. [[Github](https://github.com/zjunlp/KnowledgeEditingPapers/blob/main/AACL2023%40Tutorial_Editing%20LLMs.pdf)] [[Google Drive](https://drive.google.com/file/d/1EW-cusC_llCM0wEshkIdYuYrvfBPCDRz/view?usp=sharing)] [[Baidu Pan](https://pan.baidu.com/s/1NupastGJUzcUIAjI64J1tw?pwd=i5an)]
