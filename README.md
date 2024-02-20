@@ -192,7 +192,7 @@ Anton Sinitsin, Vsevolod Plokhotnyuk, Dmitry V. Pyrkin, Sergei Popov, Artem Babe
 Siyuan Cheng, Ningyu Zhang, Bozhong Tian, Xi Chen, Qingbing Liu, Huajun Chen.
 [[paper](https://arxiv.org/abs/2301.10405)] [[code](https://github.com/zjunlp/PromptKG/tree/main/deltaKG)]
 
-5. **MASSIVE EDITING FOR LARGE LANGUAGE MODELS VIA META LEARNING** <br />
+5. **Massive Editing for Large Language Model via Meta Learning.** (ICLR 2024) <br />
 Chenmien Tan1, Ge Zhang, Jie Fu. [[paper](https://arxiv.org/pdf/2311.04661.pdf)] [[code](https://github.com/ChenmienTan/malmen)]
 
 ##### Locate and edit
