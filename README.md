@@ -325,6 +325,12 @@ Tianjie Ju,Yijin Chen,Xinwei Yuan,Zhuosheng Zhang,Wei Du,Yubin Zheng,Gongshen Li
 18. **Learning to Edit: Aligning LLMs with Knowledge Editing**. <br />
 Yuxin Jiang,Yufei Wang,Chuhan Wu. [[paper](https://arxiv.org/abs/2402.11905)]
 
+19. **Stable Knowledge Editing in Large Language Models**. <br />
+Zihao Wei,Liang Pang,Hanxing Ding,Jingcheng Deng,Huawei Shen,Xueqi Cheng. [[paper](https://arxiv.org/abs/2402.13093)]
+
+20. **Stable Knowledge Editing in Large Language Models**. <br />
+Zihao Wei,Liang Pang,Hanxing Ding,Jingcheng Deng,Huawei Shen,Xueqi Cheng. [[paper](https://arxiv.org/abs/2402.13048)]
+
 ### Analysis
 1. **Does Localization Inform Editing? Surprising Differences in Causality-Based Localization vs. Knowledge Editing in Language Models.** <br />
   Peter Hase, Mohit Bansal, Been Kim, Asma Ghandeharioun. [[paper](https://arxiv.org/pdf/2301.04213.pdf)] [[code](https://github.com/google/belief-localization)] 
