@@ -66,7 +66,7 @@ Knowledge Editing has strong connections with following topics.
 This is a collection of research and review papers of Knowledge Editing. Any suggestions and pull requests are welcome for better sharing of latest research progress.
 ### Tutorials
 
-**Knowledge Editing for Large Language Models, AAAI 2024 Tutorial (to be updated)**  <br /> 
+**Knowledge Editing for Large Language Models, AAAI 2024 Tutorial**  <br /> 
 Ningyu Zhang, Jia-Chen Gu, Yunzhi Yao, Zhen Bi, Shumin Deng. [[Github](https://github.com/zjunlp/KnowledgeEditingPapers/blob/main/AAAI2024%40Tutorial_Knowledge%20Editing%20for%20LLMs.pdf)] [[Google Drive](https://drive.google.com/file/d/1fkTbVeRJSWmU7fBDeNf1OhHEkLSofQde/view?usp=sharing)] [[Baidu Pan](https://pan.baidu.com/s/1oJYgaMnxWIBE4kIcJuMSKg?pwd=p9j5)]
 
 **Editing Large Language Models, AACL 2023 Tutorial**  <br /> 
