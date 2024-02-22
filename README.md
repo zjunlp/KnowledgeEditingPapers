@@ -331,6 +331,9 @@ Zihao Wei,Liang Pang,Hanxing Ding,Jingcheng Deng,Huawei Shen,Xueqi Cheng. [[pape
 20. **Stable Knowledge Editing in Large Language Models**. <br />
 Zihao Wei,Liang Pang,Hanxing Ding,Jingcheng Deng,Huawei Shen,Xueqi Cheng. [[paper](https://arxiv.org/abs/2402.13048)]
 
+21. **Knowledge Graph Enhanced Large Language Model Editing**. <br />
+Mengqi Zhang,Xiaotian Ye,Qiang Liu,Pengjie Ren,Shu Wu,Zhumin Chen. [[paper](https://arxiv.org/abs/2402.13593)]
+
 ### Analysis
 1. **Does Localization Inform Editing? Surprising Differences in Causality-Based Localization vs. Knowledge Editing in Language Models.** <br />
   Peter Hase, Mohit Bansal, Been Kim, Asma Ghandeharioun. [[paper](https://arxiv.org/pdf/2301.04213.pdf)] [[code](https://github.com/google/belief-localization)] 
@@ -376,7 +379,9 @@ Zihao Wei,Liang Pang,Hanxing Ding,Jingcheng Deng,Huawei Shen,Xueqi Cheng. [[pape
    Domenic Rosati, Robie Gonzales, Jinkun Chen, Xuemin Yu. [[paper](https://arxiv.org/pdf/2402.09394.pdf)]
 22. **The Butterfly Effect of Model Editing: Few Edits Can Trigger Large Language Models Collapse** <br />
   Wanli Yang, Fei Sun, Xinyu Ma, Xun Liu, Dawei Yin, Xueqi Cheng. [[paper](https://arxiv.org/pdf/2402.09656.pdf)]
-    
+23. **The Da Vinci Code of Large Pre-trained Language Models: Deciphering Degenerate Knowledge Neurons** <br />
+ Yuheng Chen,Pengfei Cao,Yubo Chen,Yining Wang,Shengping Liu,Kang Liu,Jun Zhao. [[paper](https://arxiv.org/abs/2402.13731)]
+
 ## 🧰 Resources
 
 ### Benchmarks and Tasks
