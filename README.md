@@ -334,6 +334,9 @@ Zihao Wei,Liang Pang,Hanxing Ding,Jingcheng Deng,Huawei Shen,Xueqi Cheng. [[pape
 21. **Knowledge Graph Enhanced Large Language Model Editing**. <br />
 Mengqi Zhang,Xiaotian Ye,Qiang Liu,Pengjie Ren,Shu Wu,Zhumin Chen. [[paper](https://arxiv.org/abs/2402.13593)]
 
+22. **Editing Factual Knowledge and Explanatory Ability of Medical Large Language Models**. <br />
+Derong Xu, Ziheng Zhang, Zhihong Zhu, Zhenxi Lin. [[paper](https://arxiv.org/abs/2402.18099)]
+
 ### Analysis
 1. **Does Localization Inform Editing? Surprising Differences in Causality-Based Localization vs. Knowledge Editing in Language Models.** <br />
   Peter Hase, Mohit Bansal, Been Kim, Asma Ghandeharioun. [[paper](https://arxiv.org/pdf/2301.04213.pdf)] [[code](https://github.com/google/belief-localization)] 
