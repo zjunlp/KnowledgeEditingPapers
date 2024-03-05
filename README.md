@@ -384,6 +384,9 @@ Derong Xu, Ziheng Zhang, Zhihong Zhu, Zhenxi Lin. [[paper](https://arxiv.org/abs
   Wanli Yang, Fei Sun, Xinyu Ma, Xun Liu, Dawei Yin, Xueqi Cheng. [[paper](https://arxiv.org/pdf/2402.09656.pdf)]
 23. **The Da Vinci Code of Large Pre-trained Language Models: Deciphering Degenerate Knowledge Neurons** <br />
  Yuheng Chen,Pengfei Cao,Yubo Chen,Yining Wang,Shengping Liu,Kang Liu,Jun Zhao. [[paper](https://arxiv.org/abs/2402.13731)]
+24. **Navigating the Dual Facets: A Comprehensive Evaluation of Sequential Memory Editing in Large Language Models** <br />
+ Zihao Lin, Mohammad Beigi, Hongxuan Li, Yufan Zhou, Yuxiang Zhang, Qifan Wang, Wenpeng Yin, Lifu Huang. [[paper](https://www.arxiv.org/abs/2402.11122)]
+
 
 ## 🧰 Resources
 
