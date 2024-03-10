@@ -386,7 +386,8 @@ Derong Xu, Ziheng Zhang, Zhihong Zhu, Zhenxi Lin. [[paper](https://arxiv.org/abs
  Yuheng Chen,Pengfei Cao,Yubo Chen,Yining Wang,Shengping Liu,Kang Liu,Jun Zhao. [[paper](https://arxiv.org/abs/2402.13731)]
 24. **Navigating the Dual Facets: A Comprehensive Evaluation of Sequential Memory Editing in Large Language Models** <br />
  Zihao Lin, Mohammad Beigi, Hongxuan Li, Yufan Zhou, Yuxiang Zhang, Qifan Wang, Wenpeng Yin, Lifu Huang. [[paper](https://www.arxiv.org/abs/2402.11122)]
-
+24. **“Flex Tape Can’t Fix That”:Bias and Misinformation in Edited Language Models** <br />
+ Karina Halevy, Anna Sotnikova, Badr AlKhamissi, Syrielle Montariol, Antoine Bosselut. [[paper](https://arxiv.org/pdf/2403.00180)]
 
 ## 🧰 Resources
 
