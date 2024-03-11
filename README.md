@@ -263,6 +263,8 @@ Jun-Yu Ma, Jia-Chen Gu, Zhen-Hua Ling, Quan Liu, Cong Liu. [[paper](https://arxi
 18. **Trace and Edit Relation Associations in GPT** <br />
 Jiahang Li,Taoyu Chen,Yuanli Wang. [[paper](https://arxiv.org/abs/2401.02976)]
 
+18. **Consecutive Model Editing with Batch alongside HooK Layers** <br />
+Shuaiyi Li,Yang Deng,Deng Cai,Hongyuan Lu,Liang Chen,Wai Lam. [[paper](https://arxiv.org/abs/2403.05330)]
 
 #### More Related Papers
 
