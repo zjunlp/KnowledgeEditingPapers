@@ -339,6 +339,8 @@ Mengqi Zhang,Xiaotian Ye,Qiang Liu,Pengjie Ren,Shu Wu,Zhumin Chen. [[paper](http
 22. **Editing Factual Knowledge and Explanatory Ability of Medical Large Language Models**. <br />
 Derong Xu, Ziheng Zhang, Zhihong Zhu, Zhenxi Lin. [[paper](https://arxiv.org/abs/2402.18099)]
 
+23. **KEBench: A Benchmark on Knowledge Editing for Large Vision-Language Models**. <br />
+ Han Huang, Haitian Zhong, Qiang Liu, Shu Wu, Liang Wang, Tieniu Tan. [[paper](https://arxiv.org/pdf/2403.07350.pdf)]
 ### Analysis
 1. **Does Localization Inform Editing? Surprising Differences in Causality-Based Localization vs. Knowledge Editing in Language Models.** <br />
   Peter Hase, Mohit Bansal, Been Kim, Asma Ghandeharioun. [[paper](https://arxiv.org/pdf/2301.04213.pdf)] [[code](https://github.com/google/belief-localization)] 
@@ -413,7 +415,7 @@ Derong Xu, Ziheng Zhang, Zhihong Zhu, Zhenxi Lin. [[paper](https://arxiv.org/abs
 |  **Privacy Infomation Protect**   | [PrivQA](https://arxiv.org/abs/2310.02224), [Knowledge Sanitation](https://arxiv.org/pdf/2309.11852.pdf),[Enron](https://arxiv.org/pdf/2310.20138.pdf) |
 |  **Unified Benchmark**   | [DUnE](https://arxiv.org/pdf/2311.16087.pdf) |
 |  **Toxic Information**   | [RealToxicityPrompts](https://arxiv.org/abs/2009.11462),[Toxicity Unlearning](https://arxiv.org/pdf/2308.08090.pdf)|
-|  **MultiModal**   | [MMEdit](https://arxiv.org/abs/2310.08475) |
+|  **MultiModal**   | [MMEdit](https://arxiv.org/abs/2310.08475) [KEBench](https://arxiv.org/abs/2403.07350)|
 <!-- |   **Logical Reasoning**   | [ProofWriter](https://arxiv.org/abs/2012.13048), [EntailmentBank](https://arxiv.org/abs/2104.08661), [RuleTaker](https://www.ijcai.org/proceedings/2020/537), [CLUTRR](https://aclanthology.org/D19-1458/) |
 | **Multimodal Reasoning**  | [SCIENCEQA](https://scienceqa.github.io/)                    |
 |        **Others**         | [BIG-bench](https://doi.org/10.48550/arXiv.2206.04615), [SCAN](http://proceedings.mlr.press/v80/lake18a.html), [Chain-of-Thought Hub](https://arxiv.org/abs/2305.17306) | -->
