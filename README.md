@@ -388,8 +388,14 @@ Derong Xu, Ziheng Zhang, Zhihong Zhu, Zhenxi Lin. [[paper](https://arxiv.org/abs
  Yuheng Chen,Pengfei Cao,Yubo Chen,Yining Wang,Shengping Liu,Kang Liu,Jun Zhao. [[paper](https://arxiv.org/abs/2402.13731)]
 24. **Navigating the Dual Facets: A Comprehensive Evaluation of Sequential Memory Editing in Large Language Models** <br />
  Zihao Lin, Mohammad Beigi, Hongxuan Li, Yufan Zhou, Yuxiang Zhang, Qifan Wang, Wenpeng Yin, Lifu Huang. [[paper](https://www.arxiv.org/abs/2402.11122)]
-24. **“Flex Tape Can’t Fix That”:Bias and Misinformation in Edited Language Models** <br />
+25. **“Flex Tape Can’t Fix That”:Bias and Misinformation in Edited Language Models** <br />
  Karina Halevy, Anna Sotnikova, Badr AlKhamissi, Syrielle Montariol, Antoine Bosselut. [[paper](https://arxiv.org/pdf/2403.00180)]
+26. **The Missing Piece in Model Editing: A Deep Dive into the Hidden Damage Brought By Model Editing** <br />
+ Jianchen Wang,Zhouhong Gu,Zhuozhi Xiong,Hongwei Feng,Yanghua Xiao. [[paper](https://arxiv.org/abs/2403.07825)]
+27. **Beyond Memorization: The Challenge of Random Memory Access in Language Models** <br />
+ Tongyao Zhu,Qian Liu,Liang Pang,Zhengbao Jiang,Min-Yen Kan,Min Lin. [[paper](https://arxiv.org/abs/2403.07805)]
+
+
 
 ## 🧰 Resources
 
