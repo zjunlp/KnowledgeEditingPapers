@@ -263,9 +263,11 @@ Jun-Yu Ma, Jia-Chen Gu, Zhen-Hua Ling, Quan Liu, Cong Liu. [[paper](https://arxi
 18. **Trace and Edit Relation Associations in GPT** <br />
 Jiahang Li,Taoyu Chen,Yuanli Wang. [[paper](https://arxiv.org/abs/2401.02976)]
 
-18. **Consecutive Model Editing with Batch alongside HooK Layers** <br />
+19. **Consecutive Model Editing with Batch alongside HooK Layers** <br />
 Shuaiyi Li,Yang Deng,Deng Cai,Hongyuan Lu,Liang Chen,Wai Lam. [[paper](https://arxiv.org/abs/2403.05330)]
 
+20. **A Unified Framework for Model Editing** <br />
+Akshat Gupta,Dev Sajnani,Gopala Anumanchipalli. [[paper](https://arxiv.org/abs/2403.14236)]
 #### More Related Papers
 
 1. **FRUIT: Faithfully Reflecting Updated Information in Text**. (NAACL 2022) <br />
