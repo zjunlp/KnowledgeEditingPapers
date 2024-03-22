@@ -268,6 +268,10 @@ Shuaiyi Li,Yang Deng,Deng Cai,Hongyuan Lu,Liang Chen,Wai Lam. [[paper](https://a
 
 20. **A Unified Framework for Model Editing** <br />
 Akshat Gupta,Dev Sajnani,Gopala Anumanchipalli. [[paper](https://arxiv.org/abs/2403.14236)]
+
+21. **Detoxifying Large Language Models via Knowledge Editing** <br />
+Mengru Wang, Ningyu Zhang, Ziwen Xu, Zekun Xi, Shumin Deng, Yunzhi Yao, Qishen Zhang, Linyi Yang, Jindong Wang, Huajun Chen. [[paper](https://arxiv.org/abs/2403.14472)]
+
 #### More Related Papers
 
 1. **FRUIT: Faithfully Reflecting Updated Information in Text**. (NAACL 2022) <br />
