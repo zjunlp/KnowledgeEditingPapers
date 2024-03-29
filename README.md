@@ -402,7 +402,8 @@ Derong Xu, Ziheng Zhang, Zhihong Zhu, Zhenxi Lin. [[paper](https://arxiv.org/abs
  Jianchen Wang,Zhouhong Gu,Zhuozhi Xiong,Hongwei Feng,Yanghua Xiao. [[paper](https://arxiv.org/abs/2403.07825)]
 27. **Beyond Memorization: The Challenge of Random Memory Access in Language Models** <br />
  Tongyao Zhu,Qian Liu,Liang Pang,Zhengbao Jiang,Min-Yen Kan,Min Lin. [[paper](https://arxiv.org/abs/2403.07805)]
-
+28. **Interpreting Key Mechanisms of Factual Recall in Transformer-Based Language Models** <br />
+ Ang Lv, Kaiyi Zhang, Yuhan Chen, Yulong Wang, Lifeng Liu, Ji-Rong Wen, Jian Xie, Rui Yan. [[paper](https://arxiv.org/abs/2403.19521)]
 
 
 ## 🧰 Resources
