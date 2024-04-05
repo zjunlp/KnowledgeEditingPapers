@@ -272,6 +272,9 @@ Akshat Gupta,Dev Sajnani,Gopala Anumanchipalli. [[paper](https://arxiv.org/abs/2
 21. **Detoxifying Large Language Models via Knowledge Editing** <br />
 Mengru Wang, Ningyu Zhang, Ziwen Xu, Zekun Xi, Shumin Deng, Yunzhi Yao, Qishen Zhang, Linyi Yang, Jindong Wang, Huajun Chen. [[paper](https://arxiv.org/abs/2403.14472)]
 
+22. **Locating and Editing Factual Associations in Mamba** <br />
+Arnab Sen Sharma,David Atkinson,David Bau. [[paper](https://arxiv.org/abs/2404.03646)]
+
 #### More Related Papers
 
 1. **FRUIT: Faithfully Reflecting Updated Information in Text**. (NAACL 2022) <br />
