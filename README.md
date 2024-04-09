@@ -407,7 +407,8 @@ Derong Xu, Ziheng Zhang, Zhihong Zhu, Zhenxi Lin. [[paper](https://arxiv.org/abs
  Tongyao Zhu,Qian Liu,Liang Pang,Zhengbao Jiang,Min-Yen Kan,Min Lin. [[paper](https://arxiv.org/abs/2403.07805)]
 28. **Interpreting Key Mechanisms of Factual Recall in Transformer-Based Language Models** <br />
  Ang Lv, Kaiyi Zhang, Yuhan Chen, Yulong Wang, Lifeng Liu, Ji-Rong Wen, Jian Xie, Rui Yan. [[paper](https://arxiv.org/abs/2403.19521)]
-
+29. **MLaKE: Multilingual Knowledge Editing Benchmark for Large Language Models** <br />
+ Zihao Wei,Jingcheng Deng,Liang Pang,Hanxing Ding,Huawei Shen,Xueqi Cheng. [[paper](https://arxiv.org/abs/2404.04990)]
 
 ## 🧰 Resources
 
