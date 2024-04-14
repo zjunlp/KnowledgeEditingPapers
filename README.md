@@ -156,7 +156,7 @@ Lang Yu, Qin Chen, Jie Zhou, Liang He.  [[paper](https://arxiv.org/pdf/2312.1179
 Nianwen Si, Hao Zhang, Weiqiang Zhang.  [[paper](https://arxiv.org/abs/2401.03190)]
 8. **SWEA: Changing Factual Knowledge in Large Language Models via Subject Word Embedding Altering**  <br />
 Xiaopeng Li, Shasha Li, Bin Ji, Shezheng Song.  [[paper](https://arxiv.org/pdf/2401.17809.pdf)]
-9. **WilKE: Wise-Layer Knowledge Editor for Lifelong Knowledge Editing：Wilke**  <br />
+9. **WilKE: Wise-Layer Knowledge Editor for Lifelong Knowledge Editing**  <br />
 Chenhui Hu,Pengfei Cao,Yubo Chen,Kang Liu,Jun Zhao.  [[paper](https://arxiv.org/abs/2402.10987)]
 ##### Change LM's representation space
 
