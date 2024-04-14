@@ -336,19 +336,16 @@ Yuxin Jiang,Yufei Wang,Chuhan Wu. [[paper](https://arxiv.org/abs/2402.11905)]
 18. **Stable Knowledge Editing in Large Language Models**. <br />
 Zihao Wei,Liang Pang,Hanxing Ding,Jingcheng Deng,Huawei Shen,Xueqi Cheng. [[paper](https://arxiv.org/abs/2402.13093)]
 
-19. **Stable Knowledge Editing in Large Language Models**. <br />
-Zihao Wei,Liang Pang,Hanxing Ding,Jingcheng Deng,Huawei Shen,Xueqi Cheng. [[paper](https://arxiv.org/abs/2402.13048)]
-
-20. **Knowledge Graph Enhanced Large Language Model Editing**. <br />
+19. **Knowledge Graph Enhanced Large Language Model Editing**. <br />
 Mengqi Zhang,Xiaotian Ye,Qiang Liu,Pengjie Ren,Shu Wu,Zhumin Chen. [[paper](https://arxiv.org/abs/2402.13593)]
 
-21. **Editing Factual Knowledge and Explanatory Ability of Medical Large Language Models**. <br />
+20. **Editing Factual Knowledge and Explanatory Ability of Medical Large Language Models**. <br />
 Derong Xu, Ziheng Zhang, Zhihong Zhu, Zhenxi Lin. [[paper](https://arxiv.org/abs/2402.18099)]
 
-22. **KEBench: A Benchmark on Knowledge Editing for Large Vision-Language Models**. <br />
+21. **KEBench: A Benchmark on Knowledge Editing for Large Vision-Language Models**. <br />
  Han Huang, Haitian Zhong, Qiang Liu, Shu Wu, Liang Wang, Tieniu Tan. [[paper](https://arxiv.org/pdf/2403.07350.pdf)]
 
-23. **Have You Merged My Model? On The Robustness of Large Language Model IP Protection Methods Against Model Merging**. <br />
+22. **Have You Merged My Model? On The Robustness of Large Language Model IP Protection Methods Against Model Merging**. <br />
  Tianshuo Cong,Delong Ran,Zesen Liu,Xinlei He,Jinyuan Liu,Yichen Gong,Qi Li,Anyu Wang,Xiaoyun Wang. [[paper](https://arxiv.org/abs/2404.05188)]
 ### Analysis
 1. **Does Localization Inform Editing? Surprising Differences in Causality-Based Localization vs. Knowledge Editing in Language Models.** <br />
