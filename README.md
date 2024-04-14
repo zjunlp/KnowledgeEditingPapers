@@ -345,8 +345,6 @@ Derong Xu, Ziheng Zhang, Zhihong Zhu, Zhenxi Lin. [[paper](https://arxiv.org/abs
 21. **KEBench: A Benchmark on Knowledge Editing for Large Vision-Language Models**. <br />
  Han Huang, Haitian Zhong, Qiang Liu, Shu Wu, Liang Wang, Tieniu Tan. [[paper](https://arxiv.org/pdf/2403.07350.pdf)]
 
-22. **Have You Merged My Model? On The Robustness of Large Language Model IP Protection Methods Against Model Merging**. <br />
- Tianshuo Cong,Delong Ran,Zesen Liu,Xinlei He,Jinyuan Liu,Yichen Gong,Qi Li,Anyu Wang,Xiaoyun Wang. [[paper](https://arxiv.org/abs/2404.05188)]
 ### Analysis
 1. **Does Localization Inform Editing? Surprising Differences in Causality-Based Localization vs. Knowledge Editing in Language Models.** <br />
   Peter Hase, Mohit Bansal, Been Kim, Asma Ghandeharioun. [[paper](https://arxiv.org/pdf/2301.04213.pdf)] [[code](https://github.com/google/belief-localization)] 
