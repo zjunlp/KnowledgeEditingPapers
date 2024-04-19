@@ -404,6 +404,8 @@ Derong Xu, Ziheng Zhang, Zhihong Zhu, Zhenxi Lin. [[paper](https://arxiv.org/abs
  Ang Lv, Kaiyi Zhang, Yuhan Chen, Yulong Wang, Lifeng Liu, Ji-Rong Wen, Jian Xie, Rui Yan. [[paper](https://arxiv.org/abs/2403.19521)]
 29. **MLaKE: Multilingual Knowledge Editing Benchmark for Large Language Models** <br />
  Zihao Wei,Jingcheng Deng,Liang Pang,Hanxing Ding,Huawei Shen,Xueqi Cheng. [[paper](https://arxiv.org/abs/2404.04990)]
+30. **Is Your LLM Outdated? Benchmarking LLMs & Alignment Algorithms for Time-Sensitive Knowledge** <br />
+ Seyed Mahed Mousavi, Simone Alghisi, Giuseppe Riccardi. [[paper](https://arxiv.org/abs/2404.08700)]
 
 ## 🧰 Resources
 
