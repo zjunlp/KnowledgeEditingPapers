@@ -345,6 +345,9 @@ Derong Xu, Ziheng Zhang, Zhihong Zhu, Zhenxi Lin. [[paper](https://arxiv.org/abs
 21. **KEBench: A Benchmark on Knowledge Editing for Large Vision-Language Models**. <br />
  Han Huang, Haitian Zhong, Qiang Liu, Shu Wu, Liang Wang, Tieniu Tan. [[paper](https://arxiv.org/pdf/2403.07350.pdf)]
 
+22. **COLLABEDIT: TOWARDS NON-DESTRUCTIVE COLLABORATIVE KNOWLEDGE EDITING**. <br />
+ Jiamu Zheng, Jinghuai Zhang, Futing Wang, Tianyu Du, Tao Lin. [[paper](https://openreview.net/pdf?id=PoVpff2Udw)]
+
 ### Analysis
 1. **Does Localization Inform Editing? Surprising Differences in Causality-Based Localization vs. Knowledge Editing in Language Models.** <br />
   Peter Hase, Mohit Bansal, Been Kim, Asma Ghandeharioun. [[paper](https://arxiv.org/pdf/2301.04213.pdf)] [[code](https://github.com/google/belief-localization)] 
