@@ -143,7 +143,7 @@ Qingxiu Dong, Damai Dai, Yifan Song, Jingjing Xu, Zhifang Sui, Lei Li.
 2. **Transformer-Patcher: One Mistake worth One Neuron**. (ICLR 2023) <br />
    Zeyu Huang, Yikang Shen, Xiaofeng Zhang, Jie Zhou, Wenge Rong, Zhang Xiong.
    [[paper](https://arxiv.org/abs/2301.09785)] [[code](https://github.com/ZeroYuHuang/Transformer-Patcher)]
-3. **Aging with GRACE: Lifelong Model Editing with Discrete Key-Value Adaptors**. <br />
+3. **Aging with GRACE: Lifelong Model Editing with Discrete Key-Value Adaptors**. (NeurIPS 2023) <br />
    Thomas Hartvigsen, Swami Sankaranarayanan, Hamid Palangi, Yoon Kim, Marzyeh Ghassemi.
    [[paper](https://arxiv.org/abs/2211.11031)] [[code](https://github.com/thartvigsen/grace)]
 4. **Neural Knowledge Bank for Pretrained Transformers** <br />
@@ -181,9 +181,9 @@ Shiwen Ni, Dingwei Chen, Chengming Li, Xiping Hu, Ruifeng Xu and Min Yang. [[pap
 
 ##### Meta-learning
 
-1. **Editing Factual Knowledge in Language Models**. <br />
+1. **Editing Factual Knowledge in Language Models**. (EMNLP 2021) <br />
 Nicola De Cao, Wilker Aziz, Ivan Titov.
- (EMNLP 2021) [[paper](https://arxiv.org/abs/2104.08164)] [[code](https://github.com/nicola-decao/KnowledgeEditor)]
+ [[paper](https://arxiv.org/abs/2104.08164)] [[code](https://github.com/nicola-decao/KnowledgeEditor)]
 
 2. **Fast Model Editing at Scale**. (ICLR 2022) <br />
 Eric Mitchell, Charles Lin, Antoine Bosselut, Chelsea Finn, Christopher D. Manning.
