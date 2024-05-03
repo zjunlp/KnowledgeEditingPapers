@@ -223,7 +223,7 @@ Kevin Meng, Arnab Sen Sharma, Alex Andonian, Yonatan Belinkov, David Bau.
 Gabriel Ilharco, Marco Tulio Ribeiro, Mitchell Wortsman, Ludwig Schmidt, Hannaneh Hajishirzi, Ali Farhadi.
 [[paper](https://openreview.net/pdf?id=6t0Kwf8-jrj)]
 
-7. **Editing Commonsense Knowledge in GPT** .<br />
+7. **Editing Common Sense in Transformers**. (EMNLP 2023) <br />
 Anshita Gupta, Debanjan Mondal, Akshay Krishna Sheshadri, Wenlong Zhao, Xiang Lorraine Li, Sarah Wiegreffe, Niket Tandon.
 [[paper](https://arxiv.org/abs/2305.14956)]
 
