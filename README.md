@@ -219,7 +219,7 @@ Kevin Meng, David Bau, Alex Andonian, Yonatan Belinkov.
 Kevin Meng, Arnab Sen Sharma, Alex Andonian, Yonatan Belinkov, David Bau.
  [[paper](https://arxiv.org/abs/2210.07229)] [[code](https://github.com/kmeng01/memit)] [[page](https://memit.baulab.info/)] [[demo](https://memit.baulab.us/#/)]
 
-6. **Editing models with task arithmetic** .<br />
+6. **Editing models with task arithmetic**. (ICLR 2023) <br />
 Gabriel Ilharco, Marco Tulio Ribeiro, Mitchell Wortsman, Ludwig Schmidt, Hannaneh Hajishirzi, Ali Farhadi.
 [[paper](https://openreview.net/pdf?id=6t0Kwf8-jrj)]
 
