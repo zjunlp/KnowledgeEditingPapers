@@ -207,7 +207,7 @@ Shibani Santurkar, Dimitris Tsipras, Mahalaxmi Elango, David Bau, Antonio Torral
 Yang Xu, Yutai Hou, Wanxiang Che.
  [[paper](https://arxiv.org/abs/2205.12677)] 
 
-3. **Repairing Neural Networks by Leaving the Right Past Behind**. <br />
+3. **Repairing Neural Networks by Leaving the Right Past Behind**. (NeurIPS 2022) <br />
 Ryutaro Tanno, Melanie F. Pradier, Aditya Nori, Yingzhen Li.
  [[paper](https://arxiv.org/abs/2207.04806)]
 
