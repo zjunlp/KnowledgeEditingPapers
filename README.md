@@ -215,7 +215,7 @@ Ryutaro Tanno, Melanie F. Pradier, Aditya Nori, Yingzhen Li.
 Kevin Meng, David Bau, Alex Andonian, Yonatan Belinkov.
 [[paper](https://arxiv.org/abs/2202.05262)] [[code](https://github.com/kmeng01/rome)] [[page](https://rome.baulab.info/)] [[video](https://www.youtube.com/watch?v=_NMQyOu2HTo&t=0)]
 
-5. **Mass-Editing Memory in a Transformer**. <br />
+5. **Mass-Editing Memory in a Transformer**. (ICLR 2023) <br />
 Kevin Meng, Arnab Sen Sharma, Alex Andonian, Yonatan Belinkov, David Bau.
  [[paper](https://arxiv.org/abs/2210.07229)] [[code](https://github.com/kmeng01/memit)] [[page](https://memit.baulab.info/)] [[demo](https://memit.baulab.us/#/)]
 
