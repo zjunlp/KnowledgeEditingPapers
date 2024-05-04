@@ -279,7 +279,7 @@ Arnab Sen Sharma,David Atkinson,David Bau. [[paper](https://arxiv.org/abs/2404.0
 
 1. **FRUIT: Faithfully Reflecting Updated Information in Text**. (NAACL 2022) <br />
 Robert L. Logan IV, Alexandre Passos, Sameer Singh, Ming-Wei Chang.
- [[paper]()] [[code]()]
+ [[paper](https://arxiv.org/pdf/2112.08634)] [[code](https://github.com/google-research/language/tree/master/language/fruit)]
 
 2. **Entailer: Answering Questions with Faithful and Truthful Chains of Reasoning**. (EMNLP 2022) <br />
 Oyvind Tafjord, Bhavana Dalvi Mishra, Peter Clark.
