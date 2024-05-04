@@ -207,7 +207,7 @@ Shibani Santurkar, Dimitris Tsipras, Mahalaxmi Elango, David Bau, Antonio Torral
 Yang Xu, Yutai Hou, Wanxiang Che.
  [[paper](https://arxiv.org/abs/2205.12677)] 
 
-3. **Repairing Neural Networks by Leaving the Right Past Behind**. (NeurIPS 2022) <br />
+3. **Repairing Neural Networks by Leaving the Right Past Behind**. <br />
 Ryutaro Tanno, Melanie F. Pradier, Aditya Nori, Yingzhen Li.
  [[paper](https://arxiv.org/abs/2207.04806)]
 
@@ -227,9 +227,9 @@ Gabriel Ilharco, Marco Tulio Ribeiro, Mitchell Wortsman, Ludwig Schmidt, Hannane
 Anshita Gupta, Debanjan Mondal, Akshay Krishna Sheshadri, Wenlong Zhao, Xiang Lorraine Li, Sarah Wiegreffe, Niket Tandon.
 [[paper](https://arxiv.org/abs/2305.14956)]
 
-8. **Do Language Models Have Beliefs? Methods for Detecting, Updating, and Visualizing Model Beliefs**. <br />
+8. **Do Language Models Have Beliefs? Methods for Detecting, Updating, and Visualizing Model Beliefs**. (EACL 2023) <br />
 Peter Hase, Mona Diab, Asli Celikyilmaz, Xian Li, Zornitsa Kozareva, Veselin Stoyanov, Mohit Bansal, Srinivasan Iyer.
-    [[paper](https://arxiv.org/pdf/2111.13654.pdf)] [[code](https://github.com/peterbhase/SLAG-Belief-Updating)]
+[[paper](https://arxiv.org/pdf/2111.13654.pdf)] [[code](https://github.com/peterbhase/SLAG-Belief-Updating)]
 
 9. **Detecting Edit Failures In Large Language Models: An Improved Specificity Benchmark** .<br />
 Jason Hoelscher-Obermaier, Julia Persson, Esben Kran, Ioannis Konstas, Fazl Barez.
