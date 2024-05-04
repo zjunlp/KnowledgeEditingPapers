@@ -412,7 +412,8 @@ Derong Xu, Ziheng Zhang, Zhihong Zhu, Zhenxi Lin. [[paper](https://arxiv.org/abs
  Zihao Wei,Jingcheng Deng,Liang Pang,Hanxing Ding,Huawei Shen,Xueqi Cheng. [[paper](https://arxiv.org/abs/2404.04990)]
 30. **Is Your LLM Outdated? Benchmarking LLMs & Alignment Algorithms for Time-Sensitive Knowledge** <br />
  Seyed Mahed Mousavi, Simone Alghisi, Giuseppe Riccardi. [[paper](https://arxiv.org/abs/2404.08700)]
-
+31. **Neighboring Perturbations of Knowledge Editing on Large Language Models** <br />
+ Jun-Yu Ma, Jia-Chen Gu, Ningyu Zhang, Zhen-Hua Ling. [[paper](https://arxiv.org/pdf/2401.17623)]
 ## 🧰 Resources
 
 ### Benchmarks and Tasks
