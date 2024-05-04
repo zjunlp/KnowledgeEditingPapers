@@ -231,7 +231,7 @@ Anshita Gupta, Debanjan Mondal, Akshay Krishna Sheshadri, Wenlong Zhao, Xiang Lo
 Peter Hase, Mona Diab, Asli Celikyilmaz, Xian Li, Zornitsa Kozareva, Veselin Stoyanov, Mohit Bansal, Srinivasan Iyer.
 [[paper](https://arxiv.org/pdf/2111.13654.pdf)] [[code](https://github.com/peterbhase/SLAG-Belief-Updating)]
 
-9. **Detecting Edit Failures In Large Language Models: An Improved Specificity Benchmark** .<br />
+9. **Detecting Edit Failures In Large Language Models: An Improved Specificity Benchmark**. (ACL 2023 Findings)<br />
 Jason Hoelscher-Obermaier, Julia Persson, Esben Kran, Ioannis Konstas, Fazl Barez.
 [[paper](https://arxiv.org/abs/2305.17553)]
 
