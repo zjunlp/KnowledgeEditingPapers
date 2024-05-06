@@ -66,7 +66,7 @@ Knowledge Editing has strong connections with following topics.
 - Lifelong learning, unlearning and etc.
 - Security and privacy for large language models
 
-
+<div align=center><img src="./img/ke.png" width="100%" height="80%" /></div>
 
 ## 📜 Resources
 This is a collection of research and review papers of Knowledge Editing. Any suggestions and pull requests are welcome for better sharing of latest research progress.
