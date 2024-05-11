@@ -420,6 +420,12 @@ Derong Xu, Ziheng Zhang, Zhihong Zhu, Zhenxi Lin. [[paper](https://arxiv.org/abs
  Seyed Mahed Mousavi, Simone Alghisi, Giuseppe Riccardi. [[paper](https://arxiv.org/abs/2404.08700)]
 31. **Neighboring Perturbations of Knowledge Editing on Large Language Models**（ICML 2024）<br />
  Jun-Yu Ma, Jia-Chen Gu, Ningyu Zhang, Zhen-Hua Ling. [[paper](https://arxiv.org/pdf/2401.17623)]
+32. **Event-level Knowledge Editing**<br />
+ Hao Peng, Xiaozhi Wang, Chunyang Li, Kaisheng Zeng, Jiangshan Duo, Yixin Cao, Lei Hou, Juanzi Li. [[paper](https://arxiv.org/abs/2402.13093)]
+33. **Updating Language Models with Unstructured Facts: Towards Practical Knowledge Editing**<br />
+ Xiaobao Wu, Liangming Pan, William Yang Wang, Anh Tuan Luu. [[paper](https://arxiv.org/abs/2402.18909)]
+34. **Detecting Edited Knowledge in Language Models**<br />
+ Paul Youssef, Zhixue Zhao, Jörg Schlötterer, Christin Seifert. [[paper](https://arxiv.org/abs/2405.02765)]
 ## 🧰 Resources
 
 ### Benchmarks and Tasks
