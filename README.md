@@ -282,6 +282,9 @@ Mengru Wang, Ningyu Zhang, Ziwen Xu, Zekun Xi, Shumin Deng, Yunzhi Yao, Qishen Z
 22. **Locating and Editing Factual Associations in Mamba** <br />
 Arnab Sen Sharma,David Atkinson,David Bau. [[paper](https://arxiv.org/abs/2404.03646)]
 
+23. **Large Language Model Bias Mitigation from the Perspective of Knowledge Editing** <br />
+Ruizhe Chen, Yichen Li, Zikai Xiao, Zuozhu Liu. [[paper](https://arxiv.org/abs/2405.09341)]
+
 #### More Related Papers
 
 1. **FRUIT: Faithfully Reflecting Updated Information in Text**. (NAACL 2022) <br />
