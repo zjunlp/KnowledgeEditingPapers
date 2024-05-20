@@ -129,17 +129,17 @@ Yasumasa Onoe, Michael J.Q. Zhang, Shankar Padmanabhan, Greg Durrett, Eunsol Cho
 Zexuan Zhong, Zhengxuan Wu, Christopher D. Manning, Christopher Potts, Danqi Chen.<br />[[paper](https://arxiv.org/abs/2305.14795)] [[code](https://github.com/princeton-nlp/MQuAKE)]
 
 8. **PokeMQA: Programmable knowledge editing for Multi-hop Question Answering** <br>
-Hengrui Gu, Kaixiong Zhou, Xiaotian Han, Ninghao Liu, Ruobing Wang, Xin Wang. <br /> [[paper](https://arxiv.org/pdf/2312.15194.pdf)] [[code](https://github.com/Hengrui-Gu/PokeMQA)]
+Hengrui Gu, Kaixiong Zhou, Xiaotian Han, Ninghao Liu, Ruobing Wang, Xin Wang. <br /> [[paper](https://arxiv.org/abs/2312.15194)] [[code](https://github.com/Hengrui-Gu/PokeMQA)]
 
 9. **Retrieval-augmented Multilingual Knowledge Editing** <br>
 Weixuan Wang, Barry Haddow, Alexandra Birch.
 [[paper](https://arxiv.org/abs/2312.13040)] [[code](https://github.com/Vicky-Wil/ReMaKE)]
 
 10. **MEMORYLLM: Towards Self-Updatable Large Language Models** <br>
-Yu Wang, Xiusi Chen, Jingbo Shang, Julian McAuley. [[paper](https://arxiv.org/pdf/2402.04624.pdf)]
+Yu Wang, Xiusi Chen, Jingbo Shang, Julian McAuley. [[paper](https://arxiv.org/abs/2402.04624)]
 
 11. **DeepEdit: Knowledge Editing as Decoding with Constraints** <br>
-Yiwei Wang,Muhao Chen,Nanyun Peng, Kai-Wei Chang. [[paper](https://arxiv.org/pdf/2401.10471.pdf)]
+Yiwei Wang,Muhao Chen,Nanyun Peng, Kai-Wei Chang. [[paper](https://arxiv.org/abs/2401.10471)]
 
 12. **Stable Knowledge Editing in Large Language Models**. <br />
 Zihao Wei,Liang Pang,Hanxing Ding,Jingcheng Deng,Huawei Shen,Xueqi Cheng. [[paper](https://arxiv.org/abs/2402.13093)]
@@ -170,16 +170,16 @@ Qingxiu Dong, Damai Dai, Yifan Song, Jingjing Xu, Zhifang Sui, Lei Li.
 Damai Dai, Wenbin Jiang, Qingxiu Dong, Yajuan Lyu, Qiaoqiao She, Zhifang Sui. [[paper](http://arxiv.org/abs/2208.00399)]
 
 6. **Rank-One Editing of Encoder-Decoder Models** <br />
-Vikas Raunak, Arul Menezes. [[paper](https://arxiv.org/pdf/2211.13317.pdf)]
+Vikas Raunak, Arul Menezes. [[paper](https://arxiv.org/abs/2211.13317)]
 
 8. **MELO: Enhancing Model Editing with Neuron-Indexed Dynamic LoRA.** (AAAI 2024) <br />
-Lang Yu, Qin Chen, Jie Zhou, Liang He.  [[paper](https://arxiv.org/pdf/2312.11795.pdf)] [[code](https://github.com/BruthYU/MELO)]
+Lang Yu, Qin Chen, Jie Zhou, Liang He.  [[paper](https://arxiv.org/abs/2312.11795)] [[code](https://github.com/BruthYU/MELO)]
 
 10. **MPN: Leveraging Multilingual Patch Neuron for Cross-lingual Model Editing**  <br />
 Nianwen Si, Hao Zhang, Weiqiang Zhang.  [[paper](https://arxiv.org/abs/2401.03190)]
 
 11. **SWEA: Changing Factual Knowledge in Large Language Models via Subject Word Embedding Altering**  <br />
-Xiaopeng Li, Shasha Li, Bin Ji, Shezheng Song.  [[paper](https://arxiv.org/pdf/2401.17809.pdf)]
+Xiaopeng Li, Shasha Li, Bin Ji, Shezheng Song.  [[paper](https://arxiv.org/abs/2401.17809)]
 
 12. **WilKE: Wise-Layer Knowledge Editor for Lifelong Knowledge Editing**  <br />
 Chenhui Hu,Pengfei Cao,Yubo Chen,Kang Liu,Jun Zhao.  [[paper](https://arxiv.org/abs/2402.10987)]
