@@ -148,7 +148,7 @@ Zihao Wei,Liang Pang,Hanxing Ding,Jingcheng Deng,Huawei Shen,Xueqi Cheng. [[pape
 Xiaoshuai Song, Zhengyang Wang, Keqing He, Guanting Dong, Jinxu Zhao, Weiran Xu. [[paper](https://arxiv.org/abs/2402.08631)]
 
 14. **Learning to Edit: Aligning LLMs with Knowledge Editing**. <br />
-Yuxin Jiang,Yufei Wang,Chuhan Wu. [[paper](https://arxiv.org/abs/2402.11905)]
+Yuxin Jiang, Yufei Wang, Chuhan Wu, Wanjun Zhong, Xingshan Zeng, Jiahui Gao, Liangyou Li, Xin Jiang, Lifeng Shang, Ruiming Tang, Qun Liu, Wei Wang. [[paper](https://arxiv.org/abs/2402.11905)]
 
 15. **Robust and Scalable Model Editing for Large Language Models**. <br />
 Yingfa Chen, Zhengyan Zhang, Xu Han, Chaojun Xiao, Zhiyuan Liu, Chen Chen, Kuai Li, Tao Yang, Maosong Sun. [[paper](https://arxiv.org/abs/2403.17431)]
