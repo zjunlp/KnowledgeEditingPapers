@@ -136,12 +136,20 @@ Weixuan Wang, Barry Haddow, Alexandra Birch.
 [[paper](https://arxiv.org/abs/2312.13040)] [[code](https://github.com/Vicky-Wil/ReMaKE)]
 
 11. **MEMORYLLM: Towards Self-Updatable Large Language Models** <br>
-Yu Wang, Xiusi Chen, Jingbo Shang, Julian McAuley.
-[[paper](https://arxiv.org/pdf/2402.04624.pdf)]
+Yu Wang, Xiusi Chen, Jingbo Shang, Julian McAuley. [[paper](https://arxiv.org/pdf/2402.04624.pdf)]
 
 12. **DeepEdit: Knowledge Editing as Decoding with Constraints** <br>
-Yiwei Wang,Muhao Chen,Nanyun Peng, Kai-Wei Chang.
-[[paper](https://arxiv.org/pdf/2401.10471.pdf)]
+Yiwei Wang,Muhao Chen,Nanyun Peng, Kai-Wei Chang. [[paper](https://arxiv.org/pdf/2401.10471.pdf)]
+
+13. **Stable Knowledge Editing in Large Language Models**. <br />
+Zihao Wei,Liang Pang,Hanxing Ding,Jingcheng Deng,Huawei Shen,Xueqi Cheng. [[paper](https://arxiv.org/abs/2402.13093)]
+
+14. **Knowledge Editing on Black-box Large Language Models**. <br />
+Xiaoshuai Song, Zhengyang Wang, Keqing He, Guanting Dong, Jinxu Zhao, Weiran Xu. [[paper](https://arxiv.org/abs/2402.08631)]
+
+15. **Learning to Edit: Aligning LLMs with Knowledge Editing**. <br />
+Yuxin Jiang,Yufei Wang,Chuhan Wu. [[paper](https://arxiv.org/abs/2402.11905)]
+
 ##### Additional Parameters
 1. **Calibrating Factual Knowledge in Pretrained Language Models**. (EMNLP 2022) <br />
 Qingxiu Dong, Damai Dai, Yifan Song, Jingjing Xu, Zhifang Sui, Lei Li.
@@ -155,15 +163,20 @@ Qingxiu Dong, Damai Dai, Yifan Song, Jingjing Xu, Zhifang Sui, Lei Li.
    [[paper](https://arxiv.org/abs/2211.11031)] [[code](https://github.com/thartvigsen/grace)]
 4. **Neural Knowledge Bank for Pretrained Transformers** <br />
 Damai Dai, Wenbin Jiang, Qingxiu Dong, Yajuan Lyu, Qiaoqiao She, Zhifang Sui. [[paper](http://arxiv.org/abs/2208.00399)]
-5. **Rank-One Editing of Encoder-Decoder Models** <br />
+
+6. **Rank-One Editing of Encoder-Decoder Models** <br />
 Vikas Raunak, Arul Menezes. [[paper](https://arxiv.org/pdf/2211.13317.pdf)]
-6. **MELO: Enhancing Model Editing with Neuron-Indexed Dynamic LoRA.** (AAAI 2024) <br />
+
+8. **MELO: Enhancing Model Editing with Neuron-Indexed Dynamic LoRA.** (AAAI 2024) <br />
 Lang Yu, Qin Chen, Jie Zhou, Liang He.  [[paper](https://arxiv.org/pdf/2312.11795.pdf)] [[code](https://github.com/BruthYU/MELO)]
-7. **MPN: Leveraging Multilingual Patch Neuron for Cross-lingual Model Editing**  <br />
+
+10. **MPN: Leveraging Multilingual Patch Neuron for Cross-lingual Model Editing**  <br />
 Nianwen Si, Hao Zhang, Weiqiang Zhang.  [[paper](https://arxiv.org/abs/2401.03190)]
-8. **SWEA: Changing Factual Knowledge in Large Language Models via Subject Word Embedding Altering**  <br />
+
+11. **SWEA: Changing Factual Knowledge in Large Language Models via Subject Word Embedding Altering**  <br />
 Xiaopeng Li, Shasha Li, Bin Ji, Shezheng Song.  [[paper](https://arxiv.org/pdf/2401.17809.pdf)]
-9. **WilKE: Wise-Layer Knowledge Editor for Lifelong Knowledge Editing**  <br />
+
+12. **WilKE: Wise-Layer Knowledge Editor for Lifelong Knowledge Editing**  <br />
 Chenhui Hu,Pengfei Cao,Yubo Chen,Kang Liu,Jun Zhao.  [[paper](https://arxiv.org/abs/2402.10987)]
 ##### Change LM's representation space
 
@@ -331,34 +344,25 @@ Rima Hazra, Sayan Layek, Somnath Banerjee, Soujanya Poria. [[paper](https://arxi
 13. **Model Editing with Canonical Examples**. <br />
 John Hewitt, Sarah Chen, Lanruo Lora Xie. [[paper](https://arxiv.org/pdf/2402.06155.pdf)]
 
-14. **Knowledge Editing on Black-box Large Language Models**. <br />
-Xiaoshuai Song, Zhengyang Wang, Keqing He, Guanting Dong, Jinxu Zhao, Weiran Xu. [[paper](https://arxiv.org/abs/2402.08631)]
-
-15. **EVEDIT: Event-based Knowledge Editing with Deductive Editing Boundaries**. <br />
+14. **EVEDIT: Event-based Knowledge Editing with Deductive Editing Boundaries**. <br />
 Jiateng Liu,Pengfei Yu,Yuji Zhang,Sha Li,Zixuan Zhang,Heng Ji. [[paper](https://arxiv.org/abs/2402.11324)]
 
-16. **Investigating Multi-Hop Factual Shortcuts in Knowledge Editing of Large  Language Models**. <br />
+15. **Investigating Multi-Hop Factual Shortcuts in Knowledge Editing of Large  Language Models**. <br />
 Tianjie Ju,Yijin Chen,Xinwei Yuan,Zhuosheng Zhang,Wei Du,Yubin Zheng,Gongshen Liu. [[paper](https://arxiv.org/abs/2402.11900)]
 
-17. **Learning to Edit: Aligning LLMs with Knowledge Editing**. <br />
-Yuxin Jiang,Yufei Wang,Chuhan Wu. [[paper](https://arxiv.org/abs/2402.11905)]
-
-18. **Stable Knowledge Editing in Large Language Models**. <br />
-Zihao Wei,Liang Pang,Hanxing Ding,Jingcheng Deng,Huawei Shen,Xueqi Cheng. [[paper](https://arxiv.org/abs/2402.13093)]
-
-19. **Knowledge Graph Enhanced Large Language Model Editing**. <br />
+16. **Knowledge Graph Enhanced Large Language Model Editing**. <br />
 Mengqi Zhang,Xiaotian Ye,Qiang Liu,Pengjie Ren,Shu Wu,Zhumin Chen. [[paper](https://arxiv.org/abs/2402.13593)]
 
-20. **Editing Factual Knowledge and Explanatory Ability of Medical Large Language Models**. <br />
+17. **Editing Factual Knowledge and Explanatory Ability of Medical Large Language Models**. <br />
 Derong Xu, Ziheng Zhang, Zhihong Zhu, Zhenxi Lin. [[paper](https://arxiv.org/abs/2402.18099)]
 
-21. **KEBench: A Benchmark on Knowledge Editing for Large Vision-Language Models**. <br />
+18. **KEBench: A Benchmark on Knowledge Editing for Large Vision-Language Models**. <br />
  Han Huang, Haitian Zhong, Qiang Liu, Shu Wu, Liang Wang, Tieniu Tan. [[paper](https://arxiv.org/pdf/2403.07350.pdf)]
 
-22. **COLLABEDIT: TOWARDS NON-DESTRUCTIVE COLLABORATIVE KNOWLEDGE EDITING**. <br />
+19. **COLLABEDIT: TOWARDS NON-DESTRUCTIVE COLLABORATIVE KNOWLEDGE EDITING**. <br />
  Jiamu Zheng, Jinghuai Zhang, Futing Wang, Tianyu Du, Tao Lin. [[paper](https://openreview.net/pdf?id=PoVpff2Udw)]
 
-23. **TAXI: Evaluating Categorical Knowledge Editing for Language Models**. <br />
+20. **TAXI: Evaluating Categorical Knowledge Editing for Language Models**. <br />
  Derek Powell, Walter Gerych, Thomas Hartvigsen. [[paper](https://arxiv.org/pdf/2404.15004)]
 
 ### Analysis
