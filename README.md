@@ -121,35 +121,40 @@ Aman Madaan, Niket Tandon, Peter Clark, Yiming Yang.
 Ce Zheng, Lei Li, Qingxiu Dong, Yuxuan Fan, Zhiyong Wu, Jingjing Xu, Baobao Chang.
 [[paper](https://arxiv.org/abs/2305.12740)]
 
-7. **Can LMs Learn New Entities from Descriptions? Challenges in Propagating Injected Knowledge** <br />
+6. **Can LMs Learn New Entities from Descriptions? Challenges in Propagating Injected Knowledge** <br />
 Yasumasa Onoe, Michael J.Q. Zhang, Shankar Padmanabhan, Greg Durrett, Eunsol Choi.
  [[paper](https://arxiv.org/abs/2305.01651)]
 
-8. **MQUAKE: Assessing Knowledge Editing inLanguage Models via Multi-Hop Questions** <br>
+7. **MQUAKE: Assessing Knowledge Editing inLanguage Models via Multi-Hop Questions** <br>
 Zexuan Zhong, Zhengxuan Wu, Christopher D. Manning, Christopher Potts, Danqi Chen.<br />[[paper](https://arxiv.org/abs/2305.14795)] [[code](https://github.com/princeton-nlp/MQuAKE)]
 
-9. **PokeMQA: Programmable knowledge editing for Multi-hop Question Answering** <br>
+8. **PokeMQA: Programmable knowledge editing for Multi-hop Question Answering** <br>
 Hengrui Gu, Kaixiong Zhou, Xiaotian Han, Ninghao Liu, Ruobing Wang, Xin Wang. <br /> [[paper](https://arxiv.org/pdf/2312.15194.pdf)] [[code](https://github.com/Hengrui-Gu/PokeMQA)]
 
-10. **Retrieval-augmented Multilingual Knowledge Editing** <br>
+9. **Retrieval-augmented Multilingual Knowledge Editing** <br>
 Weixuan Wang, Barry Haddow, Alexandra Birch.
 [[paper](https://arxiv.org/abs/2312.13040)] [[code](https://github.com/Vicky-Wil/ReMaKE)]
 
-11. **MEMORYLLM: Towards Self-Updatable Large Language Models** <br>
+10. **MEMORYLLM: Towards Self-Updatable Large Language Models** <br>
 Yu Wang, Xiusi Chen, Jingbo Shang, Julian McAuley. [[paper](https://arxiv.org/pdf/2402.04624.pdf)]
 
-12. **DeepEdit: Knowledge Editing as Decoding with Constraints** <br>
+11. **DeepEdit: Knowledge Editing as Decoding with Constraints** <br>
 Yiwei Wang,Muhao Chen,Nanyun Peng, Kai-Wei Chang. [[paper](https://arxiv.org/pdf/2401.10471.pdf)]
 
-13. **Stable Knowledge Editing in Large Language Models**. <br />
+12. **Stable Knowledge Editing in Large Language Models**. <br />
 Zihao Wei,Liang Pang,Hanxing Ding,Jingcheng Deng,Huawei Shen,Xueqi Cheng. [[paper](https://arxiv.org/abs/2402.13093)]
 
-14. **Knowledge Editing on Black-box Large Language Models**. <br />
+13. **Knowledge Editing on Black-box Large Language Models**. <br />
 Xiaoshuai Song, Zhengyang Wang, Keqing He, Guanting Dong, Jinxu Zhao, Weiran Xu. [[paper](https://arxiv.org/abs/2402.08631)]
 
-15. **Learning to Edit: Aligning LLMs with Knowledge Editing**. <br />
+14. **Learning to Edit: Aligning LLMs with Knowledge Editing**. <br />
 Yuxin Jiang,Yufei Wang,Chuhan Wu. [[paper](https://arxiv.org/abs/2402.11905)]
 
+15. **Robust and Scalable Model Editing for Large Language Models**. <br />
+Yingfa Chen, Zhengyan Zhang, Xu Han, Chaojun Xiao, Zhiyuan Liu, Chen Chen, Kuai Li, Tao Yang, Maosong Sun. [[paper](https://arxiv.org/abs/2403.17431)]
+
+16. **Retrieval-Enhanced Knowledge Editing for Multi-Hop Question Answering in Language Models**. <br />
+Yucheng Shi, Qiaoyu Tan, Xuansheng Wu, Shaochen Zhong, Kaixiong Zhou, Ninghao Liu. [[paper](https://arxiv.org/abs/2403.19631)]
 ##### Additional Parameters
 1. **Calibrating Factual Knowledge in Pretrained Language Models**. (EMNLP 2022) <br />
 Qingxiu Dong, Damai Dai, Yifan Song, Jingjing Xu, Zhifang Sui, Lei Li.
