@@ -33,7 +33,8 @@ Must-read papers on [knowledge editing](https://arxiv.org/abs/2305.13172) for la
 ## 🔍 Contents
 
 - [🌟 Why Knowledge Editing?](#-why-knowledge-editing)
-- [Keywords](#keywords)
+ - [Keywords](#keywords)
+- [Comparisons among the different technologies](#comparisons-among-different-technologies)
 - [📜 Papers](#-papers)
   - [Overview](#overview)
   - [Methods](#methods)
@@ -68,6 +69,11 @@ Knowledge Editing has strong connections with following topics.
 - Security and privacy for large language models
 
 <div align=center><img src="./img/ke.png" width="100%" height="80%" /></div>
+
+## Comparisons among different technologies
+
+<div align=center><img src="./img/comparison.png" width="60%" height="48%" /></div>
+
 
 ## 📜 Resources
 This is a collection of research and review papers of Knowledge Editing. Any suggestions and pull requests are welcome for better sharing of latest research progress.
