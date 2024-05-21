@@ -34,7 +34,7 @@ Must-read papers on [knowledge editing](https://arxiv.org/abs/2305.13172) for la
 
 - [🌟 Why Knowledge Editing?](#-why-knowledge-editing)
  - [Keywords](#keywords)
-- [Comparisons among the different technologies](#comparisons-among-different-technologies)
+- [Comparisons of the different technologies](#comparisons-of-different-technologies)
 - [📜 Papers](#-papers)
   - [Overview](#overview)
   - [Methods](#methods)
@@ -70,7 +70,7 @@ Knowledge Editing has strong connections with following topics.
 
 <div align=center><img src="./img/ke.png" width="100%" height="80%" /></div>
 
-## Comparisons among different technologies
+## Comparisons of different technologies
 
 <div align=center><img src="./img/comparison.png" width="60%" height="48%" /></div>
 
