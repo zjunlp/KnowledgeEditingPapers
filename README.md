@@ -446,6 +446,8 @@ Derong Xu, Ziheng Zhang, Zhihong Zhu, Zhenxi Lin. [[paper](https://arxiv.org/abs
  Xiaobao Wu, Liangming Pan, William Yang Wang, Anh Tuan Luu. [[paper](https://arxiv.org/abs/2402.18909)]
 34. **Detecting Edited Knowledge in Language Models**<br />
  Paul Youssef, Zhixue Zhao, Jörg Schlötterer, Christin Seifert. [[paper](https://arxiv.org/abs/2405.02765)]
+35. **Perturbation-Restrained Sequential Model Editing**<br />
+ Jun-Yu Ma, Hong Wang, Hao-Xiang Xu, Zhen-Hua Ling, Jia-Chen Gu. [[paper](https://arxiv.org/abs/2405.16821)]
 ## 🧰 Resources
 
 ### Benchmarks and Tasks
