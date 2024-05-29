@@ -110,58 +110,61 @@ Nianwen Si, Hao Zhang, Heyu Chang, Wenlin Zhang, Dan Qu, Weiqiang Zhang. [[paper
 ##### Memory-based
 
 1. **Memory-Based Model Editing at Scale** (ICML 2022) <br />
- Eric Mitchell, Charles Lin, Antoine Bosselut, Christopher D. Manning, Chelsea Finn.
-  [[paper](https://arxiv.org/abs/2206.06520)] [[code](https://github.com/eric-mitchell/serac)] [[demo](https://sites.google.com/view/serac-editing)]
+    Eric Mitchell, Charles Lin, Antoine Bosselut, Christopher D. Manning, Chelsea Finn.
+      [[paper](https://arxiv.org/abs/2206.06520)] [[code](https://github.com/eric-mitchell/serac)] [[demo](https://sites.google.com/view/serac-editing)]
 
 2. **Fixing Model Bugs with Natural Language Patches**. (EMNLP 2022) <br />
    Shikhar Murty, Christopher D. Manning, Scott M. Lundberg, Marco Túlio Ribeiro.
    [[paper](https://arxiv.org/abs/2211.03318)] [[code](https://github.com/MurtyShikhar/LanguagePatching)]
 3. **MemPrompt: Memory-assisted Prompt Editing with User Feedback**. (EMNLP 2022) <br />
-Aman Madaan, Niket Tandon, Peter Clark, Yiming Yang.
-    [[paper](https://arxiv.org/abs/2201.06009)] [[code](https://github.com/madaan/memprompt)] [[page](https://memprompt.com/)] [[video](https://www.youtube.com/watch?v=Ld7R02bOiNQ&t=1s)]
+  Aman Madaan, Niket Tandon, Peter Clark, Yiming Yang.
+   [[paper](https://arxiv.org/abs/2201.06009)] [[code](https://github.com/madaan/memprompt)] [[page](https://memprompt.com/)] [[video](https://www.youtube.com/watch?v=Ld7R02bOiNQ&t=1s)]
 
-4.  **Large Language Models with Controllable Working Memory**. <br />
- Daliang Li, Ankit Singh Rawat, Manzil Zaheer, Xin Wang, Michal Lukasik, Andreas Veit, Felix Yu, Sanjiv Kumar.
+4. **Large Language Models with Controllable Working Memory**. <br />
+     Daliang Li, Ankit Singh Rawat, Manzil Zaheer, Xin Wang, Michal Lukasik, Andreas Veit, Felix Yu, Sanjiv Kumar.
     [[paper](https://arxiv.org/abs/2211.05110)]
 
 5. **Can We Edit Factual Knowledge by In-Context Learning?** <br />
-Ce Zheng, Lei Li, Qingxiu Dong, Yuxuan Fan, Zhiyong Wu, Jingjing Xu, Baobao Chang.
-[[paper](https://arxiv.org/abs/2305.12740)]
+  Ce Zheng, Lei Li, Qingxiu Dong, Yuxuan Fan, Zhiyong Wu, Jingjing Xu, Baobao Chang.
+  [[paper](https://arxiv.org/abs/2305.12740)]
 
 6. **Can LMs Learn New Entities from Descriptions? Challenges in Propagating Injected Knowledge** <br />
-Yasumasa Onoe, Michael J.Q. Zhang, Shankar Padmanabhan, Greg Durrett, Eunsol Choi.
- [[paper](https://arxiv.org/abs/2305.01651)]
+  Yasumasa Onoe, Michael J.Q. Zhang, Shankar Padmanabhan, Greg Durrett, Eunsol Choi.
+   [[paper](https://arxiv.org/abs/2305.01651)]
 
 7. **MQUAKE: Assessing Knowledge Editing inLanguage Models via Multi-Hop Questions** <br>
-Zexuan Zhong, Zhengxuan Wu, Christopher D. Manning, Christopher Potts, Danqi Chen.<br />[[paper](https://arxiv.org/abs/2305.14795)] [[code](https://github.com/princeton-nlp/MQuAKE)]
+  Zexuan Zhong, Zhengxuan Wu, Christopher D. Manning, Christopher Potts, Danqi Chen.<br />[[paper](https://arxiv.org/abs/2305.14795)] [[code](https://github.com/princeton-nlp/MQuAKE)]
 
 8. **PokeMQA: Programmable knowledge editing for Multi-hop Question Answering** <br>
-Hengrui Gu, Kaixiong Zhou, Xiaotian Han, Ninghao Liu, Ruobing Wang, Xin Wang. <br /> [[paper](https://arxiv.org/abs/2312.15194)] [[code](https://github.com/Hengrui-Gu/PokeMQA)]
+  Hengrui Gu, Kaixiong Zhou, Xiaotian Han, Ninghao Liu, Ruobing Wang, Xin Wang. <br /> [[paper](https://arxiv.org/abs/2312.15194)] [[code](https://github.com/Hengrui-Gu/PokeMQA)]
 
 9. **Retrieval-augmented Multilingual Knowledge Editing** <br>
-Weixuan Wang, Barry Haddow, Alexandra Birch.
-[[paper](https://arxiv.org/abs/2312.13040)] [[code](https://github.com/Vicky-Wil/ReMaKE)]
+  Weixuan Wang, Barry Haddow, Alexandra Birch.
+  [[paper](https://arxiv.org/abs/2312.13040)] [[code](https://github.com/Vicky-Wil/ReMaKE)]
 
 10. **MEMORYLLM: Towards Self-Updatable Large Language Models** <br>
-Yu Wang, Xiusi Chen, Jingbo Shang, Julian McAuley. [[paper](https://arxiv.org/abs/2402.04624)]
+    Yu Wang, Xiusi Chen, Jingbo Shang, Julian McAuley. [[paper](https://arxiv.org/abs/2402.04624)]
 
 11. **DeepEdit: Knowledge Editing as Decoding with Constraints** <br>
-Yiwei Wang,Muhao Chen,Nanyun Peng, Kai-Wei Chang. [[paper](https://arxiv.org/abs/2401.10471)]
+     Yiwei Wang,Muhao Chen,Nanyun Peng, Kai-Wei Chang. [[paper](https://arxiv.org/abs/2401.10471)]
 
 12. **Stable Knowledge Editing in Large Language Models**. <br />
-Zihao Wei,Liang Pang,Hanxing Ding,Jingcheng Deng,Huawei Shen,Xueqi Cheng. [[paper](https://arxiv.org/abs/2402.13093)]
+     Zihao Wei,Liang Pang,Hanxing Ding,Jingcheng Deng,Huawei Shen,Xueqi Cheng. [[paper](https://arxiv.org/abs/2402.13093)]
 
 13. **Knowledge Editing on Black-box Large Language Models**. <br />
-Xiaoshuai Song, Zhengyang Wang, Keqing He, Guanting Dong, Jinxu Zhao, Weiran Xu. [[paper](https://arxiv.org/abs/2402.08631)]
+     Xiaoshuai Song, Zhengyang Wang, Keqing He, Guanting Dong, Jinxu Zhao, Weiran Xu. [[paper](https://arxiv.org/abs/2402.08631)]
 
 14. **Learning to Edit: Aligning LLMs with Knowledge Editing**. <br />
-Yuxin Jiang, Yufei Wang, Chuhan Wu, Wanjun Zhong, Xingshan Zeng, Jiahui Gao, Liangyou Li, Xin Jiang, Lifeng Shang, Ruiming Tang, Qun Liu, Wei Wang. [[paper](https://arxiv.org/abs/2402.11905)]
+     Yuxin Jiang, Yufei Wang, Chuhan Wu, Wanjun Zhong, Xingshan Zeng, Jiahui Gao, Liangyou Li, Xin Jiang, Lifeng Shang, Ruiming Tang, Qun Liu, Wei Wang. [[paper](https://arxiv.org/abs/2402.11905)]
 
 15. **Robust and Scalable Model Editing for Large Language Models**. <br />
-Yingfa Chen, Zhengyan Zhang, Xu Han, Chaojun Xiao, Zhiyuan Liu, Chen Chen, Kuai Li, Tao Yang, Maosong Sun. [[paper](https://arxiv.org/abs/2403.17431)]
+     Yingfa Chen, Zhengyan Zhang, Xu Han, Chaojun Xiao, Zhiyuan Liu, Chen Chen, Kuai Li, Tao Yang, Maosong Sun. [[paper](https://arxiv.org/abs/2403.17431)]
 
 16. **Retrieval-Enhanced Knowledge Editing for Multi-Hop Question Answering in Language Models**. <br />
-Yucheng Shi, Qiaoyu Tan, Xuansheng Wu, Shaochen Zhong, Kaixiong Zhou, Ninghao Liu. [[paper](https://arxiv.org/abs/2403.19631)]
+     Yucheng Shi, Qiaoyu Tan, Xuansheng Wu, Shaochen Zhong, Kaixiong Zhou, Ninghao Liu. [[paper](https://arxiv.org/abs/2403.19631)]
+
+17. **WISE: Rethinking the Knowledge Memory for Lifelong Model Editing of Large Language Models**. <br />Peng Wang, Zexi Li, Ningyu Zhang, Ziwen Xu, Yunzhi Yao, Yong Jiang, Pengjun Xie, Fei Huang, Huajun Chen. [[paper](https://arxiv.org/abs/2405.14768)]
+
 ##### Additional Parameters
 1. **Calibrating Factual Knowledge in Pretrained Language Models**. (EMNLP 2022) <br />
 Qingxiu Dong, Damai Dai, Yifan Song, Jingjing Xu, Zhifang Sui, Lei Li.
@@ -193,7 +196,7 @@ Chenhui Hu,Pengfei Cao,Yubo Chen,Kang Liu,Jun Zhao.  [[paper](https://arxiv.org/
 ##### Change LM's representation space
 
 1. **Inspecting and Editing Knowledge Representations in Language Models** <br />
-  Evan Hernandez, Belinda Z. Li, Jacob Andreas.
+    Evan Hernandez, Belinda Z. Li, Jacob Andreas.
     [[paper](http://arxiv.org/abs/2304.00740)] [[code](https://github.com/evandez/REMEDI)]
 
 
@@ -379,23 +382,23 @@ Derong Xu, Ziheng Zhang, Zhihong Zhu, Zhenxi Lin. [[paper](https://arxiv.org/abs
 
 ### Analysis
 1. **Does Localization Inform Editing? Surprising Differences in Causality-Based Localization vs. Knowledge Editing in Language Models.** <br />
-  Peter Hase, Mohit Bansal, Been Kim, Asma Ghandeharioun. [[paper](https://arxiv.org/pdf/2301.04213.pdf)] [[code](https://github.com/google/belief-localization)] 
+    Peter Hase, Mohit Bansal, Been Kim, Asma Ghandeharioun. [[paper](https://arxiv.org/pdf/2301.04213.pdf)] [[code](https://github.com/google/belief-localization)] 
 2. **Dissecting Recall of Factual Associations in Auto-Regressive Language Models** <br />
-  Mor Geva, Jasmijn Bastings, Katja Filippova, Amir Globerson.  [[paper](https://arxiv.org/abs/2304.14767)]
+    Mor Geva, Jasmijn Bastings, Katja Filippova, Amir Globerson.  [[paper](https://arxiv.org/abs/2304.14767)]
 3. **Evaluating the Ripple Effects of Knowledge Editing in Language Models** <br />
-  Roi Cohen, Eden Biran, Ori Yoran, Amir Globerson, Mor Geva. [[paper](https://arxiv.org/abs/2307.12976)]
+    Roi Cohen, Eden Biran, Ori Yoran, Amir Globerson, Mor Geva. [[paper](https://arxiv.org/abs/2307.12976)]
 4. **Edit at your own risk: evaluating the robustness of edited models to distribution shifts.** <br />
-  Davis Brown, Charles Godfrey, Cody Nizinski, Jonathan Tu, Henry Kvinge. [[paper](https://arxiv.org/abs/2303.00046)]
+    Davis Brown, Charles Godfrey, Cody Nizinski, Jonathan Tu, Henry Kvinge. [[paper](https://arxiv.org/abs/2303.00046)]
 5. **Journey to the Center of the Knowledge Neurons: Discoveries of Language-Independent Knowledge Neurons and Degenerate Knowledge Neurons.** (AAAI 2024) <br />
-  Yuheng Chen, Pengfei Cao, Yubo Chen, Kang Liu, Jun Zhao. [[paper](https://arxiv.org/abs/2308.13198)]
+    Yuheng Chen, Pengfei Cao, Yubo Chen, Kang Liu, Jun Zhao. [[paper](https://arxiv.org/abs/2308.13198)]
 6. **Linearity of Relation Decoding in Transformer Language Models**<br />
-  Evan Hernandez, Martin Wattenberg, Arnab Sen Sharma, Jacob Andreas, Tal Haklay, Yonatan Belinkov, Kevin Meng, David Bau. [[paper](https://arxiv.org/pdf/2308.09124.pdf)]
+    Evan Hernandez, Martin Wattenberg, Arnab Sen Sharma, Jacob Andreas, Tal Haklay, Yonatan Belinkov, Kevin Meng, David Bau. [[paper](https://arxiv.org/pdf/2308.09124.pdf)]
 7. **KLoB: a Benchmark for Assessing Knowledge Locating Methods in Language Models**<br />
-  Yiming Ju, Zheng Zhang. [[paper](http://export.arxiv.org/pdf/2309.16535)]
+    Yiming Ju, Zheng Zhang. [[paper](http://export.arxiv.org/pdf/2309.16535)]
 8. **Inference-Time Intervention: Eliciting Truthful Answers from a Language Model** (NeurIPS 2023) <br />
-  Kenneth Li, Oam Patel, Fernanda Viégas, Hanspeter Pfister, Martin Wattenberg. [[paper](https://arxiv.org/abs/2306.03341)] [[code](https://github.com/likenneth/honest_llama)]
+    Kenneth Li, Oam Patel, Fernanda Viégas, Hanspeter Pfister, Martin Wattenberg. [[paper](https://arxiv.org/abs/2306.03341)] [[code](https://github.com/likenneth/honest_llama)]
 9. **Emptying the Ocean with a Spoon: Should We Edit Models?** (EMNLP 2023 Findings) <br />
-  Yuval Pinter and Michael Elhadad. [[paper](https://arxiv.org/pdf/2310.11958.pdf)]
+    Yuval Pinter and Michael Elhadad. [[paper](https://arxiv.org/pdf/2310.11958.pdf)]
 10. **Unveiling the Pitfalls of Knowledge Editing for Large Language Models** <br />
     Zhoubo Li, Ningyu Zhang, Yunzhi Yao, Mengru Wang, Xi Chen and Huajun Chen. [[paper](https://arxiv.org/pdf/2310.02129.pdf)]
 11. **Editing Personality for LLMs** <br />
@@ -419,9 +422,9 @@ Derong Xu, Ziheng Zhang, Zhihong Zhu, Zhenxi Lin. [[paper](https://arxiv.org/abs
 20. **Propagation and Pitfalls: Reasoning-based Assessment of Knowledge Editing through Counterfactual Tasks** <br />
     Wenyue Hua, Jiang Guo, Mingwen Dong, Henghui Zhu, Patrick Ng, Zhiguo Wang. [[paper](https://arxiv.org/abs/2401.17585)]
 21. **Long-form evaluation of model editing** <br />
-   Domenic Rosati, Robie Gonzales, Jinkun Chen, Xuemin Yu. [[paper](https://arxiv.org/pdf/2402.09394.pdf)]
+      Domenic Rosati, Robie Gonzales, Jinkun Chen, Xuemin Yu. [[paper](https://arxiv.org/pdf/2402.09394.pdf)]
 22. **The Butterfly Effect of Model Editing: Few Edits Can Trigger Large Language Models Collapse** <br />
-  Wanli Yang, Fei Sun, Xinyu Ma, Xun Liu, Dawei Yin, Xueqi Cheng. [[paper](https://arxiv.org/pdf/2402.09656.pdf)]
+    Wanli Yang, Fei Sun, Xinyu Ma, Xun Liu, Dawei Yin, Xueqi Cheng. [[paper](https://arxiv.org/pdf/2402.09656.pdf)]
 23. **The Da Vinci Code of Large Pre-trained Language Models: Deciphering Degenerate Knowledge Neurons** <br />
  Yuheng Chen,Pengfei Cao,Yubo Chen,Yining Wang,Shengping Liu,Kang Liu,Jun Zhao. [[paper](https://arxiv.org/abs/2402.13731)]
 24. **Navigating the Dual Facets: A Comprehensive Evaluation of Sequential Memory Editing in Large Language Models** <br />
