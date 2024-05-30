@@ -192,7 +192,10 @@ Nianwen Si, Hao Zhang, Weiqiang Zhang.  [[paper](https://arxiv.org/abs/2401.0319
 Xiaopeng Li, Shasha Li, Bin Ji, Shezheng Song.  [[paper](https://arxiv.org/abs/2401.17809)]
 
 12. **WilKE: Wise-Layer Knowledge Editor for Lifelong Knowledge Editing**  <br />
-Chenhui Hu,Pengfei Cao,Yubo Chen,Kang Liu,Jun Zhao.  [[paper](https://arxiv.org/abs/2402.10987)]
+Chenhui Hu, Pengfei Cao, Yubo Chen, Kang Liu, Jun Zhao.  [[paper](https://arxiv.org/abs/2402.10987)]
+
+13. **MEMoE: Enhancing Model Editing with Mixture of Experts Adaptors**  <br />
+Renzhi Wang, Piji Li.  [[paper](https://arxiv.org/abs/2405.19086)]
 ##### Change LM's representation space
 
 1. **Inspecting and Editing Knowledge Representations in Language Models** <br />
