@@ -457,6 +457,8 @@ Derong Xu, Ziheng Zhang, Zhihong Zhu, Zhenxi Lin. [[paper](https://arxiv.org/abs
  Paul Youssef, Zhixue Zhao, Jörg Schlötterer, Christin Seifert. [[paper](https://arxiv.org/abs/2405.02765)]
 35. **Perturbation-Restrained Sequential Model Editing**<br />
  Jun-Yu Ma, Hong Wang, Hao-Xiang Xu, Zhen-Hua Ling, Jia-Chen Gu. [[paper](https://arxiv.org/abs/2405.16821)]
+36. **Leveraging Logical Rules in Knowledge Editing: A Cherry on the Top**<br />
+ Keyuan Cheng, Muhammad Asif Ali, Shu Yang, Gang Lin, Yuxuan Zhai, Haoyang Fei, Ke Xu, Lu Yu, Lijie Hu, Di Wang. [[paper](https://arxiv.org/abs/2405.15452)]
 ## 🧰 Resources
 
 ### Benchmarks and Tasks
