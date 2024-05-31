@@ -383,6 +383,9 @@ Derong Xu, Ziheng Zhang, Zhihong Zhu, Zhenxi Lin. [[paper](https://arxiv.org/abs
 20. **TAXI: Evaluating Categorical Knowledge Editing for Language Models**. <br />
  Derek Powell, Walter Gerych, Thomas Hartvigsen. [[paper](https://arxiv.org/pdf/2404.15004)]
 
+21. **Large Scale Knowledge Washing**. <br />
+ Yu Wang, Ruihan Wu, Zexue He, Xiusi Chen, Julian McAuley. [[paper](https://arxiv.org/abs/2405.16720)]
+
 ### Analysis
 1. **Does Localization Inform Editing? Surprising Differences in Causality-Based Localization vs. Knowledge Editing in Language Models.** <br />
     Peter Hase, Mohit Bansal, Been Kim, Asma Ghandeharioun. [[paper](https://arxiv.org/pdf/2301.04213.pdf)] [[code](https://github.com/google/belief-localization)] 
