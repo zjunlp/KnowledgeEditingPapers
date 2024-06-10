@@ -387,8 +387,10 @@ Derong Xu, Ziheng Zhang, Zhihong Zhu, Zhenxi Lin. [[paper](https://arxiv.org/abs
  Yu Wang, Ruihan Wu, Zexue He, Xiusi Chen, Julian McAuley. [[paper](https://arxiv.org/abs/2405.16720)]
 
 22. **Defending Large Language Models Against Jailbreak Attacks via Layer-specific Editing**. <br />
- Wei Zhao, Zhe Li, Yige Li, Ye Zhang, Jun Sun. [[paper](https://arxiv.org/abs/2405.18166)]
+ Wei Zhao, Zhe Li, Yige Li, Ye Zhang, Jun Sun. [[paper](https://arxiv.org/abs/2406.02882)]
 
+23. **Outdated Issue Aware Decoding for Factual Knowledge Editing**. <br />
+ Zengkui Sun, Yijin Liu, Jiaan Wang, Fandong Meng, Jinan Xu, Yufeng Chen, Jie Zhou. [[paper](https://arxiv.org/abs/2405.18166)]
 ### Analysis
 1. **Does Localization Inform Editing? Surprising Differences in Causality-Based Localization vs. Knowledge Editing in Language Models.** <br />
     Peter Hase, Mohit Bansal, Been Kim, Asma Ghandeharioun. [[paper](https://arxiv.org/pdf/2301.04213.pdf)] [[code](https://github.com/google/belief-localization)] 
