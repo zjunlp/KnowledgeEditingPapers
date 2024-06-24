@@ -392,6 +392,13 @@ Derong Xu, Ziheng Zhang, Zhihong Zhu, Zhenxi Lin. [[paper](https://arxiv.org/abs
 
 23. **Outdated Issue Aware Decoding for Factual Knowledge Editing**. <br />
  Zengkui Sun, Yijin Liu, Jiaan Wang, Fandong Meng, Jinan Xu, Yufeng Chen, Jie Zhou. [[paper](https://arxiv.org/abs/2405.18166)]
+
+24. **Adaptive Token Biaser: Knowledge Editing via Biasing Key Entities**. <br />
+ Baolong Bi, Shenghua Liu, Yiwei Wang, Lingrui Mei, Hongcheng Gao, Yilong Xu, Xueqi Cheng. [[paper](https://arxiv.org/abs/2406.12468)]
+
+25. **Language Modeling with Editable External Knowledge**. <br />
+ Belinda Z. Li, Emmy Liu, Alexis Ross, Abbas Zeitoun, Graham Neubig, Jacob Andreas. [[paper](https://arxiv.org/abs/2406.11830)]
+
 ### Analysis
 1. **Does Localization Inform Editing? Surprising Differences in Causality-Based Localization vs. Knowledge Editing in Language Models.** <br />
     Peter Hase, Mohit Bansal, Been Kim, Asma Ghandeharioun. [[paper](https://arxiv.org/pdf/2301.04213.pdf)] [[code](https://github.com/google/belief-localization)] 
