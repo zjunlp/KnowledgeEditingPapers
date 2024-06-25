@@ -190,13 +190,10 @@ Nianwen Si, Hao Zhang, Weiqiang Zhang.  [[paper](https://arxiv.org/abs/2401.0319
 11. **SWEA: Changing Factual Knowledge in Large Language Models via Subject Word Embedding Altering**  <br />
 Xiaopeng Li, Shasha Li, Bin Ji, Shezheng Song.  [[paper](https://arxiv.org/abs/2401.17809)]
 
-12. **WilKE: Wise-Layer Knowledge Editor for Lifelong Knowledge Editing**  <br />
-Chenhui Hu, Pengfei Cao, Yubo Chen, Kang Liu, Jun Zhao.  [[paper](https://arxiv.org/abs/2402.10987)]
-
-13. **MEMoE: Enhancing Model Editing with Mixture of Experts Adaptors**  <br />
+12. **MEMoE: Enhancing Model Editing with Mixture of Experts Adaptors**  <br />
 Renzhi Wang, Piji Li.  [[paper](https://arxiv.org/abs/2405.19086)]
 
-14. **WISE: Rethinking the Knowledge Memory for Lifelong Model Editing of Large Language Models**. <br />Peng Wang, Zexi Li, Ningyu Zhang, Ziwen Xu, Yunzhi Yao, Yong Jiang, Pengjun Xie, Fei Huang, Huajun Chen. [[paper](https://arxiv.org/abs/2405.14768)]
+13. **WISE: Rethinking the Knowledge Memory for Lifelong Model Editing of Large Language Models**. <br />Peng Wang, Zexi Li, Ningyu Zhang, Ziwen Xu, Yunzhi Yao, Yong Jiang, Pengjun Xie, Fei Huang, Huajun Chen. [[paper](https://arxiv.org/abs/2405.14768)]
 ##### Change LM's representation space
 
 1. **Inspecting and Editing Knowledge Representations in Language Models** <br />
@@ -316,6 +313,9 @@ Arnab Sen Sharma,David Atkinson,David Bau. [[paper](https://arxiv.org/abs/2404.0
 
 23. **Large Language Model Bias Mitigation from the Perspective of Knowledge Editing** <br />
 Ruizhe Chen, Yichen Li, Zikai Xiao, Zuozhu Liu. [[paper](https://arxiv.org/abs/2405.09341)]
+
+24. **WilKE: Wise-Layer Knowledge Editor for Lifelong Knowledge Editing**  <br />
+Chenhui Hu, Pengfei Cao, Yubo Chen, Kang Liu, Jun Zhao.  [[paper](https://arxiv.org/abs/2402.10987)]
 
 #### More Related Papers
 
