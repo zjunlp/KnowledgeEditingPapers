@@ -164,8 +164,6 @@ Nianwen Si, Hao Zhang, Heyu Chang, Wenlin Zhang, Dan Qu, Weiqiang Zhang. [[paper
 16. **Retrieval-Enhanced Knowledge Editing for Multi-Hop Question Answering in Language Models**. <br />
      Yucheng Shi, Qiaoyu Tan, Xuansheng Wu, Shaochen Zhong, Kaixiong Zhou, Ninghao Liu. [[paper](https://arxiv.org/abs/2403.19631)]
 
-17. **WISE: Rethinking the Knowledge Memory for Lifelong Model Editing of Large Language Models**. <br />Peng Wang, Zexi Li, Ningyu Zhang, Ziwen Xu, Yunzhi Yao, Yong Jiang, Pengjun Xie, Fei Huang, Huajun Chen. [[paper](https://arxiv.org/abs/2405.14768)]
-
 ##### Additional Parameters
 1. **Calibrating Factual Knowledge in Pretrained Language Models**. (EMNLP 2022) <br />
 Qingxiu Dong, Damai Dai, Yifan Song, Jingjing Xu, Zhifang Sui, Lei Li.
@@ -197,6 +195,8 @@ Chenhui Hu, Pengfei Cao, Yubo Chen, Kang Liu, Jun Zhao.  [[paper](https://arxiv.
 
 13. **MEMoE: Enhancing Model Editing with Mixture of Experts Adaptors**  <br />
 Renzhi Wang, Piji Li.  [[paper](https://arxiv.org/abs/2405.19086)]
+
+14. **WISE: Rethinking the Knowledge Memory for Lifelong Model Editing of Large Language Models**. <br />Peng Wang, Zexi Li, Ningyu Zhang, Ziwen Xu, Yunzhi Yao, Yong Jiang, Pengjun Xie, Fei Huang, Huajun Chen. [[paper](https://arxiv.org/abs/2405.14768)]
 ##### Change LM's representation space
 
 1. **Inspecting and Editing Knowledge Representations in Language Models** <br />
