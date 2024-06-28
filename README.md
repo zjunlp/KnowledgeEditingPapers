@@ -399,6 +399,9 @@ Derong Xu, Ziheng Zhang, Zhihong Zhu, Zhenxi Lin. [[paper](https://arxiv.org/abs
 25. **Language Modeling with Editable External Knowledge**. <br />
  Belinda Z. Li, Emmy Liu, Alexis Ross, Abbas Zeitoun, Graham Neubig, Jacob Andreas. [[paper](https://arxiv.org/abs/2406.11830)]
 
+26. **Safety Arithmetic: A Framework for Test-time Safety Alignment of Language Models by Steering Parameters and Activations**. <br />
+ Rima Hazra, Sayan Layek, Somnath Banerjee, Soujanya Poria. [[paper](https://arxiv.org/abs/2406.11801)]
+
 ### Analysis
 1. **Does Localization Inform Editing? Surprising Differences in Causality-Based Localization vs. Knowledge Editing in Language Models.** <br />
     Peter Hase, Mohit Bansal, Been Kim, Asma Ghandeharioun. [[paper](https://arxiv.org/pdf/2301.04213.pdf)] [[code](https://github.com/google/belief-localization)] 
