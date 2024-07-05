@@ -403,8 +403,10 @@ Derong Xu, Ziheng Zhang, Zhihong Zhu, Zhenxi Lin. [[paper](https://arxiv.org/abs
  Rima Hazra, Sayan Layek, Somnath Banerjee, Soujanya Poria. [[paper](https://arxiv.org/abs/2406.11801)]
 
 27. **Enhancing Data Privacy in Large Language Models through Private Association Editing**. <br />
- Davide Venditti, Elena Sofia Ruzzetti, Giancarlo A. Xompero, Cristina Giannone, Andrea Favalli, Raniero Romagnoli, Fabio Massimo Zanzotto. [[paper](https://arxiv.org/abs/2406.18221)]
+ Kunquan Deng, Zeyu Huang, Chen Li, Chenghua Lin, Min Gao, Wenge Rong. [[paper](https://arxiv.org/abs/2407.00488)]
 
+28. **PFME: A Modular Approach for Fine-grained Hallucination Detection and Editing of Large Language Models**. <br />
+ Davide Venditti, Elena Sofia Ruzzetti, Giancarlo A. Xompero, Cristina Giannone, Andrea Favalli, Raniero Romagnoli, Fabio Massimo Zanzotto. [[paper](https://arxiv.org/abs/2406.18221)]
 ### Analysis
 1. **Does Localization Inform Editing? Surprising Differences in Causality-Based Localization vs. Knowledge Editing in Language Models.** <br />
     Peter Hase, Mohit Bansal, Been Kim, Asma Ghandeharioun. [[paper](https://arxiv.org/pdf/2301.04213.pdf)] [[code](https://github.com/google/belief-localization)] 
