@@ -193,7 +193,11 @@ Xiaopeng Li, Shasha Li, Bin Ji, Shezheng Song.  [[paper](https://arxiv.org/abs/2
 12. **MEMoE: Enhancing Model Editing with Mixture of Experts Adaptors**  <br />
 Renzhi Wang, Piji Li.  [[paper](https://arxiv.org/abs/2405.19086)]
 
-13. **WISE: Rethinking the Knowledge Memory for Lifelong Model Editing of Large Language Models**. <br />Peng Wang, Zexi Li, Ningyu Zhang, Ziwen Xu, Yunzhi Yao, Yong Jiang, Pengjun Xie, Fei Huang, Huajun Chen. [[paper](https://arxiv.org/abs/2405.14768)]
+13. **WISE: Rethinking the Knowledge Memory for Lifelong Model Editing of Large Language Models**. <br />
+Peng Wang, Zexi Li, Ningyu Zhang, Ziwen Xu, Yunzhi Yao, Yong Jiang, Pengjun Xie, Fei Huang, Huajun Chen. [[paper](https://arxiv.org/abs/2405.14768)]
+
+14. **MEMLA: Enhancing Multilingual Knowledge Editing with Neuron-Masked Low-Rank Adaptation**. <br />
+Jiakuan Xie, Pengfei Cao, Yuheng Chen, Yubo Chen, Kang Liu, Jun Zhao. [[paper](https://arxiv.org/abs/2405.14768)]
 ##### Change LM's representation space
 
 1. **Inspecting and Editing Knowledge Representations in Language Models** <br />
