@@ -415,6 +415,13 @@ Derong Xu, Ziheng Zhang, Zhihong Zhu, Zhenxi Lin. [[paper](https://arxiv.org/abs
 29. **SafeInfer: Context Adaptive Decoding Time Safety Alignment for Large Language Models**. <br />
  Somnath Banerjee, Soham Tripathy, Sayan Layek, Shanu Kumar, Animesh Mukherjee, Rima Hazra. [[paper](https://arxiv.org/abs/2406.12274)]
 
+30. **Editing Implicit Assumptions in Text-to-Image Diffusion Models**. (ICCV 2023) <br />
+ Hadas Orgad, Bahjat Kawar, Yonatan Belinkov. [[paper](https://arxiv.org/abs/2303.08084)]
+
+31. **ReFACT: Updating Text-to-Image Models by Editing the Text Encoder**.  (NAAC 2024) <br />
+Dana Arad, Hadas Orgad, Yonatan Belinkov. [[paper](https://arxiv.org/abs/2306.00738)]
+
+
 ### Analysis
 1. **Does Localization Inform Editing? Surprising Differences in Causality-Based Localization vs. Knowledge Editing in Language Models.** <br />
     Peter Hase, Mohit Bansal, Been Kim, Asma Ghandeharioun. [[paper](https://arxiv.org/pdf/2301.04213.pdf)] [[code](https://github.com/google/belief-localization)] 
