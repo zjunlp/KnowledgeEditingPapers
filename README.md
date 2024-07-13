@@ -511,7 +511,7 @@ Dana Arad, Hadas Orgad, Yonatan Belinkov. [[paper](https://arxiv.org/abs/2306.00
 |  **Privacy Infomation Protect**   | [PrivQA](https://arxiv.org/abs/2310.02224), [Knowledge Sanitation](https://arxiv.org/pdf/2309.11852.pdf),[Enron](https://arxiv.org/pdf/2310.20138.pdf) |
 |  **Unified Benchmark**   | [DUnE](https://arxiv.org/pdf/2311.16087.pdf) |
 |  **Toxic Information**   | [RealToxicityPrompts](https://arxiv.org/abs/2009.11462),[Toxicity Unlearning](https://arxiv.org/pdf/2308.08090.pdf)|
-|  **MultiModal**   | [MMEdit](https://arxiv.org/abs/2310.08475) [KEBench](https://arxiv.org/abs/2403.07350)|
+|  **MultiModal**   | [MMEdit](https://arxiv.org/abs/2310.08475) [VLKEB](https://arxiv.org/abs/2403.07350)|
 <!-- |   **Logical Reasoning**   | [ProofWriter](https://arxiv.org/abs/2012.13048), [EntailmentBank](https://arxiv.org/abs/2104.08661), [RuleTaker](https://www.ijcai.org/proceedings/2020/537), [CLUTRR](https://aclanthology.org/D19-1458/) |
 | **Multimodal Reasoning**  | [SCIENCEQA](https://scienceqa.github.io/)                    |
 |        **Others**         | [BIG-bench](https://doi.org/10.48550/arXiv.2206.04615), [SCAN](http://proceedings.mlr.press/v80/lake18a.html), [Chain-of-Thought Hub](https://arxiv.org/abs/2305.17306) | -->
