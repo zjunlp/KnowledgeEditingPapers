@@ -498,6 +498,8 @@ Junzhe Zhang, Huixuan Zhang, Xunjian Yin, Baizhou Huang, Xu Zhang, Xinyu Hu, Xia
  Jun-Yu Ma, Hong Wang, Hao-Xiang Xu, Zhen-Hua Ling, Jia-Chen Gu. [[paper](https://arxiv.org/abs/2405.16821)]
 36. **Leveraging Logical Rules in Knowledge Editing: A Cherry on the Top**<br />
  Keyuan Cheng, Muhammad Asif Ali, Shu Yang, Gang Lin, Yuxuan Zhai, Haoyang Fei, Ke Xu, Lu Yu, Lijie Hu, Di Wang. [[paper](https://arxiv.org/abs/2405.15452)]
+37. **Model Editing by Standard Fine-Tuning**<br />
+ Govind Gangadhar, Karl Stratos. [[paper](https://arxiv.org/abs/2402.11078v3)]
 ## 🧰 Resources
 
 ### Benchmarks and Tasks
