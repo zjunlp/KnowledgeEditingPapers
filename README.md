@@ -502,7 +502,7 @@ Dana Arad, Hadas Orgad, Yonatan Belinkov. [[paper](https://arxiv.org/abs/2306.00
 |     Edit Type      | Benchmarks \& Datasets                                                  |
 | :-----------------------: | ------------------------------------------------------------ |
 | **Fact Knowledge**  | [ZSRE](https://github.com/nicola-decao/KnowledgeEditor), [ZSRE plus](https://arxiv.org/abs/2305.13172), [CounterFact](https://rome.baulab.info/),[CounterFact plus](https://arxiv.org/abs/2305.13172), [CounterFact+](https://arxiv.org/abs/2305.17553),[ECBD](https://github.com/yasumasaonoe/entity_knowledge_propagation), [MQUAKE](https://github.com/yasumasaonoe/entity_knowledge_propagation),[DepEdit](https://arxiv.org/abs/2312.01858)  |
-|  **Multi-Lingual**   | [Bi-ZsRE](https://arxiv.org/pdf/2309.08952.pdf),[Eva-KELLM](https://arxiv.org/pdf/2308.09954.pdf), [MzsRE](https://arxiv.org/abs/2312.13040) |
+|  **Multi-Lingual**   | [Bi-ZsRE](https://arxiv.org/pdf/2309.08952.pdf),[Eva-KELLM](https://arxiv.org/pdf/2308.09954.pdf), [MzsRE](https://arxiv.org/abs/2312.13040), [MC-MKE](https://arxiv.org/abs/2406.13219) |
 |  **Sentiment**   | [Convsent](https://arxiv.org/abs/2206.06520) |
 |  **Bias**   | [Bias in Bios](https://arxiv.org/pdf/2304.00740.pdf) |
 |  **Hallucination**   | [WikiBio](https://github.com/Thartvigsen/GRACE/tree/main) |
