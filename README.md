@@ -421,6 +421,9 @@ Derong Xu, Ziheng Zhang, Zhihong Zhu, Zhenxi Lin. [[paper](https://arxiv.org/abs
 31. **ReFACT: Updating Text-to-Image Models by Editing the Text Encoder**.  (NAAC 2024) <br />
 Dana Arad, Hadas Orgad, Yonatan Belinkov. [[paper](https://arxiv.org/abs/2306.00738)]
 
+32. **MC-MKE: A Fine-Grained Multimodal Knowledge Editing Benchmark Emphasizing Modality Consistency**. <br />
+Junzhe Zhang, Huixuan Zhang, Xunjian Yin, Baizhou Huang, Xu Zhang, Xinyu Hu, Xiaojun Wan. [[paper](https://arxiv.org/abs/2406.13219)]
+
 
 ### Analysis
 1. **Does Localization Inform Editing? Surprising Differences in Causality-Based Localization vs. Knowledge Editing in Language Models.** <br />
@@ -502,7 +505,7 @@ Dana Arad, Hadas Orgad, Yonatan Belinkov. [[paper](https://arxiv.org/abs/2306.00
 |     Edit Type      | Benchmarks \& Datasets                                                  |
 | :-----------------------: | ------------------------------------------------------------ |
 | **Fact Knowledge**  | [ZSRE](https://github.com/nicola-decao/KnowledgeEditor), [ZSRE plus](https://arxiv.org/abs/2305.13172), [CounterFact](https://rome.baulab.info/),[CounterFact plus](https://arxiv.org/abs/2305.13172), [CounterFact+](https://arxiv.org/abs/2305.17553),[ECBD](https://github.com/yasumasaonoe/entity_knowledge_propagation), [MQUAKE](https://github.com/yasumasaonoe/entity_knowledge_propagation),[DepEdit](https://arxiv.org/abs/2312.01858)  |
-|  **Multi-Lingual**   | [Bi-ZsRE](https://arxiv.org/pdf/2309.08952.pdf),[Eva-KELLM](https://arxiv.org/pdf/2308.09954.pdf), [MzsRE](https://arxiv.org/abs/2312.13040), [MC-MKE](https://arxiv.org/abs/2406.13219) |
+|  **Multi-Lingual**   | [Bi-ZsRE](https://arxiv.org/pdf/2309.08952.pdf),[Eva-KELLM](https://arxiv.org/pdf/2308.09954.pdf), [MzsRE](https://arxiv.org/abs/2312.13040) |
 |  **Sentiment**   | [Convsent](https://arxiv.org/abs/2206.06520) |
 |  **Bias**   | [Bias in Bios](https://arxiv.org/pdf/2304.00740.pdf) |
 |  **Hallucination**   | [WikiBio](https://github.com/Thartvigsen/GRACE/tree/main) |
@@ -511,7 +514,7 @@ Dana Arad, Hadas Orgad, Yonatan Belinkov. [[paper](https://arxiv.org/abs/2306.00
 |  **Privacy Infomation Protect**   | [PrivQA](https://arxiv.org/abs/2310.02224), [Knowledge Sanitation](https://arxiv.org/pdf/2309.11852.pdf),[Enron](https://arxiv.org/pdf/2310.20138.pdf) |
 |  **Unified Benchmark**   | [DUnE](https://arxiv.org/pdf/2311.16087.pdf) |
 |  **Toxic Information**   | [RealToxicityPrompts](https://arxiv.org/abs/2009.11462),[Toxicity Unlearning](https://arxiv.org/pdf/2308.08090.pdf)|
-|  **MultiModal**   | [MMEdit](https://arxiv.org/abs/2310.08475) [VLKEB](https://arxiv.org/abs/2403.07350)|
+|  **MultiModal**   | [MMEdit](https://arxiv.org/abs/2310.08475) [VLKEB](https://arxiv.org/abs/2403.07350), [MC-MKE](https://arxiv.org/abs/2406.13219)|
 <!-- |   **Logical Reasoning**   | [ProofWriter](https://arxiv.org/abs/2012.13048), [EntailmentBank](https://arxiv.org/abs/2104.08661), [RuleTaker](https://www.ijcai.org/proceedings/2020/537), [CLUTRR](https://aclanthology.org/D19-1458/) |
 | **Multimodal Reasoning**  | [SCIENCEQA](https://scienceqa.github.io/)                    |
 |        **Others**         | [BIG-bench](https://doi.org/10.48550/arXiv.2206.04615), [SCAN](http://proceedings.mlr.press/v80/lake18a.html), [Chain-of-Thought Hub](https://arxiv.org/abs/2305.17306) | -->
