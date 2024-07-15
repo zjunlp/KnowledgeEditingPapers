@@ -321,6 +321,11 @@ Ruizhe Chen, Yichen Li, Zikai Xiao, Zuozhu Liu. [[paper](https://arxiv.org/abs/2
 24. **WilKE: Wise-Layer Knowledge Editor for Lifelong Knowledge Editing**  <br />
 Chenhui Hu, Pengfei Cao, Yubo Chen, Kang Liu, Jun Zhao.  [[paper](https://arxiv.org/abs/2402.10987)]
 
+25. **ReFACT: Updating Text-to-Image Models by Editing the Text Encoder**  <br />
+Dana Arad, Hadas Orgad, Yonatan Belinkov.  [[paper](https://arxiv.org/pdf/2303.08084)]
+
+26. **Editing Implicit Assumptions in Text-to-Image Diffusion Models**  <br />
+Hadas Orgad, Bahjat Kawar, Yonatan Belinkov.  [[paper](https://arxiv.org/pdf/2303.08084)]
 #### More Related Papers
 
 1. **FRUIT: Faithfully Reflecting Updated Information in Text**. (NAACL 2022) <br />
