@@ -505,6 +505,9 @@ Junzhe Zhang, Huixuan Zhang, Xunjian Yin, Baizhou Huang, Xu Zhang, Xinyu Hu, Xia
  Keyuan Cheng, Muhammad Asif Ali, Shu Yang, Gang Lin, Yuxuan Zhai, Haoyang Fei, Ke Xu, Lu Yu, Lijie Hu, Di Wang. [[paper](https://arxiv.org/abs/2405.15452)]
 37. **Model Editing by Standard Fine-Tuning**<br />
  Govind Gangadhar, Karl Stratos. [[paper](https://arxiv.org/abs/2402.11078v3)]
+38. **AI-native Memory: A Pathway from LLMs Towards AGI**<br />
+ Jingbo Shang, Zai Zheng, Xiang Ying, Felix Tao, Mindverse Team. [[paper](https://arxiv.org/abs/2406.18312)]
+
 ## 🧰 Resources
 
 ### Benchmarks and Tasks
