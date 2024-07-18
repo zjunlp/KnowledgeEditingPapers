@@ -515,7 +515,7 @@ Junzhe Zhang, Huixuan Zhang, Xunjian Yin, Baizhou Huang, Xu Zhang, Xinyu Hu, Xia
 |     Edit Type      | Benchmarks \& Datasets                                                  |
 | :-----------------------: | ------------------------------------------------------------ |
 | **Fact Knowledge**  | [ZSRE](https://github.com/nicola-decao/KnowledgeEditor), [ZSRE plus](https://arxiv.org/abs/2305.13172), [CounterFact](https://rome.baulab.info/),[CounterFact plus](https://arxiv.org/abs/2305.13172), [CounterFact+](https://arxiv.org/abs/2305.17553),[ECBD](https://github.com/yasumasaonoe/entity_knowledge_propagation), [MQUAKE](https://github.com/yasumasaonoe/entity_knowledge_propagation),[DepEdit](https://arxiv.org/abs/2312.01858)  |
-|  **Multi-Lingual**   | [Bi-ZsRE](https://arxiv.org/pdf/2309.08952.pdf),[Eva-KELLM](https://arxiv.org/pdf/2308.09954.pdf), [MzsRE](https://arxiv.org/abs/2312.13040) |
+|  **Multi-Lingual**   | [Bi-ZsRE](https://arxiv.org/pdf/2309.08952.pdf),[Eva-KELLM](https://arxiv.org/pdf/2308.09954.pdf), [MzsRE](https://arxiv.org/abs/2312.13040),[CROLIN-MQUAKE](https://www.arxiv.org/abs/2407.10275) |
 |  **Sentiment**   | [Convsent](https://arxiv.org/abs/2206.06520) |
 |  **Bias**   | [Bias in Bios](https://arxiv.org/pdf/2304.00740.pdf) |
 |  **Hallucination**   | [WikiBio](https://github.com/Thartvigsen/GRACE/tree/main) |
@@ -527,7 +527,9 @@ Junzhe Zhang, Huixuan Zhang, Xunjian Yin, Baizhou Huang, Xu Zhang, Xinyu Hu, Xia
 |  **MultiModal**   | [MMEdit](https://arxiv.org/abs/2310.08475) [VLKEB](https://arxiv.org/abs/2403.07350), [MC-MKE](https://arxiv.org/abs/2406.13219)|
 <!-- |   **Logical Reasoning**   | [ProofWriter](https://arxiv.org/abs/2012.13048), [EntailmentBank](https://arxiv.org/abs/2104.08661), [RuleTaker](https://www.ijcai.org/proceedings/2020/537), [CLUTRR](https://aclanthology.org/D19-1458/) |
 | **Multimodal Reasoning**  | [SCIENCEQA](https://scienceqa.github.io/)                    |
+| **Code**  |[CodeUpdateArena](https://www.arxiv.org/pdf/2407.06249)
 |        **Others**         | [BIG-bench](https://doi.org/10.48550/arXiv.2206.04615), [SCAN](http://proceedings.mlr.press/v80/lake18a.html), [Chain-of-Thought Hub](https://arxiv.org/abs/2305.17306) | -->
+
 
 ### Tools
 [EasyEdit](https://github.com/zjunlp/EasyEdit): An Easy-to-use Knowledge Editing Framework for Large Language Models.
