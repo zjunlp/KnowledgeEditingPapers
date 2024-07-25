@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a55d150a-7f30-4d5d-91dc-858515012bae)# Knowledge Editing for LLMs Papers
+# Knowledge Editing for LLMs Papers
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/zjunlp/ModelEditingPapers) 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
