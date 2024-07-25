@@ -169,6 +169,9 @@ Nianwen Si, Hao Zhang, Heyu Chang, Wenlin Zhang, Dan Qu, Weiqiang Zhang. [[paper
 16. **Retrieval-Enhanced Knowledge Editing for Multi-Hop Question Answering in Language Models**. <br />
      Yucheng Shi, Qiaoyu Tan, Xuansheng Wu, Shaochen Zhong, Kaixiong Zhou, Ninghao Liu. [[paper](https://arxiv.org/abs/2403.19631)]
 
+17. **In-Context Editing: Learning Knowledge from Self-Induced Distributions**. <br />
+     Siyuan Qi, Bangcheng Yang, Kailin Jiang, Xiaobo Wang, Jiaqi Li, Yifan Zhong, Yaodong Yang, Zilong Zheng. [[paper](https://arxiv.org/abs/2406.11194)]
+
 ##### Additional Parameters
 1. **Calibrating Factual Knowledge in Pretrained Language Models**. (EMNLP 2022) <br />
 Qingxiu Dong, Damai Dai, Yifan Song, Jingjing Xu, Zhifang Sui, Lei Li.
