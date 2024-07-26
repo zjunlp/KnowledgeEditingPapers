@@ -530,6 +530,7 @@ Junzhe Zhang, Huixuan Zhang, Xunjian Yin, Baizhou Huang, Xu Zhang, Xinyu Hu, Xia
 |  **Bias**   | [Bias in Bios](https://arxiv.org/pdf/2304.00740.pdf) |
 |  **Hallucination**   | [WikiBio](https://github.com/Thartvigsen/GRACE/tree/main) |
 |  **Commonsense**   | [MEMIT<sub>csk</sub>](https://arxiv.org/abs/2305.14956) |
+|  **concept** |[ConceptEdit](https://arxiv.org/abs/2403.06259), [CONCEPTVECTORS](https://arxiv.org/abs/2406.11614) |
 |  **Reasoning**   | [Eva-KELLM](https://arxiv.org/pdf/2308.09954.pdf) |
 |  **Privacy Infomation Protect**   | [PrivQA](https://arxiv.org/abs/2310.02224), [Knowledge Sanitation](https://arxiv.org/pdf/2309.11852.pdf),[Enron](https://arxiv.org/pdf/2310.20138.pdf) |
 |  **Unified Benchmark**   | [DUnE](https://arxiv.org/pdf/2311.16087.pdf) |
@@ -539,6 +540,7 @@ Junzhe Zhang, Huixuan Zhang, Xunjian Yin, Baizhou Huang, Xu Zhang, Xinyu Hu, Xia
 | **Multimodal Reasoning**  | [SCIENCEQA](https://scienceqa.github.io/)                    |
 | **Code**  |[CodeUpdateArena](https://www.arxiv.org/pdf/2407.06249)
 |        **Others**         | [BIG-bench](https://doi.org/10.48550/arXiv.2206.04615), [SCAN](http://proceedings.mlr.press/v80/lake18a.html), [Chain-of-Thought Hub](https://arxiv.org/abs/2305.17306) | -->
+
 
 
 ### Tools
