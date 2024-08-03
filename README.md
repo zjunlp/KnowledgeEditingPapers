@@ -12,7 +12,7 @@ Must-read papers on [knowledge editing](https://arxiv.org/abs/2305.13172) for la
 
     |     *Report*        |    Topic    | PPT Resource |
     | :-----------------: | :---------: | :------------: |
-    | IJCAI2024 tutorial| Knowledge Editing for Large Language Models| [Google Drive]()   |
+    | IJCAI2024 tutorial| Knowledge Editing for Large Language Models| [Google Drive](https://drive.google.com/file/d/1DXciRxuJqpdqrLoNSVS4gd9hGAApcaZ9/view?usp=drive_link)   |
   | CCL2024 tutorial| 大语言模型知识机理、融合与编辑| [BaiduPan](https://pan.baidu.com/s/14IFludc3KROrCdvSYrOfAw?pwd=shja) & [Google Drive](https://drive.google.com/file/d/1Tp7pWAl1MqMvNQUplPS411WQmmAmodcB/view?usp=sharing)   |
     | COLING2024 tutorial| Knowledge Editing for Large Language Models| [Google Drive](https://drive.google.com/file/d/1vFzRYjnzkuZaNdjdIxQwWbEybCY7YqY9/view?usp=sharing)   |
     | 北京智源大会| 大语言模型知识机理与编辑问题| [BaiduPan](https://pan.baidu.com/s/1X9n2LAkYYXFnPgkV_2b57Q?pwd=du6w)   |
