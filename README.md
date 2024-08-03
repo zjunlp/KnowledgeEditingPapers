@@ -518,6 +518,8 @@ Junzhe Zhang, Huixuan Zhang, Xunjian Yin, Baizhou Huang, Xu Zhang, Xinyu Hu, Xia
  Jingbo Shang, Zai Zheng, Xiang Ying, Felix Tao, Mindverse Team. [[paper](https://arxiv.org/abs/2406.18312)]
 39. **Intrinsic Evaluation of Unlearning Using Parametric Knowledge Traces**<br />
  Yihuai Hong, Lei Yu, Shauli Ravfogel, Haiqin Yang, Mor Geva. [[paper](https://arxiv.org/abs/2406.11614)]
+40. **Can Editing LLMs Inject Harm?**<br />
+ Canyu Chen, Baixiang Huang, Zekun Li, Zhaorun Chen, Shiyang Lai, Xiongxiao Xu, Jia-Chen Gu, Jindong Gu, Huaxiu Yao, Chaowei Xiao, Xifeng Yan, William Yang Wang, Philip Torr, Dawn Song, Kai Shu. [[paper](https://arxiv.org/abs/2407.20224)]
 
 ## 🧰 Resources
 
