@@ -438,6 +438,8 @@ Dana Arad, Hadas Orgad, Yonatan Belinkov. [[paper](https://arxiv.org/abs/2306.00
 32. **MC-MKE: A Fine-Grained Multimodal Knowledge Editing Benchmark Emphasizing Modality Consistency**. <br />
 Junzhe Zhang, Huixuan Zhang, Xunjian Yin, Baizhou Huang, Xu Zhang, Xinyu Hu, Xiaojun Wan. [[paper](https://arxiv.org/abs/2406.13219)]
 
+33. **LLM-Based Multi-Hop Question Answering with Knowledge Graph Integration in Evolving Environments**. <br />
+Ruirui Chen, Weifeng Jiang, Chengwei Qin, Ishaan Singh Rawal, Cheston Tan, Dongkyu Choi, Bo Xiong, Bo Ai. [[paper](https://arxiv.org/abs/2408.15903)]
 
 ### Analysis
 1. **Does Localization Inform Editing? Surprising Differences in Causality-Based Localization vs. Knowledge Editing in Language Models.** <br />
