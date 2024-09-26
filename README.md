@@ -19,6 +19,7 @@ Must-read papers on [knowledge editing](https://arxiv.org/abs/2305.13172) for la
     | VALSE2024 tutorial| Knowledge Mechanism and Editing for Large Language Models| [Google Drive](https://drive.google.com/file/d/19T-InKopH-VHKAtphy9M6H366dXnenQX/view?usp=sharing)   |
     | AAAI2024 tutorial | Knowledge Editing for Large Language Models    | [Google Drive](https://drive.google.com/file/d/1fkTbVeRJSWmU7fBDeNf1OhHEkLSofQde/view?usp=sharing)   |
 <!-- - **2024-02-20 The AAAI2024 tutorial "*Knowledge Editing for Large Language Models*" has been canceled since speakers cannot present in person, we make this ppt[[Github](https://github.com/zjunlp/KnowledgeEditingPapers/blob/main/AAAI2024%40Tutorial_Knowledge%20Editing%20for%20LLMs.pdf)] [[Google Drive](https://drive.google.com/file/d/1fkTbVeRJSWmU7fBDeNf1OhHEkLSofQde/view?usp=sharing)] [[Baidu Pan](https://pan.baidu.com/s/1oJYgaMnxWIBE4kIcJuMSKg?pwd=p9j5)] available to the community**. -->
+- **2024-09-26 Our paper: "[WISE: Rethinking the Knowledge Memory for Lifelong Model Editing of Large Language Models](https://arxiv.org/abs/2405.14768)" and "[Knowledge Circuits in Pretrained Transformers](https://arxiv.org/abs/2405.17969)" have been accepted by NeurIPS 2024. Our papers: "[Knowledge Mechanisms in Large Language Models: A Survey and Perspective](https://arxiv.org/abs/2407.15017)" and "[Editing Conceptual Knowledge for Large Language Models](https://arxiv.org/abs/2403.06259)" have been accepted by EMNLP 2024 Findings.**
 - **2024-07-22 We release a new paper: "[Knowledge Mechanisms in Large Language Models: A Survey and Perspective](https://arxiv.org/abs/2407.15017)", which reviews how knowledge is acquired, utilized, and evolves in large language models.**
 - **2024-05-16 Our paper "[Detoxifying Large Language Models via Knowledge Editing](https://arxiv.org/abs/2403.14472)" has been accepted by ACL 2024.**
 - **2024-01-03  We release a new paper:"[A Comprehensive Study of Knowledge Editing for Large Language Models](https://arxiv.org/abs/2401.01286)" with a new benchmark [KnowEdit](https://huggingface.co/datasets/zjunlp/KnowEdit)! We are looking forward to any comments or discussions on this topic**
@@ -91,7 +92,7 @@ Ningyu Zhang, Jia-Chen Gu, Yunzhi Yao, Zhen Bi, Shumin Deng. [[Github](https://g
 Ningyu Zhang, Yunzhi Yao, Shumin Deng. [[Github](https://github.com/zjunlp/KnowledgeEditingPapers/blob/main/AACL2023%40Tutorial_Editing%20LLMs.pdf)] [[Google Drive](https://drive.google.com/file/d/1EW-cusC_llCM0wEshkIdYuYrvfBPCDRz/view?usp=sharing)] [[Baidu Pan](https://pan.baidu.com/s/1NupastGJUzcUIAjI64J1tw?pwd=i5an)]
 
 ### Surveys
-**Knowledge Mechanisms in Large Language Models: A Survey and Perspective** (EMNLP 2024) <br />
+**Knowledge Mechanisms in Large Language Models: A Survey and Perspective** (EMNLP 2024 Findings) <br />
 Mengru Wang, Yunzhi Yao, Ziwen Xu, Shuofei Qiao, Shumin Deng, Peng Wang, Xiang Chen, Jia-Chen Gu, Yong Jiang, Pengjun Xie, Fei Huang, Huajun Chen, Ningyu Zhang. [[paper](https://arxiv.org/abs/2407.15017)]
 
 **A Comprehensive Study of Knowledge Editing for Large Language Models** <br /> 
@@ -522,7 +523,7 @@ Ruirui Chen, Weifeng Jiang, Chengwei Qin, Ishaan Singh Rawal, Cheston Tan, Dongk
  Yihuai Hong, Lei Yu, Shauli Ravfogel, Haiqin Yang, Mor Geva. [[paper](https://arxiv.org/abs/2406.11614)]
 40. **Can Editing LLMs Inject Harm?**<br />
  Canyu Chen, Baixiang Huang, Zekun Li, Zhaorun Chen, Shiyang Lai, Xiongxiao Xu, Jia-Chen Gu, Jindong Gu, Huaxiu Yao, Chaowei Xiao, Xifeng Yan, William Yang Wang, Philip Torr, Dawn Song, Kai Shu. [[paper](https://arxiv.org/abs/2407.20224)]
-41. **Editing Conceptual Knowledge for Large Language Models** (EMNLP 2024) <br />
+41. **Editing Conceptual Knowledge for Large Language Models** (EMNLP 2024 Findings) <br />
  Xiaohan Wang, Shengyu Mao, Ningyu Zhang, Shumin Deng, Yunzhi Yao, Yue Shen, Lei Liang, Jinjie Gu, Huajun Chen. [[paper](https://arxiv.org/abs/2403.06259)]
 42. **Knowledge Circuits in Pretrained Transformers** (NeurIPS 2024) <br />
  Yunzhi Yao, Ningyu Zhang, Zekun Xi, Mengru Wang, Ziwen Xu, Shumin Deng, Huajun Chen. [[paper](https://arxiv.org/abs/2405.17969)]
