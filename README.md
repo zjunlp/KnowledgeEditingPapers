@@ -91,7 +91,7 @@ Ningyu Zhang, Jia-Chen Gu, Yunzhi Yao, Zhen Bi, Shumin Deng. [[Github](https://g
 Ningyu Zhang, Yunzhi Yao, Shumin Deng. [[Github](https://github.com/zjunlp/KnowledgeEditingPapers/blob/main/AACL2023%40Tutorial_Editing%20LLMs.pdf)] [[Google Drive](https://drive.google.com/file/d/1EW-cusC_llCM0wEshkIdYuYrvfBPCDRz/view?usp=sharing)] [[Baidu Pan](https://pan.baidu.com/s/1NupastGJUzcUIAjI64J1tw?pwd=i5an)]
 
 ### Surveys
-**Knowledge Mechanisms in Large Language Models: A Survey and Perspective**  <br />
+**Knowledge Mechanisms in Large Language Models: A Survey and Perspective** (EMNLP 2024) <br />
 Mengru Wang, Yunzhi Yao, Ziwen Xu, Shuofei Qiao, Shumin Deng, Peng Wang, Xiang Chen, Jia-Chen Gu, Yong Jiang, Pengjun Xie, Fei Huang, Huajun Chen, Ningyu Zhang. [[paper](https://arxiv.org/abs/2407.15017)]
 
 **A Comprehensive Study of Knowledge Editing for Large Language Models** <br /> 
@@ -202,7 +202,7 @@ Xiaopeng Li, Shasha Li, Bin Ji, Shezheng Song.  [[paper](https://arxiv.org/abs/2
 12. **MEMoE: Enhancing Model Editing with Mixture of Experts Adaptors**  <br />
 Renzhi Wang, Piji Li.  [[paper](https://arxiv.org/abs/2405.19086)]
 
-13. **WISE: Rethinking the Knowledge Memory for Lifelong Model Editing of Large Language Models**. <br />
+13. **WISE: Rethinking the Knowledge Memory for Lifelong Model Editing of Large Language Models**. (NeurIPS 2024) <br />
 Peng Wang, Zexi Li, Ningyu Zhang, Ziwen Xu, Yunzhi Yao, Yong Jiang, Pengjun Xie, Fei Huang, Huajun Chen. [[paper](https://arxiv.org/abs/2405.14768)]
 
 14. **MEMLA: Enhancing Multilingual Knowledge Editing with Neuron-Masked Low-Rank Adaptation**. <br />
