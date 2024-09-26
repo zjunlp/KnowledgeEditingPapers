@@ -522,7 +522,10 @@ Ruirui Chen, Weifeng Jiang, Chengwei Qin, Ishaan Singh Rawal, Cheston Tan, Dongk
  Yihuai Hong, Lei Yu, Shauli Ravfogel, Haiqin Yang, Mor Geva. [[paper](https://arxiv.org/abs/2406.11614)]
 40. **Can Editing LLMs Inject Harm?**<br />
  Canyu Chen, Baixiang Huang, Zekun Li, Zhaorun Chen, Shiyang Lai, Xiongxiao Xu, Jia-Chen Gu, Jindong Gu, Huaxiu Yao, Chaowei Xiao, Xifeng Yan, William Yang Wang, Philip Torr, Dawn Song, Kai Shu. [[paper](https://arxiv.org/abs/2407.20224)]
-
+41. **Editing Conceptual Knowledge for Large Language Models** (EMNLP 2024) <br />
+ Xiaohan Wang, Shengyu Mao, Ningyu Zhang, Shumin Deng, Yunzhi Yao, Yue Shen, Lei Liang, Jinjie Gu, Huajun Chen. [[paper](https://arxiv.org/abs/2403.06259)]
+42. **Knowledge Circuits in Pretrained Transformers** (NeurIPS 2024) <br />
+ Yunzhi Yao, Ningyu Zhang, Zekun Xi, Mengru Wang, Ziwen Xu, Shumin Deng, Huajun Chen. [[paper](https://arxiv.org/abs/2405.17969)]
 ## 🧰 Resources
 
 ### Benchmarks and Tasks
