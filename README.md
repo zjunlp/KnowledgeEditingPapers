@@ -229,6 +229,9 @@ Chen Zhu, Ankit Singh Rawat, Manzil Zaheer, Srinadh Bhojanapalli, Daliang Li, Fe
 Updating in Large Language Models** <br /> 
 Shiwen Ni, Dingwei Chen, Chengming Li, Xiping Hu, Ruifeng Xu and Min Yang. [[paper](https://arxiv.org/pdf/2311.08011.pdf)]
 
+3. **LLM Surgery: Efficient Knowledge Unlearning and Editing in Large Language Models** <br /> 
+Akshaj Kumar Veldanda, Shi-Xiong Zhang, Anirban Das, Supriyo Chakraborty, Stephen Rawls, Sambit Sahu, Milind Naphade. [[paper](https://arxiv.org/abs/2409.13054)]
+
 ##### Meta-learning
 
 1. **Editing Factual Knowledge in Language Models**. (EMNLP 2021) <br />
