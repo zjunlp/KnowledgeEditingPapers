@@ -445,6 +445,9 @@ Junzhe Zhang, Huixuan Zhang, Xunjian Yin, Baizhou Huang, Xu Zhang, Xinyu Hu, Xia
 33. **LLM-Based Multi-Hop Question Answering with Knowledge Graph Integration in Evolving Environments**. <br />
 Ruirui Chen, Weifeng Jiang, Chengwei Qin, Ishaan Singh Rawal, Cheston Tan, Dongkyu Choi, Bo Xiong, Bo Ai. [[paper](https://arxiv.org/abs/2408.15903)]
 
+34. **Pioneering Reliable Assessment in Text-to-Image Knowledge Editing: Leveraging a Fine-Grained Dataset and an Innovative Criterion**. <br />
+Hengrui Gu, Kaixiong Zhou, Yili Wang, Ruobing Wang, Xin Wang. [[paper](https://arxiv.org/abs/2409.17928)]
+
 ### Analysis
 1. **Does Localization Inform Editing? Surprising Differences in Causality-Based Localization vs. Knowledge Editing in Language Models.** <br />
     Peter Hase, Mohit Bansal, Been Kim, Asma Ghandeharioun. [[paper](https://arxiv.org/pdf/2301.04213.pdf)] [[code](https://github.com/google/belief-localization)] 
