@@ -448,6 +448,8 @@ Ruirui Chen, Weifeng Jiang, Chengwei Qin, Ishaan Singh Rawal, Cheston Tan, Dongk
 34. **Pioneering Reliable Assessment in Text-to-Image Knowledge Editing: Leveraging a Fine-Grained Dataset and an Innovative Criterion**. <br />
 Hengrui Gu, Kaixiong Zhou, Yili Wang, Ruobing Wang, Xin Wang. [[paper](https://arxiv.org/abs/2409.17928)]
 
+35. **Towards Unified Multimodal Editing with Enhanced Knowledge Collaboration**. <br />
+Kaihang Pan, Zhaoyu Fan, Juncheng Li, Qifan Yu, Hao Fei, Siliang Tang, Richang Hong, Hanwang Zhang, Qianru Sun. [[paper](https://arxiv.org/abs/2409.19872)]
 ### Analysis
 1. **Does Localization Inform Editing? Surprising Differences in Causality-Based Localization vs. Knowledge Editing in Language Models.** <br />
     Peter Hase, Mohit Bansal, Been Kim, Asma Ghandeharioun. [[paper](https://arxiv.org/pdf/2301.04213.pdf)] [[code](https://github.com/google/belief-localization)] 
