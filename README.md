@@ -535,6 +535,8 @@ Kaihang Pan, Zhaoyu Fan, Juncheng Li, Qifan Yu, Hao Fei, Siliang Tang, Richang H
  Xiaohan Wang, Shengyu Mao, Ningyu Zhang, Shumin Deng, Yunzhi Yao, Yue Shen, Lei Liang, Jinjie Gu, Huajun Chen. [[paper](https://arxiv.org/abs/2403.06259)]
 42. **Knowledge Circuits in Pretrained Transformers** (NeurIPS 2024) <br />
  Yunzhi Yao, Ningyu Zhang, Zekun Xi, Mengru Wang, Ziwen Xu, Shumin Deng, Huajun Chen. [[paper](https://arxiv.org/abs/2405.17969)]
+43. **"Why" Has the Least Side Effect on Model Editing** <br />
+ Tsung-Hsuan Pan, Chung-Chi Chen, Hen-Hsen Huang, Hsin-Hsi Chen. [[paper](https://arxiv.org/abs/2409.18679)]
 ## 🧰 Resources
 
 ### Benchmarks and Tasks
