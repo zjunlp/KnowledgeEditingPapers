@@ -157,7 +157,7 @@ Nianwen Si, Hao Zhang, Heyu Chang, Wenlin Zhang, Dan Qu, Weiqiang Zhang. [[paper
      Yiwei Wang,Muhao Chen,Nanyun Peng, Kai-Wei Chang. [[paper](https://arxiv.org/abs/2401.10471)]
 
 12. **Stable Knowledge Editing in Large Language Models**. <br />
-     Zihao Wei,Liang Pang,Hanxing Ding,Jingcheng Deng,Huawei Shen,Xueqi Cheng. [[paper](https://arxiv.org/abs/2402.13093)]
+     Zihao Wei,Liang Pang,Hanxing Ding,Jingcheng Deng,Huawei Shen,Xueqi Cheng. [[paper](https://arxiv.org/abs/2402.13048)]
 
 13. **Knowledge Editing on Black-box Large Language Models**. <br />
      Xiaoshuai Song, Zhengyang Wang, Keqing He, Guanting Dong, Jinxu Zhao, Weiran Xu. [[paper](https://arxiv.org/abs/2402.08631)]
