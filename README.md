@@ -174,6 +174,9 @@ Nianwen Si, Hao Zhang, Heyu Chang, Wenlin Zhang, Dan Qu, Weiqiang Zhang. [[paper
 17. **In-Context Editing: Learning Knowledge from Self-Induced Distributions**. <br />
      Siyuan Qi, Bangcheng Yang, Kailin Jiang, Xiaobo Wang, Jiaqi Li, Yifan Zhong, Yaodong Yang, Zilong Zheng. [[paper](https://arxiv.org/abs/2406.11194)]
 
+18. **Cross-Lingual Multi-Hop Knowledge Editing**. <br />
+     Aditi Khandelwal, Harman Singh, Hengrui Gu, Tianlong Chen, Kaixiong Zhou. [[paper](https://arxiv.org/abs/2407.10275)]
+
 ##### Additional Parameters
 1. **Calibrating Factual Knowledge in Pretrained Language Models**. (EMNLP 2022) <br />
 Qingxiu Dong, Damai Dai, Yifan Song, Jingjing Xu, Zhifang Sui, Lei Li.
@@ -537,6 +540,8 @@ Kaihang Pan, Zhaoyu Fan, Juncheng Li, Qifan Yu, Hao Fei, Siliang Tang, Richang H
  Yunzhi Yao, Ningyu Zhang, Zekun Xi, Mengru Wang, Ziwen Xu, Shumin Deng, Huajun Chen. [[paper](https://arxiv.org/abs/2405.17969)]
 43. **"Why" Has the Least Side Effect on Model Editing** <br />
  Tsung-Hsuan Pan, Chung-Chi Chen, Hen-Hsen Huang, Hsin-Hsi Chen. [[paper](https://arxiv.org/abs/2409.18679)]
+44. **Cross-Lingual Multi-Hop Knowledge Editing**. <br />
+     Aditi Khandelwal, Harman Singh, Hengrui Gu, Tianlong Chen, Kaixiong Zhou. [[paper](https://arxiv.org/abs/2407.10275)]
 ## 🧰 Resources
 
 ### Benchmarks and Tasks
