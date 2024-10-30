@@ -542,6 +542,8 @@ Kaihang Pan, Zhaoyu Fan, Juncheng Li, Qifan Yu, Hao Fei, Siliang Tang, Richang H
  Tsung-Hsuan Pan, Chung-Chi Chen, Hen-Hsen Huang, Hsin-Hsi Chen. [[paper](https://arxiv.org/abs/2409.18679)]
 44. **Cross-Lingual Multi-Hop Knowledge Editing**. <br />
      Aditi Khandelwal, Harman Singh, Hengrui Gu, Tianlong Chen, Kaixiong Zhou. [[paper](https://arxiv.org/abs/2407.10275)]
+45. **Can We Reverse In-Context Knowledge Edits?**<br />
+ Paul Youssef, Zhixue Zhao, Jörg Schlötterer, Christin Seifert. [[paper](https://arxiv.org/abs/2410.12586)]
 ## 🧰 Resources
 
 ### Benchmarks and Tasks
