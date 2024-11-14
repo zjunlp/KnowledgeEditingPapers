@@ -610,6 +610,14 @@ Please cite our paper if find our work useful.
   biburl       = {https://dblp.org/rec/journals/corr/abs-2305-13172.bib},
   bibsource    = {dblp computer science bibliography, https://dblp.org}
 }
+
+@inproceedings{wang2024knowledge,
+  title={Knowledge Mechanisms in Large Language Models: A Survey and Perspective},
+  author={Wang, Mengru and Yao, Yunzhi and Xu, Ziwen and Qiao, Shuofei and Deng, Shumin and Wang, Peng and Chen, Xiang and Gu, Jia-Chen and Jiang, Yong and Xie, Pengjun and others},
+  booktitle={Findings of the Association for Computational Linguistics: EMNLP 2024},
+  pages={7097--7135},
+  year={2024}
+}
 ```
 ## 🎉Contribution
 ### Contributors
