@@ -14,7 +14,8 @@ Must-read papers on [knowledge editing](https://arxiv.org/abs/2305.13172) for la
     | :-----------------: | :---------: | :------------: |
     |NLPCC2024 tutorial | Knowledge Mechanism, Fusion, Editing for LLMs| [Google Drive](https://drive.google.com/file/d/1MCzcOhK89bD2-b3s25Tb9cqDh8dEhIGt/view?usp=sharing)   |
     |Invited Talk | Editing Large Language Models Advancing Machine Understanding and Control| [Google Drive](https://drive.google.com/file/d/19t7BiCsiZx2c_wPZCGbH8BEwe5YSkJOX/view?usp=sharing)   |
-  | CCL2024 tutorial| 大语言模型知识机理、融合与编辑| [BaiduPan](https://pan.baidu.com/s/14IFludc3KROrCdvSYrOfAw?pwd=shja) & [Google Drive](https://drive.google.com/file/d/1Tp7pWAl1MqMvNQUplPS411WQmmAmodcB/view?usp=sharing)   |
+  | CCL2024 tutorial| 大语言模型知识机理、融合与编辑|  [Google Drive](https://drive.google.com/file/d/1Tp7pWAl1MqMvNQUplPS411WQmmAmodcB/view?usp=sharing) & [BaiduPan](https://pan.baidu.com/s/14IFludc3KROrCdvSYrOfAw?pwd=shja)  |
+    | IJCAI2024 tutorial| Knowledge Editing for Large Language Models | [Google Drive](https://drive.google.com/file/d/1sg3Dy3gQo2bwOoLwWMFh57NfHROf3Ahg/view?usp=sharing) |
     | COLING2024 tutorial| Knowledge Editing for Large Language Models| [Google Drive](https://drive.google.com/file/d/1vFzRYjnzkuZaNdjdIxQwWbEybCY7YqY9/view?usp=sharing)   |
     | 北京智源大会| 大语言模型知识机理与编辑问题| [BaiduPan](https://pan.baidu.com/s/1X9n2LAkYYXFnPgkV_2b57Q?pwd=du6w)   |
     | VALSE2024 tutorial| Knowledge Mechanism and Editing for Large Language Models| [Google Drive](https://drive.google.com/file/d/19T-InKopH-VHKAtphy9M6H366dXnenQX/view?usp=sharing)   |
