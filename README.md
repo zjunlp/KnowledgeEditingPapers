@@ -548,6 +548,9 @@ Kaihang Pan, Zhaoyu Fan, Juncheng Li, Qifan Yu, Hao Fei, Siliang Tang, Richang H
  Paul Youssef, Zhixue Zhao, Jörg Schlötterer, Christin Seifert. [[paper](https://arxiv.org/abs/2410.12586)]
 46. **Model Editing for LLMs4Code: How Far are We?**<br />
  Xiaopeng Li, Shangwen Wang, Shasha Li, Jun Ma, Jie Yu, Xiaodong Liu, Jing Wang, Bin Ji, Weimin Zhang. [[paper](https://arxiv.org/abs/2411.06638)]
+47. **Backward Lens: Projecting Language Model Gradients into the Vocabulary Space**<br />
+ Shahar Katz, Yonatan Belinkov, Mor Geva, Lior Wolf. [[paper](https://arxiv.org/abs/2402.12865)]
+
 ## 🧰 Resources
 
 ### Benchmarks and Tasks
