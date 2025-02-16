@@ -179,6 +179,9 @@ Nianwen Si, Hao Zhang, Heyu Chang, Wenlin Zhang, Dan Qu, Weiqiang Zhang. [[paper
 18. **Cross-Lingual Multi-Hop Knowledge Editing**. <br />
      Aditi Khandelwal, Harman Singh, Hengrui Gu, Tianlong Chen, Kaixiong Zhou. [[paper](https://arxiv.org/abs/2407.10275)]
 
+19. **AnyEdit: Edit Any Knowledge Encoded in Language Models**. <br />
+     Houcheng Jiang, Junfeng Fang, Ningyu Zhang, Guojun Ma, Mingyang Wan, Xiang Wang, Xiangnan He, Tat-seng Chua. [[paper](https://arxiv.org/abs/2502.05628)]
+
 ##### Additional Parameters
 1. **Calibrating Factual Knowledge in Pretrained Language Models**. (EMNLP 2022) <br />
 Qingxiu Dong, Damai Dai, Yifan Song, Jingjing Xu, Zhifang Sui, Lei Li.
