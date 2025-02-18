@@ -557,7 +557,10 @@ Yifan Lu, Yigeng Zhou, Jing Li, Yequan Wang, Xuebo Liu, Daojing He, Fangming Liu
  Xiaopeng Li, Shangwen Wang, Shasha Li, Jun Ma, Jie Yu, Xiaodong Liu, Jing Wang, Bin Ji, Weimin Zhang. [[paper](https://arxiv.org/abs/2411.06638)]
 47. **Backward Lens: Projecting Language Model Gradients into the Vocabulary Space**<br />
  Shahar Katz, Yonatan Belinkov, Mor Geva, Lior Wolf. [[paper](https://arxiv.org/abs/2402.12865)]
-
+48. **Position: Editing Large Language Models Poses Serious Safety Risks**<br />
+ Paul Youssef, Zhixue Zhao, Daniel Braun, Jörg Schlötterer, Christin Seifert. [[paper](https://arxiv.org/abs/2502.02958)]
+49. **The Mirage of Model Editing: Revisiting Evaluation in the Wild**<br />
+ Wanli Yang, Fei Sun, Jiajun Tan, Xinyu Ma, Qi Cao, Dawei Yin, Huawei Shen, Xueqi Cheng. [[paper](https://arxiv.org/abs/2502.11177)]
 ## 🧰 Resources
 
 ### Benchmarks and Tasks
