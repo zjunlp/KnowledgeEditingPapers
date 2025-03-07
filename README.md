@@ -347,6 +347,9 @@ Dana Arad, Hadas Orgad, Yonatan Belinkov.  [[paper](https://arxiv.org/pdf/2303.0
 
 26. **Editing Implicit Assumptions in Text-to-Image Diffusion Models**  <br />
 Hadas Orgad, Bahjat Kawar, Yonatan Belinkov.  [[paper](https://arxiv.org/pdf/2303.08084)]
+
+27. **Mass-Editing Memory with Attention in Transformers: A cross-lingual exploration of knowledge**  <br />
+Daniel Tamayo, Aitor Gonzalez-Agirre, Javier Hernando, Marta Villegas.  [[paper](https://arxiv.org/abs/2502.02173)]
 #### More Related Papers
 
 1. **FRUIT: Faithfully Reflecting Updated Information in Text**. (NAACL 2022) <br />
@@ -462,6 +465,13 @@ Kaihang Pan, Zhaoyu Fan, Juncheng Li, Qifan Yu, Hao Fei, Siliang Tang, Richang H
 36. **Knowledge Editing with Dynamic Knowledge Graphs for Multi-hop Question Answering**. <br />
 Yifan Lu, Yigeng Zhou, Jing Li, Yequan Wang, Xuebo Liu, Daojing He, Fangming Liu, Min Zhang. [[paper](https://arxiv.org/abs/2412.13782)]
 
+37. **Everything is Editable: Extend Knowledge Editing to Unstructured Data in Large Language Models**. <br />
+Jingcheng Deng, Zihao Wei, Liang Pang, Hanxing Ding, Huawei Shen, Xueqi Cheng. [[paper](https://arxiv.org/abs/2405.15349)]
+
+38. **SAKE: Steering Activations for Knowledge Editing**. <br />
+Marco Scialanga, Thibault Laugel, Vincent Grari, Marcin Detyniecki. [[paper](https://arxiv.org/abs/2503.01751)]
+
+
 ### Analysis
 1. **Does Localization Inform Editing? Surprising Differences in Causality-Based Localization vs. Knowledge Editing in Language Models.** <br />
     Peter Hase, Mohit Bansal, Been Kim, Asma Ghandeharioun. [[paper](https://arxiv.org/pdf/2301.04213.pdf)] [[code](https://github.com/google/belief-localization)] 
@@ -561,6 +571,10 @@ Yifan Lu, Yigeng Zhou, Jing Li, Yequan Wang, Xuebo Liu, Daojing He, Fangming Liu
  Paul Youssef, Zhixue Zhao, Daniel Braun, Jörg Schlötterer, Christin Seifert. [[paper](https://arxiv.org/abs/2502.02958)]
 49. **The Mirage of Model Editing: Revisiting Evaluation in the Wild**<br />
  Wanli Yang, Fei Sun, Jiajun Tan, Xinyu Ma, Qi Cao, Dawei Yin, Huawei Shen, Xueqi Cheng. [[paper](https://arxiv.org/abs/2502.11177)]
+50. **Position: Editing Large Language Models Poses Serious Safety Risks**<br />
+ Paul Youssef, Zhixue Zhao, Daniel Braun, Jörg Schlötterer, Christin Seifert. [[paper](https://arxiv.org/abs/2502.02958)]
+51. **Constraining Sequential Model Editing with Editing Anchor Compression**. <br />
+Hao-Xiang Xu, Jun-Yu Ma, Zhen-Hua Ling, Ningyu Zhang, Jia-Chen Gu. [[paper](https://arxiv.org/abs/2503.00035)]
 ## 🧰 Resources
 
 ### Benchmarks and Tasks
