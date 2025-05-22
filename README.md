@@ -471,6 +471,8 @@ Jingcheng Deng, Zihao Wei, Liang Pang, Hanxing Ding, Huawei Shen, Xueqi Cheng. [
 38. **SAKE: Steering Activations for Knowledge Editing**. <br />
 Marco Scialanga, Thibault Laugel, Vincent Grari, Marcin Detyniecki. [[paper](https://arxiv.org/abs/2503.01751)]
 
+39. **UltraEdit: Training-, Subject-, and Memory-Free Lifelong Editing in Large Language Models**. <br />
+Xiaojie Gu, Guangxu Chen, Jungang Li, Jia-Chen Gu, Xuming Hu, Kai Zhang. [[paper](https://arxiv.org/abs/2505.14679)]
 
 ### Analysis
 1. **Does Localization Inform Editing? Surprising Differences in Causality-Based Localization vs. Knowledge Editing in Language Models.** <br />
