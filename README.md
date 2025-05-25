@@ -480,6 +480,8 @@ Marco Scialanga, Thibault Laugel, Vincent Grari, Marcin Detyniecki. [[paper](htt
 39. **UltraEdit: Training-, Subject-, and Memory-Free Lifelong Editing in Large Language Models**. <br />
 Xiaojie Gu, Guangxu Chen, Jungang Li, Jia-Chen Gu, Xuming Hu, Kai Zhang. [[paper](https://arxiv.org/abs/2505.14679)]
 
+40. **UniErase: Unlearning Token as a Universal Erasure Primitive for Language Models**. <br /> Miao Yu, Liang Lin, Guibin Zhang, Xinfeng Li, Junfeng Fang, Ningyu Zhang, Kun Wang, Yang Wang. [[paper](https://arxiv.org/abs/2505.15674)]
+
 ### Analysis
 1. **Does Localization Inform Editing? Surprising Differences in Causality-Based Localization vs. Knowledge Editing in Language Models.** <br />
     Peter Hase, Mohit Bansal, Been Kim, Asma Ghandeharioun. [[paper](https://arxiv.org/pdf/2301.04213.pdf)] [[code](https://github.com/google/belief-localization)] 
