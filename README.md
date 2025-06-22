@@ -487,6 +487,9 @@ Mengru Wang, Ziwen Xu, Shengyu Mao, Shumin Deng, Zhaopeng Tu, Huajun Chen, Ningy
 
 42. **Mitigating Safety Fallback in Editing-based Backdoor Injection on LLMs**. <br /> Houcheng Jiang, Zetong Zhao, Junfeng Fang, Haokai Ma, Ruipeng Wang, Yang Deng, Xiang Wang, Xiangnan He. [[paper](https://www.arxiv.org/abs/2506.13285)]
 
+43. **MobiEdit: Resource-efficient Knowledge Editing for Personalized On-device LLMs**. <br />
+Zhenyan Lu, Daliang Xu, Dongqi Cai, Zexi Li, Wei Liu, Fangming Liu, Shangguang Wang, Mengwei Xu. [[paper](https://www.arxiv.org/abs/2506.13772)]
+
 ### Analysis
 1. **Does Localization Inform Editing? Surprising Differences in Causality-Based Localization vs. Knowledge Editing in Language Models.** <br />
     Peter Hase, Mohit Bansal, Been Kim, Asma Ghandeharioun. [[paper](https://arxiv.org/pdf/2301.04213.pdf)] [[code](https://github.com/google/belief-localization)] 
