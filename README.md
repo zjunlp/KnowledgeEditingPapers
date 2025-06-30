@@ -557,7 +557,7 @@ Zhenyan Lu, Daliang Xu, Dongqi Cai, Zexi Li, Wei Liu, Fangming Liu, Shangguang W
  Hao Peng, Xiaozhi Wang, Chunyang Li, Kaisheng Zeng, Jiangshan Duo, Yixin Cao, Lei Hou, Juanzi Li. [[paper](https://arxiv.org/abs/2402.13093)]
 33. **Updating Language Models with Unstructured Facts: Towards Practical Knowledge Editing**<br />
  Xiaobao Wu, Liangming Pan, William Yang Wang, Anh Tuan Luu. [[paper](https://arxiv.org/abs/2402.18909)]
-34. **Detecting Edited Knowledge in Language Models**<br />
+34. **Has this Fact been Edited? Detecting Knowledge Edits in Language Models** (NAACL 2025) <br />
  Paul Youssef, Zhixue Zhao, Jörg Schlötterer, Christin Seifert. [[paper](https://arxiv.org/abs/2405.02765)]
 35. **Perturbation-Restrained Sequential Model Editing**<br />
  Jun-Yu Ma, Hong Wang, Hao-Xiang Xu, Zhen-Hua Ling, Jia-Chen Gu. [[paper](https://arxiv.org/abs/2405.16821)]
@@ -579,7 +579,7 @@ Zhenyan Lu, Daliang Xu, Dongqi Cai, Zexi Li, Wei Liu, Fangming Liu, Shangguang W
  Tsung-Hsuan Pan, Chung-Chi Chen, Hen-Hsen Huang, Hsin-Hsi Chen. [[paper](https://arxiv.org/abs/2409.18679)]
 44. **Cross-Lingual Multi-Hop Knowledge Editing**. <br />
      Aditi Khandelwal, Harman Singh, Hengrui Gu, Tianlong Chen, Kaixiong Zhou. [[paper](https://arxiv.org/abs/2407.10275)]
-45. **Can We Reverse In-Context Knowledge Edits?**<br />
+45. **How to Make LLMs Forget: On Reversing In-Context Knowledge Edits** (NAACL 2025) <br />
  Paul Youssef, Zhixue Zhao, Jörg Schlötterer, Christin Seifert. [[paper](https://arxiv.org/abs/2410.12586)]
 46. **Model Editing for LLMs4Code: How Far are We?**<br />
  Xiaopeng Li, Shangwen Wang, Shasha Li, Jun Ma, Jie Yu, Xiaodong Liu, Jing Wang, Bin Ji, Weimin Zhang. [[paper](https://arxiv.org/abs/2411.06638)]
