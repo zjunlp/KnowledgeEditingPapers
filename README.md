@@ -40,29 +40,34 @@ Must-read papers on [knowledge editing](https://arxiv.org/abs/2305.13172) for la
 
 ## 🔍 Contents
 
-- [🌟 Why Knowledge Editing?](#-why-knowledge-editing)
- - [Keywords](#keywords)
-- [Comparisons of the different technologies](#comparisons-of-different-technologies)
-- [📜 Papers](#-papers)
-  - [Overview](#overview)
-  - [Methods](#methods)
-    - [Preserve Parameters](#preserve-parameters)
-      - [Memory Based](#memory-based)
-      - [Additional Parameters](#additional-parameters)
-    - [Modify Parameters](#modify-parameters)
-      - [Finetuning](#finetuning)
-      - [Meta-learning](#meta-learning)
-      - [Locate and edit](#locate-and-edit)
-    - [More Related Papers](#more-related-papers)
-  - [Analysis](#analysis)
-- [🧰 Resources](#-resources)
+- [Knowledge Editing for LLMs Papers](#knowledge-editing-for-llms-papers)
+  - [🔔 News](#-news)
+  - [🔍 Contents](#-contents)
+  - [🌟 Why Knowledge Editing?](#-why-knowledge-editing)
+    - [Keywords](#keywords)
+  - [Comparisons of different technologies](#comparisons-of-different-technologies)
+  - [📜 Resources](#-resources)
+    - [Tutorials](#tutorials)
+    - [Surveys](#surveys)
+    - [Methods](#methods)
+      - [Preserve Parameters](#preserve-parameters)
+        - [Memory-based](#memory-based)
+        - [Additional Parameters](#additional-parameters)
+        - [Change LM's representation space](#change-lms-representation-space)
+      - [Modify Parameters](#modify-parameters)
+        - [Finetuning](#finetuning)
+        - [Meta-learning](#meta-learning)
+        - [Locate and edit](#locate-and-edit)
+      - [More Related Papers](#more-related-papers)
+    - [Analysis](#analysis)
+  - [🧰 Resources](#-resources-1)
     - [Benchmarks and Tasks](#benchmarks-and-tasks)
     - [Tools](#tools)
-- [🎉 Contribution](#contribution)
-  - [Contributors](#contributors)
-  - [Contributing to this paper list](#contributing-to-this-paper-list)
-  - [Acknowledgement](#acknowledgement)
-- [🚩Citation ](#-citation)
+  - [Citation](#citation)
+  - [🎉Contribution](#contribution)
+    - [Contributors](#contributors)
+    - [Contributing to this paper list](#contributing-to-this-paper-list)
+    - [Acknowledgement](#acknowledgement)
 
 ---
 
@@ -181,6 +186,9 @@ Nianwen Si, Hao Zhang, Heyu Chang, Wenlin Zhang, Dan Qu, Weiqiang Zhang. [[paper
 
 19. **AnyEdit: Edit Any Knowledge Encoded in Language Models**. <br />
      Houcheng Jiang, Junfeng Fang, Ningyu Zhang, Guojun Ma, Mingyang Wan, Xiang Wang, Xiangnan He, Tat-seng Chua. [[paper](https://arxiv.org/abs/2502.05628)]
+
+20. **Larimar: Large Language Models with Episodic Memory Control**. <br />
+     Payel Das, Subhajit Chaudhury, Elliot Nelson, Igor Melnyk, Sarath Swaminathan, Sihui Dai, Aurélie Lozano, Georgios Kollias, Vijil Chenthamarakshan, Jiří Navrátil, Soham Dan, Pin-Yu Chen. [[paper](https://arxiv.org/abs/2403.11901)]
 
 ##### Additional Parameters
 1. **Calibrating Factual Knowledge in Pretrained Language Models**. (EMNLP 2022) <br />
