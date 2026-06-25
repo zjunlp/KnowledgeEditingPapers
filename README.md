@@ -351,10 +351,10 @@ Hadas Orgad, Bahjat Kawar, Yonatan Belinkov.  [[paper](https://arxiv.org/pdf/230
 27. **Mass-Editing Memory with Attention in Transformers: A cross-lingual exploration of knowledge**  <br />
 Daniel Tamayo, Aitor Gonzalez-Agirre, Javier Hernando, Marta Villegas.  [[paper](https://arxiv.org/abs/2502.02173)]
 
-28. **NAMET: Robust Massive Model Editing via Noise-Aware Memory Optimization**  <br />
+28. **EAMET: Robust Massive Model Editing via Embedding Alignment Optimization**  <br />
 Yanbo Dai, Zhenlan Ji, Zongjie Li, Shuai Wang.
 [[paper](https://arxiv.org/abs/2505.11876)]
-[[code](https://github.com/ybdai7/NAMET-massive-editing)]
+[[code](https://github.com/ybdai7/EAMET-massive-editing)]
 
 #### More Related Papers
 
