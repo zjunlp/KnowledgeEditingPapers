@@ -47,6 +47,7 @@ Must-read papers on [knowledge editing](https://arxiv.org/abs/2305.13172) for la
     - [Keywords](#keywords)
   - [Comparisons of different technologies](#comparisons-of-different-technologies)
   - [📜 Resources](#-resources)
+    - [Perspective](#perspective)
     - [Tutorials](#tutorials)
     - [Surveys](#surveys)
     - [Methods](#methods)
@@ -90,6 +91,10 @@ Knowledge Editing has strong connections with following topics.
 
 ## 📜 Resources
 This is a collection of research and review papers of Knowledge Editing. Any suggestions and pull requests are welcome for better sharing of latest research progress.
+### Perspective
+**Towards principled knowledge editing methods for large language model reasoning** (Nature Machine Intelligence 2026) <br />
+Ningyu Zhang, Yunzhi Yao, Jiaxin Qin, Haoming Xu, Yuqi Zhu, Zeping Yu, Mengru Wang, Yuqi Tang, Jia-Chen Gu, Shumin Deng, Huajun Chen. [[paper](https://www.nature.com/articles/s42256-026-01276-y)]
+
 ### Tutorials
 
 **Knowledge Editing for Large Language Models, AAAI 2024 Tutorial**  <br /> 
